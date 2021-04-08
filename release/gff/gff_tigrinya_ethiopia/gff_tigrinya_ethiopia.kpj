@@ -12,7 +12,7 @@
       <ID>id_15b398ddd59c4ed96532bf79befbb12c</ID>
       <Filename>gff_tigrinya_ethiopia.kmn</Filename>
       <Filepath>source\gff_tigrinya_ethiopia.kmn</Filepath>
-      <FileVersion></FileVersion>
+      <FileVersion>1.3.13</FileVersion>
       <FileType>.kmn</FileType>
       <Details>
         <Name>ትግርኛ (Tigrinya)</Name>
@@ -265,6 +265,14 @@
       <Filepath>source\..\..\..\shared\fonts\sil\abyssinica\AbyssinicaSIL-Regular.ttf</Filepath>
       <FileVersion></FileVersion>
       <FileType>.ttf</FileType>
+      <ParentFileID>id_a2cb378b738abdcf8e94b036db2e0b91</ParentFileID>
+    </File>
+    <File>
+      <ID>id_fc2b4da1253e680c08edd99654a24781</ID>
+      <Filename>gff_tigrinya_ethiopia.css</Filename>
+      <Filepath>source\gff_tigrinya_ethiopia.css</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.css</FileType>
       <ParentFileID>id_a2cb378b738abdcf8e94b036db2e0b91</ParentFileID>
     </File>
   </Files>

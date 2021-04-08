@@ -1,0 +1,22 @@
+/* Green Diacritics on Android (Preferred selector) */
+/* .kmw-keyboard-gff_tigrinya_ethiopia #default-K_H-U_1210, */
+.kmw-keyboard-gff_tigrinya_ethiopia #default-K_E { background:  #baed91 ; color: black; }
+
+.kmw-keyboard-gff_tigrinya_ethiopia #default-K_H-U_1201 ,
+.kmw-keyboard-gff_tigrinya_ethiopia #default-K_U  { background:  #faf884  ; color: black; }
+.kmw-keyboard-gff_tigrinya_ethiopia #default-K_I  { background:  #fea3aa  ; color: black; }
+.kmw-keyboard-gff_tigrinya_ethiopia #default-K_A  { background: #b2cefe  ; color: black; }
+.kmw-keyboard-gff_tigrinya_ethiopia #default-T_HAMIS { background: #f8b88b  ; color: black; }
+.kmw-keyboard-gff_tigrinya_ethiopia #default-K_O  { background:  #f2a2e8  ; color: black; }
+
+div#popup-default-U_1250 { background:  #baed91 ; color: black; }
+div#popup-default-U_1211 { background:  #faf884  ; color: black; }
+div#popup-default-U_1212  { background:  #fea3aa  ; color: black; }
+
+.ios.kmw-keyboard-gff_tigrinya_ethiopia #default-U_1201,
+.ios.kmw-keyboard-gff_tigrinya_ethiopia #default-U_1210,
+.ios.kmw-keyboard-gff_tigrinya_ethiopia #default-K_E { background: greenyellow; }
+
+.android.kmw-keyboard-gff_tigrinya_ethiopia #default-U_1201,
+.android.kmw-keyboard-gff_tigrinya_ethiopia #default-U_1210,
+.android.kmw-keyboard-gff_tigrinya_ethiopia #default-K_E { background: greenyellow; }

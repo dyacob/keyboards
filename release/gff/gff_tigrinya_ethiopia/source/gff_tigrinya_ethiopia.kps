@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Package>
   <System>
-    <KeymanDeveloperVersion>13.0.107.0</KeymanDeveloperVersion>
+    <KeymanDeveloperVersion>14.0.271.0</KeymanDeveloperVersion>
     <FileVersion>7.0</FileVersion>
   </System>
   <Options>
@@ -210,6 +210,12 @@
       <Description>Font Abyssinica SIL</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>gff_tigrinya_ethiopia.css</Name>
+      <Description>File gff_tigrinya_ethiopia.css</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.css</FileType>
     </File>
   </Files>
   <Keyboards>
