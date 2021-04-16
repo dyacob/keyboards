@@ -1,9 +1,9 @@
 አማርኛ (Amharic) Classic Keyboard
 ==============================
 
-Copyright (C) 1997-2020 Ge'ez Frontier Foundation, SIL International
+Copyright (C) 1997-2021 Ge'ez Frontier Foundation, SIL International
 
-Version 2.0
+Version 2.1
 
 This is an Amharic (amh, አማርኛ) language mnemonic input method for mobile platforms based on a US-QWERTY layout. The package should *only* be installed on mobile and tablet devices.
 
