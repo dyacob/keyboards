@@ -13,7 +13,7 @@
     <FollowKeyboardVersion/>
   </Options>
   <StartMenu>
-    <Folder>GFF Amharic Keyboard</Folder>
+    <Folder>GFF Geʾez Keyboard</Folder>
     <AddUninstallEntry/>
     <Items>
       <Item>
@@ -93,8 +93,8 @@
       <FileType>.htm</FileType>
     </File>
     <File>
-      <Name>..\build\gff_geez_starburst.js</Name>
-      <Description>File gff_geez_starburst.js</Description>
+      <Name>..\build\gff_geez_mesob.js</Name>
+      <Description>File gff_geez_mesob.js</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.js</FileType>
     </File>
@@ -107,8 +107,8 @@
   </Files>
   <Keyboards>
     <Keyboard>
-      <Name>Geʾez Starburst</Name>
-      <ID>gff_geez_starburst</ID>
+      <Name>Geʾez Mesob</Name>
+      <ID>gff_geez_mesob</ID>
       <Version>1.0</Version>
       <OSKFont>..\..\..\shared\fonts\sil\abyssinica\AbyssinicaSIL-Regular.ttf</OSKFont>
       <DisplayFont>..\..\..\shared\fonts\sil\abyssinica\AbyssinicaSIL-Regular.ttf</DisplayFont>

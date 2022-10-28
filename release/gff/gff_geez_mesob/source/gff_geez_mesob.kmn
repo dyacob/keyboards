@@ -1,7 +1,7 @@
 ﻿c =====================Begin Identity Section===================================================
 c 
-c The Geʾez Frontier Foundation's mnemonic input method for Amharic script on US-QWERTY
-c keyboards for SIL Keyman, compliant with Unicode 4.1 and later.
+c The Geʾez Frontier Foundation's mnemonic input method for Geʾez (Ethiopic) script on US-QWERTY
+c keyboards for SIL Keyman, compliant with Unicode 14 and later.
 c 
 c Keyman        :  http://www.keyman.com/
 c Documentation :  https://help.keyman.com/keyboard/gff_amharic/2.0/gff_amharic.php
@@ -17,8 +17,8 @@ store(&NAME) 'Geʾez Mesob'
 store(&COPYRIGHT) '© 2022 Geʾez Frontier Foundation'
 store(&Message) "This is an Amharic language mnemonic input method for Ethiopic script that requires Unicode 4.1 support."
 store(&CapsAlwaysOff) '1'
-store(&LAYOUTFILE) 'gff_geez_starburst.keyman-touch-layout'
-store(&KMW_EMBEDCSS) 'gff_geez_starburst.css'
+store(&LAYOUTFILE) 'gff_geez_mesob.keyman-touch-layout'
+store(&KMW_EMBEDCSS) 'gff_geez_mesob.css'
 c 
 c =====================End Identity Section=====================================================
 
