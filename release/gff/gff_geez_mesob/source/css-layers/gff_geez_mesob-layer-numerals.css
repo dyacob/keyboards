@@ -1,0 +1,82 @@
+/*
+ * Pastel colors for GFF Keyboards
+ * Primarily from: https://www.behance.net/gallery/125405749/Top-10-trending-pastel-color-palettes-in-2021
+ */
+
+/*
+*  =========== NUMERALS LAYER ===========
+*
+*/
+/* numeral layer: western numerals */
+.kmw-keyboard-gff_geez_mesob #numerals-K_1, /* 1 */
+.kmw-keyboard-gff_geez_mesob #numerals-K_2, /* 2 */
+.kmw-keyboard-gff_geez_mesob #numerals-K_3, /* 3 */
+.kmw-keyboard-gff_geez_mesob #numerals-K_4, /* 4 */
+.kmw-keyboard-gff_geez_mesob #numerals-K_5, /* 5 */
+.kmw-keyboard-gff_geez_mesob #numerals-K_6, /* 6 */
+.kmw-keyboard-gff_geez_mesob #numerals-K_7, /* 7 */
+.kmw-keyboard-gff_geez_mesob #numerals-K_8, /* 8 */
+.kmw-keyboard-gff_geez_mesob #numerals-K_9, /* 9 */
+.kmw-keyboard-gff_geez_mesob #numerals-K_0 /* 0 */
+  { background:  #ebece6  ; color: black; } 
+
+
+/* numeral layer: western numerals */
+.kmw-keyboard-gff_geez_mesob #numerals-U_1369, /* ፲ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_136A, /* ፳ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_136B, /* ፴ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_136C, /* ፵ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_136D, /* ፶ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_136E, /* ፷ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_136F, /* ፸ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_1370, /* ፹ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_1371, /* ፺ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_137C  /* ፻ */
+  { background:  #ece1d5  ; color: black; } 
+
+/* numeral layer: western numerals */
+.kmw-keyboard-gff_geez_mesob #numerals-U_1372, /* ፲ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_1373, /* ፳ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_1374, /* ፴ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_1375, /* ፵ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_1376, /* ፶ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_1377, /* ፷ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_1378, /* ፸ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_1379, /* ፹ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_137A, /* ፺ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_137B  /* ፻ */
+  { background:  #f3d6ce  ; color: black; }
+
+/* numeral layer: western numerals */
+.kmw-keyboard-gff_geez_mesob #numerals-K_NUMLOCK,
+.kmw-keyboard-gff_geez_mesob #numerals-U_1361, /* ፡ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_1362, /* ። */
+.kmw-keyboard-gff_geez_mesob #numerals-U_1363, /* ፣ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_1364, /* ፤ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_1365, /* ፥ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_1366, /* ፦ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_1367, /* ፯ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_1360, /* ፠ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_1368, /* ፨ */
+.kmw-keyboard-gff_geez_mesob #numerals-K_BKSP 
+  { background:  #ece1d5  ; color: black; }
+
+/* numeral layer: western numerals */
+.kmw-keyboard-gff_geez_mesob #numerals-K_LOPT, 
+.kmw-keyboard-gff_geez_mesob #numerals-U_00AB, /* « */
+.kmw-keyboard-gff_geez_mesob #numerals-U_2039, /* ‹ */
+.kmw-keyboard-gff_geez_mesob #numerals-U_201C, /* “ */
+.kmw-keyboard-gff_geez_mesob #numerals-K_HYPHEN, /* - */
+.kmw-keyboard-gff_geez_mesob #numerals-U_201D, /* ” */
+.kmw-keyboard-gff_geez_mesob #numerals-U_203A, /* › */
+.kmw-keyboard-gff_geez_mesob #numerals-U_00BB, /* » */
+.kmw-keyboard-gff_geez_mesob #numerals-K_ENTER
+  { background:  #ebece6  ; color: black; } 
+
+
+.kmw-keyboard-gff_geez_mesob #numerals-K_SPACE
+  { background: #f4eee7; color: #f4eee7; } /* light peach: fff5ec */
+
+.kmw-keyboard-gff_geez_mesob #numerals-K_4\+shift,
+.kmw-keyboard-gff_geez_mesob #numerals-K_PERIOD
+  { background: #f4eee7; color: black; }
