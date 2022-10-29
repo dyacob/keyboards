@@ -9,12 +9,16 @@
   </Options>
   <Files>
     <File>
-      <ID>id_e7dff052e4ed249011df55ea382985e0</ID>
+      <ID>id_78da397252dc2ae12733ab8fc7b7e327</ID>
       <Filename>gff_geez_mesob.kmn</Filename>
       <Filepath>source\gff_geez_mesob.kmn</Filepath>
       <FileVersion>1.0</FileVersion>
       <FileType>.kmn</FileType>
-      <Details/>
+      <Details>
+        <Name>Geʾez Mesob</Name>
+        <Copyright>© 2022 Geʾez Frontier Foundation</Copyright>
+        <Message>This is an Amharic language mnemonic input method for Ethiopic script that requires Unicode 4.1 support.</Message>
+      </Details>
     </File>
     <File>
       <ID>id_bafdf9f7b8fc0032b41d8ac0555739ac</ID>
@@ -37,7 +41,7 @@
     <File>
       <ID>id_aeaf5bd1ab60ff73dd2fe4756d7fc2db</ID>
       <Filename>readme.htm</Filename>
-      <Filepath>..\..\shared\gff\readme.htm</Filepath>
+      <Filepath>source\..\..\..\shared\gff\readme.htm</Filepath>
       <FileVersion></FileVersion>
       <FileType>.htm</FileType>
       <ParentFileID>id_bafdf9f7b8fc0032b41d8ac0555739ac</ParentFileID>
@@ -45,7 +49,7 @@
     <File>
       <ID>id_4dac821376a66e3dd471d6d4d6c77c7e</ID>
       <Filename>sideimage.bmp</Filename>
-      <Filepath>..\..\shared\gff\sideimage.bmp</Filepath>
+      <Filepath>source\..\..\..\shared\gff\sideimage.bmp</Filepath>
       <FileVersion></FileVersion>
       <FileType>.bmp</FileType>
       <ParentFileID>id_bafdf9f7b8fc0032b41d8ac0555739ac</ParentFileID>
@@ -53,7 +57,7 @@
     <File>
       <ID>id_90434375fde64a2c595f8ba32a6e1662</ID>
       <Filename>OFL.txt</Filename>
-      <Filepath>..\..\shared\fonts\geez\OFL.txt</Filepath>
+      <Filepath>source\..\..\..\shared\fonts\geez\OFL.txt</Filepath>
       <FileVersion></FileVersion>
       <FileType>.txt</FileType>
       <ParentFileID>id_bafdf9f7b8fc0032b41d8ac0555739ac</ParentFileID>
@@ -67,9 +71,9 @@
       <ParentFileID>id_bafdf9f7b8fc0032b41d8ac0555739ac</ParentFileID>
     </File>
     <File>
-      <ID>id_768571d58c05347aef47069bcf70a90f</ID>
+      <ID>id_e79e0b6be7be2e9526d2654c59953019</ID>
       <Filename>gff_geez_mesob.js</Filename>
-      <Filepath>build\gff_geez_mesob.js</Filepath>
+      <Filepath>source\..\build\gff_geez_mesob.js</Filepath>
       <FileVersion></FileVersion>
       <FileType>.js</FileType>
       <ParentFileID>id_bafdf9f7b8fc0032b41d8ac0555739ac</ParentFileID>
@@ -77,7 +81,7 @@
     <File>
       <ID>id_4363caa0e944c8464fd764595ad9e5a2</ID>
       <Filename>AbyssinicaSIL-Regular.ttf</Filename>
-      <Filepath>..\..\shared\fonts\sil\abyssinica\AbyssinicaSIL-Regular.ttf</Filepath>
+      <Filepath>source\..\..\..\shared\fonts\sil\abyssinica\AbyssinicaSIL-Regular.ttf</Filepath>
       <FileVersion></FileVersion>
       <FileType>.ttf</FileType>
       <ParentFileID>id_bafdf9f7b8fc0032b41d8ac0555739ac</ParentFileID>
