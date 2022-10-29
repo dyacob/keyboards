@@ -139,7 +139,7 @@
 .phone div.kmw-key.kmw-key-default[id*='K_V'], .tablet div.kmw-key.kmw-key-default[id*='K_V'],
 .phone div.kmw-key.kmw-key-default[id*='U_2019'], .tablet div.kmw-key.kmw-key-default[id*='U_2019'],
 .phone div.kmw-key.kmw-key-default[id*='U_1362'], .tablet div.kmw-key.kmw-key-default[id*='U_1362'],
-.phone div.kmw-key.kmw-key-default[id*='U_1280'], .tablet div.kmw-key.kmw-key-default[id*='U_1280'],
+.phone div.kmw-key.kmw-key-default[id*='T_1280'], .tablet div.kmw-key.kmw-key-default[id*='T_1280'],
 .phone div.kmw-key.kmw-key-default[id*='K_NUMLOCK'], .tablet div.kmw-key.kmw-key-default[id*='K_NUMLOCK'] 
 /* { background: #ece1d5  ; color: black; } */
   { background: #f3d6ce  ; color: black; }
@@ -152,11 +152,12 @@
 .phone div.kmw-key.kmw-key-default[id*='T_ሳድስ'], .tablet div.kmw-key.kmw-key-default[id*='T_ሳድስ'],
 .phone div.kmw-key.kmw-key-default[id*='T_ሳብዕ'], .tablet div.kmw-key.kmw-key-default[id*='T_ሳብዕ'],
 .phone div.kmw-key.kmw-key-default[id*='T_WWA'], .tablet div.kmw-key.kmw-key-default[id*='T_WWA'],
-.phone div.kmw-key.kmw-key-default[id*='K_LOPT'], .tablet div.kmw-key.kmw-key-default[id*='K_LOPT'],
-.phone div.kmw-key.kmw-key-default[id*='K_BKSP'], .tablet div.kmw-key.kmw-key-default[id*='K_BKSP'],
-.phone div.kmw-key.kmw-key-default[id*='K_ENTER'], .tablet div.kmw-key.kmw-key-default[id*='K_ENTER'] 
+.phone div.kmw-key.kmw-key-shift[id*='K_LOPT'], .tablet div.kmw-key.kmw-key-shift[id*='K_LOPT'],
+.phone div.kmw-key.kmw-key-shift[id*='K_BKSP'], .tablet div.kmw-key.kmw-key-shift[id*='K_BKSP'],
+.phone div.kmw-key.kmw-key-shift[id*=K_ENTER], .tablet div.kmw-key.kmw-key-shift[id*=K_ENTER]
 /* { background: #f3d6ce  ; color: black; } */
   { background: #ece1d5  ; color: black; }
+
 
 /* default layer ግዕዝ */
 .phone div.kmw-key.kmw-key-default[id*='U_1200'], .tablet div.kmw-key.kmw-key-default[id*='U_1200'],  /* ሀ */
@@ -236,7 +237,7 @@
 .phone div.kmw-key.kmw-key-default[id*='U_1339'], .tablet div.kmw-key.kmw-key-default[id*='U_1339'],  /* ጹ */
 .phone div.kmw-key.kmw-key-default[id*='U_1341'], .tablet div.kmw-key.kmw-key-default[id*='U_1341'],  /* ፁ */
 .phone div.kmw-key.kmw-key-default[id*='U_1349'], .tablet div.kmw-key.kmw-key-default[id*='U_1349'],  /* ፉ */
-.phone div.kmw-key.kmw-key-default[id*='U_1351'], .tablet div.kmw-key.kmw-key-default[id*='U_1351'],   /* ፑ */
+.phone div.kmw-key.kmw-key-default[id*='U_1351'], .tablet div.kmw-key.kmw-key-default[id*='U_1351']   /* ፑ */
   { background:  #ffffb5 ; color: black; } /* #faf884 */ 
 
 /* default layer ሣልስ */
