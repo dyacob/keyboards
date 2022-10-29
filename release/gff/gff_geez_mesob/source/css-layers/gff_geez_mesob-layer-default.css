@@ -10,11 +10,11 @@
 .kmw-keyboard-gff_geez_mesob #default-K_H,
 .kmw-keyboard-gff_geez_mesob #default-K_M,
 .kmw-keyboard-gff_geez_mesob #default-K_Q,
-.kmw-keyboard-gff_geez_mesob #default-U_12A0,
+.kmw-keyboard-gff_geez_mesob #default-T_12A0,
 .kmw-keyboard-gff_geez_mesob #default-K_T,
 .kmw-keyboard-gff_geez_mesob #default-K_K,
 .kmw-keyboard-gff_geez_mesob #default-K_1\+shift,
-.kmw-keyboard-gff_geez_mesob #default-K_BKSLASH\+shift
+.kmw-keyboard-gff_geez_mesob #default-K_BKSLASH\+shift 
   { background:  #ffffb5  ; color: black; }
 
 /* 2nd ring */
@@ -25,14 +25,14 @@
 .kmw-keyboard-gff_geez_mesob #default-K_N\+shift,
 .kmw-keyboard-gff_geez_mesob #default-K_G\+shift,
 .kmw-keyboard-gff_geez_mesob #default-K_B,
-.kmw-keyboard-gff_geez_mesob #default-U_12D0,
+.kmw-keyboard-gff_geez_mesob #default-T_12D0,
 .kmw-keyboard-gff_geez_mesob #default-K_T\+shift,
 .kmw-keyboard-gff_geez_mesob #default-K_C,
 .kmw-keyboard-gff_geez_mesob #default-K_C\+shift,
 .kmw-keyboard-gff_geez_mesob #default-K_K\+shift,
 .kmw-keyboard-gff_geez_mesob #default-K_G,
 .kmw-keyboard-gff_geez_mesob #default-K_Y,
-.kmw-keyboard-gff_geez_mesob #default-K_SPACE\+shift
+.kmw-keyboard-gff_geez_mesob #default-K_SPACE\+shift 
   { background:  #e2f0cb ; color: black; }
 
 /* 3rd ring */
@@ -45,20 +45,20 @@
 .kmw-keyboard-gff_geez_mesob #default-K_P\+shift,
 .kmw-keyboard-gff_geez_mesob #default-K_W,
 .kmw-keyboard-gff_geez_mesob #default-K_Z,
-.kmw-keyboard-gff_geez_mesob #default-K_Z\+shift
+.kmw-keyboard-gff_geez_mesob #default-K_Z\+shift 
   { background: #ccf1ff  ; color: black; }
 
 /* 4th ring */
-.kmw-keyboard-gff_geez_mesob #default-U_1340,
+.kmw-keyboard-gff_geez_mesob #default-T_1340,
 .kmw-keyboard-gff_geez_mesob #default-K_J,
-.kmw-keyboard-gff_geez_mesob #default-U_1E7E0,
-.kmw-keyboard-gff_geez_mesob #default-U_1220,
+.kmw-keyboard-gff_geez_mesob #default-T_1E7E0,
+.kmw-keyboard-gff_geez_mesob #default-T_1220,
 .kmw-keyboard-gff_geez_mesob #default-K_Q\+shift,
 .kmw-keyboard-gff_geez_mesob #default-K_V,
 .kmw-keyboard-gff_geez_mesob #default-U_2019,
 .kmw-keyboard-gff_geez_mesob #default-U_1362,
 .kmw-keyboard-gff_geez_mesob #default-U_1280,
-.kmw-keyboard-gff_geez_mesob #default-K_NUMLOCK
+.kmw-keyboard-gff_geez_mesob #default-K_NUMLOCK 
 /* { background: #ece1d5  ; color: black; } */
   { background: #f3d6ce  ; color: black; }
 
@@ -72,7 +72,7 @@
 .kmw-keyboard-gff_geez_mesob #default-T_WWA,
 .kmw-keyboard-gff_geez_mesob #default-K_LOPT,
 .kmw-keyboard-gff_geez_mesob #default-K_BKSP,
-.kmw-keyboard-gff_geez_mesob #default-K_ENTER
+.kmw-keyboard-gff_geez_mesob #default-K_ENTER 
 /* { background: #f3d6ce  ; color: black; } */
   { background: #ece1d5  ; color: black; }
 
@@ -318,7 +318,7 @@ div#popup-default-U_133D,  /* ጽ */
 div#popup-default-U_1345,  /* ፅ */
 div#popup-default-U_134D,  /* ፍ */
 div#popup-default-U_1355   /* ፕ */
-{ background: #eceae4; color: black; }
+  { background: #eceae4; color: black; }
 
 /* default layer ሳብዕ */
 div#popup-default-U_1206,  /* ሆ */
@@ -359,7 +359,7 @@ div#popup-default-U_133E,  /* ጾ */
 div#popup-default-U_1346,  /* ፆ */
 div#popup-default-U_134E,  /* ፎ */
 div#popup-default-U_1356   /* ፖ */
-{ background:  #fad6b6  ; color: black; } /* f8b88b*/
+  { background:  #fad6b6  ; color: black; } /* f8b88b*/
 
 
 /* default layer ዘመደ-ራብዕ */
