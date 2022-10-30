@@ -18,8 +18,7 @@
 .kmw-keyboard-gff_geez_mesob #numerals-K_8, /* 8 */
 .kmw-keyboard-gff_geez_mesob #numerals-K_9, /* 9 */
 .kmw-keyboard-gff_geez_mesob #numerals-K_0 /* 0 */
-  { background:  #ebece6  ; color: black; } 
-
+  { background:  #ebece6 ; color: black ; } 
 
 /* numeral layer: western numerals */
 .kmw-keyboard-gff_geez_mesob #numerals-U_1369, /* ፲ */
@@ -32,7 +31,7 @@
 .kmw-keyboard-gff_geez_mesob #numerals-U_1370, /* ፹ */
 .kmw-keyboard-gff_geez_mesob #numerals-U_1371, /* ፺ */
 .kmw-keyboard-gff_geez_mesob #numerals-U_137C  /* ፻ */
-  { background:  #ece1d5  ; color: black; } 
+  { background:  #ece1d5 ; color: black ; } 
 
 /* numeral layer: western numerals */
 .kmw-keyboard-gff_geez_mesob #numerals-U_1372, /* ፲ */
@@ -45,7 +44,7 @@
 .kmw-keyboard-gff_geez_mesob #numerals-U_1379, /* ፹ */
 .kmw-keyboard-gff_geez_mesob #numerals-U_137A, /* ፺ */
 .kmw-keyboard-gff_geez_mesob #numerals-U_137B  /* ፻ */
-  { background:  #f3d6ce  ; color: black; }
+  { background:  #f3d6ce ; color: black ; }
 
 /* numeral layer: western numerals */
 .kmw-keyboard-gff_geez_mesob #numerals-K_NUMLOCK,
@@ -59,7 +58,7 @@
 .kmw-keyboard-gff_geez_mesob #numerals-U_1360, /* ፠ */
 .kmw-keyboard-gff_geez_mesob #numerals-U_1368, /* ፨ */
 .kmw-keyboard-gff_geez_mesob #numerals-K_BKSP 
-  { background:  #ece1d5  ; color: black; }
+  { background:  #ece1d5 ; color: black ; }
 
 /* numeral layer: western numerals */
 .kmw-keyboard-gff_geez_mesob #numerals-K_LOPT, 
@@ -71,21 +70,22 @@
 .kmw-keyboard-gff_geez_mesob #numerals-U_203A, /* › */
 .kmw-keyboard-gff_geez_mesob #numerals-U_00BB, /* » */
 .kmw-keyboard-gff_geez_mesob #numerals-K_ENTER
-  { background:  #ebece6  ; color: black; } 
+  { background:  #ebece6 ; color: black ; } 
 
 
 .kmw-keyboard-gff_geez_mesob #numerals-K_SPACE
-  { background: #f4eee7; color: #f4eee7; } /* light peach: fff5ec */
+  { background: #f4eee7 ; color: #f4eee7 ; } /* light peach: fff5ec */
 
 .kmw-keyboard-gff_geez_mesob #numerals-K_4\+shift,
 .kmw-keyboard-gff_geez_mesob #numerals-K_PERIOD
-  { background: #f4eee7; color: black; }
+  { background: #f4eee7 ; color: black ; }
 /*
 *  =========== DEFAULT LAYER ===========
 *
 */
-.kmw-keyboard-gff_geez_mesob #default-K_SPACE
-  { background: #f4eee7; color: #f4eee7; } /* eceae4 */
+.kmw-keyboard-gff_geez_mesob #default-K_SPACE,
+.kmw-keyboard-gff_geez_mesob #ሀ-layer-K_SPACE
+  { background: #f4eee7 ; color: #f4eee7 ; } /* eceae4 */
 /* { background:  #ffdbdb  ; color: black; } */
 
 /* inner ring */
@@ -96,8 +96,8 @@
 .phone div.kmw-key.kmw-key-default[id*='K_T'], .tablet div.kmw-key.kmw-key-default[id*='K_T'],
 .phone div.kmw-key.kmw-key-default[id*='K_K'], .tablet div.kmw-key.kmw-key-default[id*='K_K'],
 .phone div.kmw-key.kmw-key-default[id*='K_1\+shift'], .tablet div.kmw-key.kmw-key-default[id*='K_1\+shift'],
-.phone div.kmw-key.kmw-key-default[id*='K_BKSLASH\+shift'], .tablet div.kmw-key.kmw-key-default[id*='K_BKSLASH\+shift'] 
-  { background:  #ffffb5  ; color: black; }
+.phone div.kmw-key.kmw-key-default[id*='U_003F'], .tablet div.kmw-key.kmw-key-default[id*='U_003F']
+  { background:  #ffffb5 ; color: black; }
 
 /* 2nd ring */
 .phone div.kmw-key.kmw-key-default[id*='K_L'], .tablet div.kmw-key.kmw-key-default[id*='K_L'],
@@ -113,8 +113,7 @@
 .phone div.kmw-key.kmw-key-default[id*='K_C\+shift'], .tablet div.kmw-key.kmw-key-default[id*='K_C\+shift'],
 .phone div.kmw-key.kmw-key-default[id*='K_K\+shift'], .tablet div.kmw-key.kmw-key-default[id*='K_K\+shift'],
 .phone div.kmw-key.kmw-key-default[id*='K_G'], .tablet div.kmw-key.kmw-key-default[id*='K_G'],
-.phone div.kmw-key.kmw-key-default[id*='K_Y'], .tablet div.kmw-key.kmw-key-default[id*='K_Y'],
-.phone div.kmw-key.kmw-key-default[id*='K_SPACE\+shift'], .tablet div.kmw-key.kmw-key-default[id*='K_SPACE\+shift'] 
+.phone div.kmw-key.kmw-key-default[id*='K_Y'], .tablet div.kmw-key.kmw-key-default[id*='K_Y']
   { background:  #e2f0cb ; color: black; }
 
 /* 3rd ring */
@@ -128,7 +127,7 @@
 .phone div.kmw-key.kmw-key-default[id*='K_W'], .tablet div.kmw-key.kmw-key-default[id*='K_W'],
 .phone div.kmw-key.kmw-key-default[id*='K_Z'], .tablet div.kmw-key.kmw-key-default[id*='K_Z'],
 .phone div.kmw-key.kmw-key-default[id*='K_Z\+shift'], .tablet div.kmw-key.kmw-key-default[id*='K_Z\+shift'] 
-  { background: #ccf1ff  ; color: black; }
+  { background: #ccf1ff ; color: black; }
 
 /* 4th ring */
 .phone div.kmw-key.kmw-key-default[id*='T_1340'], .tablet div.kmw-key.kmw-key-default[id*='T_1340'],
@@ -142,7 +141,7 @@
 .phone div.kmw-key.kmw-key-default[id*='T_1280'], .tablet div.kmw-key.kmw-key-default[id*='T_1280'],
 .phone div.kmw-key.kmw-key-default[id*='K_NUMLOCK'], .tablet div.kmw-key.kmw-key-default[id*='K_NUMLOCK'] 
 /* { background: #ece1d5  ; color: black; } */
-  { background: #f3d6ce  ; color: black; }
+  { background: #f3d6ce ; color: black; }
 
 /* 5th ring - modifier keys */
 .phone div.kmw-key.kmw-key-default[id*='T_ካዕብ'], .tablet div.kmw-key.kmw-key-default[id*='T_ካዕብ'],
@@ -156,7 +155,7 @@
 .phone div.kmw-key.kmw-key-shift[id*='K_BKSP'], .tablet div.kmw-key.kmw-key-shift[id*='K_BKSP'],
 .phone div.kmw-key.kmw-key-shift[id*=K_ENTER], .tablet div.kmw-key.kmw-key-shift[id*=K_ENTER]
 /* { background: #f3d6ce  ; color: black; } */
-  { background: #ece1d5  ; color: black; }
+  { background: #ece1d5 ; color: black ; }
 
 
 /* default layer ግዕዝ */
@@ -197,7 +196,7 @@
 .phone div.kmw-key.kmw-key-default[id*='U_1340'], .tablet div.kmw-key.kmw-key-default[id*='U_1340'],  /* ፀ */
 .phone div.kmw-key.kmw-key-default[id*='U_1348'], .tablet div.kmw-key.kmw-key-default[id*='U_1348'],  /* ፈ */
 .phone div.kmw-key.kmw-key-default[id*='U_1350'], .tablet div.kmw-key.kmw-key-default[id*='U_1350']   /* ፐ */
-  { background:  #e2f0cb; color: black; } /*#baed91 */
+  { background:  #e2f0cb ; color: black; } /*#baed91 */
 
 /* default layer ካዕብ */
 .phone div.kmw-key.kmw-key-default[id*='U_1201'], .tablet div.kmw-key.kmw-key-default[id*='U_1201'],  /* ሁ */
