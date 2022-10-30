@@ -8,77 +8,77 @@
 *
 */
 /* numeral layer: western numerals */
-.kmw-keyboard-gff_geez_mesob #numerals-K_1, /* 1 */
-.kmw-keyboard-gff_geez_mesob #numerals-K_2, /* 2 */
-.kmw-keyboard-gff_geez_mesob #numerals-K_3, /* 3 */
-.kmw-keyboard-gff_geez_mesob #numerals-K_4, /* 4 */
-.kmw-keyboard-gff_geez_mesob #numerals-K_5, /* 5 */
-.kmw-keyboard-gff_geez_mesob #numerals-K_6, /* 6 */
-.kmw-keyboard-gff_geez_mesob #numerals-K_7, /* 7 */
-.kmw-keyboard-gff_geez_mesob #numerals-K_8, /* 8 */
-.kmw-keyboard-gff_geez_mesob #numerals-K_9, /* 9 */
-.kmw-keyboard-gff_geez_mesob #numerals-K_0 /* 0 */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-K_1, /* 1 */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-K_2, /* 2 */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-K_3, /* 3 */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-K_4, /* 4 */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-K_5, /* 5 */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-K_6, /* 6 */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-K_7, /* 7 */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-K_8, /* 8 */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-K_9, /* 9 */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-K_0 /* 0 */
   { background:  #ebece6  ; color: black; } 
 
 
 /* numeral layer: western numerals */
-.kmw-keyboard-gff_geez_mesob #numerals-U_1369, /* ፲ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_136A, /* ፳ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_136B, /* ፴ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_136C, /* ፵ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_136D, /* ፶ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_136E, /* ፷ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_136F, /* ፸ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_1370, /* ፹ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_1371, /* ፺ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_137C  /* ፻ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_1369, /* ፲ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_136A, /* ፳ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_136B, /* ፴ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_136C, /* ፵ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_136D, /* ፶ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_136E, /* ፷ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_136F, /* ፸ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_1370, /* ፹ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_1371, /* ፺ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_137C  /* ፻ */
   { background:  #ece1d5  ; color: black; } 
 
 /* numeral layer: western numerals */
-.kmw-keyboard-gff_geez_mesob #numerals-U_1372, /* ፲ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_1373, /* ፳ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_1374, /* ፴ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_1375, /* ፵ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_1376, /* ፶ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_1377, /* ፷ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_1378, /* ፸ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_1379, /* ፹ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_137A, /* ፺ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_137B  /* ፻ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_1372, /* ፲ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_1373, /* ፳ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_1374, /* ፴ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_1375, /* ፵ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_1376, /* ፶ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_1377, /* ፷ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_1378, /* ፸ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_1379, /* ፹ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_137A, /* ፺ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_137B  /* ፻ */
   { background:  #f3d6ce  ; color: black; }
 
 /* numeral layer: western numerals */
-.kmw-keyboard-gff_geez_mesob #numerals-K_NUMLOCK,
-.kmw-keyboard-gff_geez_mesob #numerals-U_1361, /* ፡ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_1362, /* ። */
-.kmw-keyboard-gff_geez_mesob #numerals-U_1363, /* ፣ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_1364, /* ፤ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_1365, /* ፥ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_1366, /* ፦ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_1367, /* ፯ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_1360, /* ፠ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_1368, /* ፨ */
-.kmw-keyboard-gff_geez_mesob #numerals-K_BKSP 
+.kmw-keyboard-gff_geez_mesob_halo #numerals-K_NUMLOCK,
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_1361, /* ፡ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_1362, /* ። */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_1363, /* ፣ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_1364, /* ፤ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_1365, /* ፥ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_1366, /* ፦ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_1367, /* ፯ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_1360, /* ፠ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_1368, /* ፨ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-K_BKSP 
   { background:  #ece1d5  ; color: black; }
 
 /* numeral layer: western numerals */
-.kmw-keyboard-gff_geez_mesob #numerals-K_LOPT, 
-.kmw-keyboard-gff_geez_mesob #numerals-U_00AB, /* « */
-.kmw-keyboard-gff_geez_mesob #numerals-U_2039, /* ‹ */
-.kmw-keyboard-gff_geez_mesob #numerals-U_201C, /* “ */
-.kmw-keyboard-gff_geez_mesob #numerals-K_HYPHEN, /* - */
-.kmw-keyboard-gff_geez_mesob #numerals-U_201D, /* ” */
-.kmw-keyboard-gff_geez_mesob #numerals-U_203A, /* › */
-.kmw-keyboard-gff_geez_mesob #numerals-U_00BB, /* » */
-.kmw-keyboard-gff_geez_mesob #numerals-K_ENTER
+.kmw-keyboard-gff_geez_mesob_halo #numerals-K_LOPT, 
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_00AB, /* « */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_2039, /* ‹ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_201C, /* “ */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-K_HYPHEN, /* - */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_201D, /* ” */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_203A, /* › */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-U_00BB, /* » */
+.kmw-keyboard-gff_geez_mesob_halo #numerals-K_ENTER
   { background:  #ebece6  ; color: black; } 
 
 
-.kmw-keyboard-gff_geez_mesob #numerals-K_SPACE
+.kmw-keyboard-gff_geez_mesob_halo #numerals-K_SPACE
   { background: #f4eee7; color: #f4eee7; } /* light peach: fff5ec */
 
-.kmw-keyboard-gff_geez_mesob #numerals-K_4\+shift,
-.kmw-keyboard-gff_geez_mesob #numerals-K_PERIOD
+.kmw-keyboard-gff_geez_mesob_halo #numerals-K_4\+shift,
+.kmw-keyboard-gff_geez_mesob_halo #numerals-K_PERIOD
   { background: #f4eee7; color: black; }
 /*
 *  =========== DEFAULT LAYER ===========
@@ -149,7 +149,7 @@
 
 
 /* 5th ring - modifier keys */
-.phone div.kmw-key.kmw-key-default[id$='T_WWA'], .tablet div.kmw-key.kmw-key-default[id$='T_WWA'],
+.kmw-keyboard-gff_amharic #default-K_TWAA,
 .phone div.kmw-key.kmw-key-default[id$='K_2+shift'], .tablet div.kmw-key.kmw-key-default[id$='K_2+shift'],
 .phone div.kmw-key.kmw-key-shift[id$='K_LOPT'], .tablet div.kmw-key.kmw-key-shift[id$='K_LOPT'],
 .phone div.kmw-key.kmw-key-shift[id$='K_BKSP'], .tablet div.kmw-key.kmw-key-shift[id$='K_BKSP'],
@@ -478,8 +478,12 @@
 .phone div.kmw-key.kmw-key-default[id$='U_133F'], .tablet div.kmw-key.kmw-key-default[id$='U_133F'], /* ጿ */
 .phone div.kmw-key.kmw-key-default[id$='U_134F'], .tablet div.kmw-key.kmw-key-default[id$='U_134F'], /* ፏ */
 .phone div.kmw-key.kmw-key-default[id$='U_1357'], .tablet div.kmw-key.kmw-key-default[id$='U_1357'],  /* ፗ */
-.phone div.kmw-key.kmw-key-default[id$='T_ሳብዕ'], .tablet div.kmw-key.kmw-key-default[id$='T_WWA']
-  { background:  #e1cec9  ; color: black; }
+.phone div.kmw-key.kmw-key-default[id$='T_WWA'], .tablet div.kmw-key.kmw-key-default[id$='T_WWA']
+/*  { background:  #e1cec9  ; color: black; } */
+    {
+    background: #ffffff; color: black;
+    background: linear-gradient(180deg, #ffffff 0%, #ccf1ff 100%);
+  }
 
 
 /* ዘመደ-ግዕዝ */
