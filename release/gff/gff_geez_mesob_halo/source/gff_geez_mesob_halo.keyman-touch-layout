@@ -10,7 +10,7 @@
             "key": [
               {
                 "id": "K_2",
-                "text": "@ጲቢ",
+                "text": "@",
                 "pad": "0",
                 "nextlayer": "punctuation",
                 "layer": "shift"
@@ -62,7 +62,7 @@
               {
                 "id": "T_1340",
                 "text": "ፀ",
-                "nextlayer": "ፀ-layer"
+                "nextlayer": "ፀ-layer3"
               },
               {
                 "id": "K_BKSP",
@@ -597,7 +597,7 @@
                 "text": "ለ",
                 "pad": "",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ለ-layer"
               },
               {
                 "id": "K_H",
@@ -764,7 +764,7 @@
                 "id": "K_F",
                 "text": "ፈ",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ፈ-layer"
               },
               {
                 "id": "K_X",
@@ -4569,13 +4569,13 @@
                 "id": "K_Y",
                 "text": "የ",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "የ-layer"
               },
               {
                 "id": "K_D",
                 "text": "ደ",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ደ-layer"
               },
               {
                 "id": "K_J",
@@ -4658,20 +4658,20 @@
                 "text": "ሀ",
                 "width": "",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ሀ-layer"
               },
               {
                 "id": "K_L",
                 "text": "ለ",
                 "pad": "",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ለ-layer"
               },
               {
                 "id": "K_H",
                 "text": "ሐ",
                 "sp": "1",
-                "nextlayer": "default",
+                "nextlayer": "ሐ-layer",
                 "layer": "shift"
               },
               {
@@ -4752,13 +4752,13 @@
                 "text": "ረ",
                 "pad": "",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ረ-layer"
               },
               {
                 "id": "K_S",
                 "text": "ሰ",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ሰ-layer"
               },
               {
                 "id": "T_1220",
@@ -4832,7 +4832,7 @@
                 "id": "K_F",
                 "text": "ፈ",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ፈ-layer"
               },
               {
                 "id": "K_X",
@@ -5659,18 +5659,14 @@
                 "layer": "shift"
               },
               {
-                "id": "K_C",
-                "text": "ጨ",
-                "sp": "1",
-                "nextlayer": "ጨ-layer",
-                "layer": "shift"
+                "id": "T_ኃምስ",
+                "text": "ቴ",
+                "nextlayer": "default"
               },
               {
-                "id": "K_T",
-                "text": "ጠ",
-                "sp": "1",
-                "nextlayer": "ጠ-layer",
-                "layer": "shift"
+                "id": "T_ሳብዕ",
+                "text": "ቶ",
+                "nextlayer": "default"
               },
               {
                 "id": "K_K",
@@ -5721,31 +5717,27 @@
                 "nextlayer": "numerals"
               },
               {
-                "id": "K_Z",
-                "text": "ዘ",
+                "id": "T_WWA",
+                "text": "ቷ",
                 "pad": "",
-                "sp": "1",
-                "nextlayer": "ዘ-layer"
+                "nextlayer": "default"
               },
               {
-                "id": "K_C",
-                "text": "ቸ",
-                "sp": "1",
-                "nextlayer": "ቸ-layer"
+                "id": "T_ራብዕ",
+                "text": "ታ",
+                "nextlayer": "default"
               },
               {
-                "id": "K_T",
+                "id": "T_ሳድስ",
+                "text": "ት",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ግዕዝ",
                 "text": "ተ",
-                "sp": "1",
-                "nextlayer": "ተ-layer"
-              },
-              {
-                "id": "K_BKSLASH",
-                "text": "?",
                 "pad": "",
                 "width": "",
-                "sp": "1",
-                "layer": "shift"
+                "nextlayer": "default"
               },
               {
                 "id": "K_K",
@@ -5830,17 +5822,21 @@
                 "nextlayer": "ዐ-layer"
               },
               {
-                "id": "T_12A0",
-                "text": "አ",
+                "id": "T_ሣልስ",
+                "text": "ቲ",
                 "pad": "",
-                "sp": "1",
-                "nextlayer": "አ-layer"
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ካዕብ",
+                "text": "ቱ",
+                "nextlayer": "default"
               },
               {
                 "id": "K_SPACE",
                 "text": "",
                 "pad": "",
-                "width": "200",
+                "width": "100",
                 "sp": "1"
               },
               {
@@ -6982,13 +6978,13 @@
                 "id": "K_Y",
                 "text": "የ",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "የ-layer"
               },
               {
                 "id": "K_D",
                 "text": "ደ",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ደ-layer"
               },
               {
                 "id": "K_J",
@@ -7071,20 +7067,20 @@
                 "text": "ሀ",
                 "width": "",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ሀ-layer"
               },
               {
                 "id": "K_L",
                 "text": "ለ",
                 "pad": "",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ሐ-layer"
               },
               {
                 "id": "K_H",
                 "text": "ሐ",
                 "sp": "1",
-                "nextlayer": "default",
+                "nextlayer": "ሐ-layer",
                 "layer": "shift"
               },
               {
@@ -7146,31 +7142,26 @@
                 "nextlayer": "ቀ-layer"
               },
               {
-                "id": "K_1",
-                "text": "!",
-                "width": "",
-                "sp": "1",
-                "layer": "shift"
+                "id": "T_ሣልስ",
+                "text": "ኒ",
+                "nextlayer": "ቀ-layer"
               },
               {
-                "id": "K_M",
-                "text": "መ",
-                "pad": "",
-                "width": "",
-                "sp": "1",
-                "nextlayer": "መ-layer"
+                "id": "T_ኃምስ",
+                "text": "ኔ",
+                "width": ""
               },
               {
-                "id": "K_R",
-                "text": "ረ",
+                "id": "T_ሳብዕ",
+                "text": "ኖ",
                 "pad": "",
-                "sp": "1",
+                "width": "",
                 "nextlayer": "default"
               },
               {
-                "id": "K_S",
-                "text": "ሰ",
-                "sp": "1",
+                "id": "T_ካዕብ",
+                "text": "ኑ",
+                "pad": "",
                 "nextlayer": "default"
               },
               {
@@ -7198,53 +7189,18 @@
                 "sp": "1"
               },
               {
-                "id": "K_V",
-                "text": "ቨ",
-                "pad": "55",
-                "sp": "1",
-                "nextlayer": "ቨ-layer"
-              },
-              {
                 "id": "K_P",
                 "text": "ፐ",
-                "pad": "",
+                "pad": "55",
                 "sp": "1",
                 "nextlayer": "ፐ-layer"
               },
               {
-                "id": "K_G",
-                "text": "ጘ",
+                "id": "K_V",
+                "text": "ቨ",
                 "pad": "",
                 "sp": "1",
-                "nextlayer": "ጘ-layer",
-                "layer": "shift"
-              },
-              {
-                "id": "K_N",
-                "text": "ኘ",
-                "width": "",
-                "sp": "1",
-                "nextlayer": "ኘ-layer",
-                "layer": "shift"
-              },
-              {
-                "id": "K_N",
-                "text": "ነ",
-                "width": "",
-                "sp": "1",
-                "nextlayer": "ነ-layer"
-              },
-              {
-                "id": "K_F",
-                "text": "ፈ",
-                "sp": "1",
-                "nextlayer": "default"
-              },
-              {
-                "id": "K_X",
-                "text": "ሸ",
-                "sp": "1",
-                "nextlayer": "ሸ-layer"
+                "nextlayer": "ቨ-layer"
               },
               {
                 "id": "K_Q",
@@ -7252,6 +7208,35 @@
                 "sp": "1",
                 "nextlayer": "ቐ-layer",
                 "layer": "shift"
+              },
+              {
+                "id": "T_WWA",
+                "text": "ኗ",
+                "pad": "",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ራብዕ",
+                "text": "ና",
+                "width": "",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ሳድስ",
+                "text": "ን",
+                "width": "",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ግዕዝ",
+                "text": "ነ",
+                "nextlayer": "default"
+              },
+              {
+                "id": "K_X",
+                "text": "ሸ",
+                "sp": "1",
+                "nextlayer": "ሸ-layer"
               },
               {
                 "id": "K_ENTER",
@@ -7393,13 +7378,13 @@
                 "id": "K_Y",
                 "text": "የ",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "የ-layer"
               },
               {
                 "id": "K_D",
                 "text": "ደ",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ደ-layer"
               },
               {
                 "id": "K_J",
@@ -7482,20 +7467,20 @@
                 "text": "ሀ",
                 "width": "",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ሀ-layer"
               },
               {
                 "id": "K_L",
                 "text": "ለ",
                 "pad": "",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ለ-layer"
               },
               {
                 "id": "K_H",
                 "text": "ሐ",
                 "sp": "1",
-                "nextlayer": "default",
+                "nextlayer": "ሐ-layer",
                 "layer": "shift"
               },
               {
@@ -7547,42 +7532,38 @@
               {
                 "id": "K_B",
                 "text": "በ",
+                "pad": "",
                 "sp": "1",
                 "nextlayer": "በ-layer"
               },
               {
-                "id": "K_Q",
-                "text": "ቀ",
-                "sp": "1",
-                "nextlayer": "ቀ-layer"
+                "id": "T_ሣልስ",
+                "text": "ኒ",
+                "nextlayer": "በ-layer"
               },
               {
-                "id": "K_1",
-                "text": "!",
-                "width": "",
-                "sp": "1",
-                "layer": "shift"
-              },
-              {
-                "id": "K_M",
-                "text": "መ",
-                "pad": "",
-                "width": "",
-                "sp": "1",
-                "nextlayer": "መ-layer"
-              },
-              {
-                "id": "K_R",
-                "text": "ረ",
-                "pad": "",
-                "sp": "1",
+                "id": "T_ኃምስ",
+                "text": "ኜ",
                 "nextlayer": "default"
+              },
+              {
+                "id": "T_ሳብዕ",
+                "text": "ኞ",
+                "width": "",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ካዕብ",
+                "text": "ኑ",
+                "pad": "",
+                "width": "",
+                "nextlayer": "መ-layer"
               },
               {
                 "id": "K_S",
                 "text": "ሰ",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ሰ-layer"
               },
               {
                 "id": "T_1220",
@@ -7609,60 +7590,54 @@
                 "sp": "1"
               },
               {
-                "id": "K_V",
-                "text": "ቨ",
-                "pad": "55",
-                "sp": "1",
-                "nextlayer": "ቨ-layer"
-              },
-              {
                 "id": "K_P",
                 "text": "ፐ",
-                "pad": "",
+                "pad": "55",
                 "sp": "1",
                 "nextlayer": "ፐ-layer"
               },
               {
-                "id": "K_G",
-                "text": "ጘ",
+                "id": "K_V",
+                "text": "ቨ",
                 "pad": "",
                 "sp": "1",
-                "nextlayer": "ጘ-layer",
-                "layer": "shift"
+                "nextlayer": "ቨ-layer"
               },
               {
-                "id": "K_N",
+                "id": "T_WWA",
+                "text": "ኟ",
+                "pad": "",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ራብዕ",
+                "text": "ኛ",
+                "pad": "",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ሳድስ",
+                "text": "ኝ",
+                "width": "",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ግዕዝ",
                 "text": "ኘ",
                 "width": "",
-                "sp": "1",
-                "nextlayer": "ኘ-layer",
-                "layer": "shift"
-              },
-              {
-                "id": "K_N",
-                "text": "ነ",
-                "width": "",
-                "sp": "1",
-                "nextlayer": "ነ-layer"
+                "nextlayer": "default"
               },
               {
                 "id": "K_F",
                 "text": "ፈ",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ፈ-layer"
               },
               {
                 "id": "K_X",
                 "text": "ሸ",
                 "sp": "1",
                 "nextlayer": "ሸ-layer"
-              },
-              {
-                "id": "K_Q",
-                "text": "ቐ",
-                "sp": "1",
-                "nextlayer": "ቐ-layer",
-                "layer": "shift"
               },
               {
                 "id": "K_ENTER",
@@ -7773,16 +7748,14 @@
                 "nextlayer": "ዘ-layer"
               },
               {
-                "id": "K_C",
-                "text": "ቸ",
-                "sp": "1",
-                "nextlayer": "ቸ-layer"
+                "id": "T_ኃምስ",
+                "text": "ኤ",
+                "nextlayer": "default"
               },
               {
-                "id": "K_T",
-                "text": "ተ",
-                "sp": "1",
-                "nextlayer": "ተ-layer"
+                "id": "T_ሳብዕ",
+                "text": "ኦ",
+                "nextlayer": "default"
               },
               {
                 "id": "K_BKSLASH",
@@ -7804,13 +7777,13 @@
                 "id": "K_Y",
                 "text": "የ",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "የ-layer"
               },
               {
                 "id": "K_D",
                 "text": "ደ",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ደ-layer"
               },
               {
                 "id": "K_J",
@@ -7863,29 +7836,32 @@
                 ]
               },
               {
-                "id": "K_W",
-                "text": "ወ",
-                "sp": "1",
-                "nextlayer": "ወ-layer"
+                "id": "T_WWA",
+                "text": "ኧ",
+                "nextlayer": "default"
               },
               {
-                "id": "T_12D0",
-                "text": "ዐ",
-                "sp": "1",
-                "nextlayer": "ዐ-layer"
+                "id": "T_ራብዕ",
+                "text": "ኣ",
+                "nextlayer": "default"
               },
               {
-                "id": "T_12A0",
-                "text": "አ",
-                "nextlayer": "አ-layer",
+                "id": "T_ሳድስ",
+                "text": "እ",
                 "pad": "",
-                "sp": "1"
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ግዕዝ",
+                "text": "አ",
+                "width": "",
+                "nextlayer": "default"
               },
               {
                 "id": "K_SPACE",
                 "text": "",
                 "pad": "",
-                "width": "200",
+                "width": "100",
                 "sp": "1"
               },
               {
@@ -7893,20 +7869,20 @@
                 "text": "ሀ",
                 "width": "",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ሀ-layer"
               },
               {
                 "id": "K_L",
                 "text": "ለ",
                 "pad": "",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ለ-layer"
               },
               {
                 "id": "K_H",
                 "text": "ሐ",
                 "sp": "1",
-                "nextlayer": "default",
+                "nextlayer": "ሐ-layer",
                 "layer": "shift"
               },
               {
@@ -7956,16 +7932,14 @@
                 "layer": "shift"
               },
               {
-                "id": "K_B",
-                "text": "በ",
-                "sp": "1",
-                "nextlayer": "በ-layer"
+                "id": "T_ሣልስ",
+                "text": "ኢ",
+                "nextlayer": "default"
               },
               {
-                "id": "K_Q",
-                "text": "ቀ",
-                "sp": "1",
-                "nextlayer": "ቀ-layer"
+                "id": "T_ካዕብ",
+                "text": "ኡ",
+                "nextlayer": "default"
               },
               {
                 "id": "K_1",
@@ -7987,13 +7961,13 @@
                 "text": "ረ",
                 "pad": "",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ረ-layer"
               },
               {
                 "id": "K_S",
                 "text": "ሰ",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ሰ-layer"
               },
               {
                 "id": "T_1220",
@@ -8020,18 +7994,25 @@
                 "sp": "1"
               },
               {
+                "id": "K_P",
+                "text": "ፐ",
+                "pad": "55",
+                "sp": "1",
+                "nextlayer": "ፐ-layer"
+              },
+              {
                 "id": "K_V",
                 "text": "ቨ",
-                "pad": "55",
+                "pad": "",
                 "sp": "1",
                 "nextlayer": "ቨ-layer"
               },
               {
-                "id": "K_P",
-                "text": "ፐ",
-                "pad": "",
+                "id": "K_Q",
+                "text": "ቐ",
                 "sp": "1",
-                "nextlayer": "ፐ-layer"
+                "nextlayer": "ቐ-layer",
+                "layer": "shift"
               },
               {
                 "id": "K_G",
@@ -8067,13 +8048,6 @@
                 "text": "ሸ",
                 "sp": "1",
                 "nextlayer": "ሸ-layer"
-              },
-              {
-                "id": "K_Q",
-                "text": "ቐ",
-                "sp": "1",
-                "nextlayer": "ቐ-layer",
-                "layer": "shift"
               },
               {
                 "id": "K_ENTER",
@@ -8542,10 +8516,10 @@
               {
                 "id": "K_K",
                 "text": "ኸ",
-                "nextlayer": "ኸ-layer",
                 "pad": "",
                 "width": "",
                 "sp": "1",
+                "nextlayer": "ኸ-layer",
                 "layer": "shift"
               },
               {
@@ -8626,13 +8600,13 @@
                 "id": "K_Y",
                 "text": "የ",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "የ-layer"
               },
               {
                 "id": "K_D",
                 "text": "ደ",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ደ-layer"
               },
               {
                 "id": "K_J",
@@ -8715,20 +8689,20 @@
                 "text": "ሀ",
                 "width": "",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ሀ-layer"
               },
               {
                 "id": "K_L",
                 "text": "ለ",
                 "pad": "",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ለ-layer"
               },
               {
                 "id": "K_H",
                 "text": "ሐ",
                 "sp": "1",
-                "nextlayer": "default",
+                "nextlayer": "ሐ-layer",
                 "layer": "shift"
               },
               {
@@ -8809,13 +8783,13 @@
                 "text": "ረ",
                 "pad": "",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ረ-layer"
               },
               {
                 "id": "K_S",
                 "text": "ሰ",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ሰ-layer"
               },
               {
                 "id": "T_1220",
@@ -8842,18 +8816,25 @@
                 "sp": "1"
               },
               {
+                "id": "K_P",
+                "text": "ፐ",
+                "pad": "55",
+                "sp": "1",
+                "nextlayer": "ፐ-layer"
+              },
+              {
                 "id": "K_V",
                 "text": "ቨ",
-                "pad": "55",
+                "pad": "",
                 "sp": "1",
                 "nextlayer": "ቨ-layer"
               },
               {
-                "id": "K_P",
-                "text": "ፐ",
-                "pad": "",
+                "id": "K_Q",
+                "text": "ቐ",
                 "sp": "1",
-                "nextlayer": "ፐ-layer"
+                "nextlayer": "ቐ-layer",
+                "layer": "shift"
               },
               {
                 "id": "K_G",
@@ -8882,20 +8863,13 @@
                 "id": "K_F",
                 "text": "ፈ",
                 "sp": "1",
-                "nextlayer": "default"
+                "nextlayer": "ፈ-layer"
               },
               {
                 "id": "K_X",
                 "text": "ሸ",
                 "sp": "1",
                 "nextlayer": "ሸ-layer"
-              },
-              {
-                "id": "K_Q",
-                "text": "ቐ",
-                "sp": "1",
-                "nextlayer": "ቐ-layer",
-                "layer": "shift"
               },
               {
                 "id": "K_ENTER",
@@ -10094,30 +10068,31 @@
                 "id": "K_2",
                 "text": "@",
                 "pad": "0",
+                "width": "50",
                 "sp": "1",
                 "layer": "shift"
               },
               {
-                "id": "T_1280",
-                "text": "ኀ",
-                "pad": "55",
-                "sp": "1",
-                "nextlayer": "ኀ-layer"
+                "id": "T_WWA",
+                "text": "ዧ",
+                "pad": "10"
               },
               {
-                "id": "K_Z",
-                "text": "ዠ",
+                "id": "T_ራብዕ",
+                "text": "ዣ",
                 "pad": "",
-                "sp": "1",
-                "nextlayer": "ዠ-layer",
-                "layer": "shift"
+                "nextlayer": "default"
               },
               {
-                "id": "K_C",
-                "text": "ጨ",
-                "sp": "1",
-                "nextlayer": "ጨ-layer",
-                "layer": "shift"
+                "id": "T_ሳድስ",
+                "text": "ዥ",
+                "pad": "",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ግዕዝ",
+                "text": "ዠ",
+                "nextlayer": "default"
               },
               {
                 "id": "K_T",
@@ -10167,30 +10142,26 @@
             "id": 2,
             "key": [
               {
-                "id": "K_NUMLOCK",
-                "text": "1/፩",
+                "id": "T_ኃምስ",
+                "text": "ዤ",
                 "pad": "110",
                 "width": "",
-                "sp": "1",
-                "nextlayer": "numerals"
+                "nextlayer": "default"
               },
               {
-                "id": "K_Z",
-                "text": "ዘ",
+                "id": "T_ሣልስ",
+                "text": "ዢ",
                 "pad": "",
-                "sp": "1",
-                "nextlayer": "ዘ-layer"
+                "nextlayer": "default"
               },
               {
-                "id": "K_C",
-                "text": "ቸ",
-                "sp": "1",
-                "nextlayer": "ቸ-layer"
+                "id": "T_ካዕብ",
+                "text": "ዡ",
+                "nextlayer": "default"
               },
               {
-                "id": "K_T",
-                "text": "ተ",
-                "sp": "1",
+                "id": "T_ሳብዕ",
+                "text": "ዦ",
                 "nextlayer": "ተ-layer"
               },
               {
@@ -12175,8 +12146,8 @@
               {
                 "id": "K_G",
                 "text": "ገ",
-                "nextlayer": "ገ-layer",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "ገ-layer"
               },
               {
                 "id": "K_S",
@@ -12964,35 +12935,27 @@
                 "nextlayer": "ኀ-layer"
               },
               {
-                "id": "K_Z",
-                "text": "ዠ",
+                "id": "T_WWA",
+                "text": "ጧ",
                 "pad": "",
-                "sp": "1",
-                "nextlayer": "ዠ-layer",
-                "layer": "shift"
+                "nextlayer": "default"
               },
               {
-                "id": "K_C",
-                "text": "ጨ",
-                "sp": "1",
-                "nextlayer": "ጨ-layer",
-                "layer": "shift"
+                "id": "T_ራብዕ",
+                "text": "ጣ",
+                "nextlayer": "default"
               },
               {
-                "id": "K_T",
+                "id": "T_ሳድስ",
+                "text": "ጥ",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ግዕዝ",
                 "text": "ጠ",
-                "sp": "1",
-                "nextlayer": "ጠ-layer",
-                "layer": "shift"
-              },
-              {
-                "id": "K_K",
-                "text": "ኸ",
                 "pad": "",
                 "width": "",
-                "sp": "1",
-                "nextlayer": "ኸ-layer",
-                "layer": "shift"
+                "nextlayer": "default"
               },
               {
                 "id": "K_G",
@@ -13041,32 +13004,28 @@
                 "nextlayer": "ዘ-layer"
               },
               {
-                "id": "K_C",
-                "text": "ቸ",
-                "sp": "1",
-                "nextlayer": "ቸ-layer"
+                "id": "T_ኃምስ",
+                "text": "ጤ",
+                "nextlayer": "default"
               },
               {
-                "id": "K_T",
-                "text": "ተ",
-                "sp": "1",
-                "nextlayer": "ተ-layer"
+                "id": "T_ሣልስ",
+                "text": "ጢ",
+                "nextlayer": "default"
               },
               {
-                "id": "K_BKSLASH",
-                "text": "?",
+                "id": "T_ካዕብ",
+                "text": "ጡ",
                 "pad": "",
                 "width": "",
-                "sp": "1",
-                "layer": "shift"
+                "nextlayer": "default"
               },
               {
-                "id": "K_K",
-                "text": "ከ",
+                "id": "T_ሳብዕ",
+                "text": "ጦ",
                 "pad": "",
                 "width": "",
-                "sp": "1",
-                "nextlayer": "ከ-layer"
+                "nextlayer": "default"
               },
               {
                 "id": "K_Y",
@@ -14192,32 +14151,26 @@
                 "layer": "shift"
               },
               {
-                "id": "K_K",
-                "text": "ኸ",
+                "id": "T_WWA",
+                "text": "ጿ",
                 "pad": "",
                 "width": "",
-                "sp": "1",
-                "nextlayer": "ኸ-layer",
-                "layer": "shift"
+                "nextlayer": "default"
               },
               {
-                "id": "K_G",
-                "text": "ገ",
-                "sp": "1",
-                "nextlayer": "ገ-layer"
+                "id": "T_ራብዕ",
+                "text": "ጻ",
+                "nextlayer": "default"
               },
               {
-                "id": "K_S",
+                "id": "T_ሳድስ",
+                "text": "ጽ",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ግዕዝ",
                 "text": "ጸ",
-                "nextlayer": "ጸ-layer",
-                "sp": "1",
-                "layer": "shift"
-              },
-              {
-                "id": "T_1340",
-                "text": "ፀ",
-                "sp": "1",
-                "nextlayer": "ፀ-layer"
+                "nextlayer": "default"
               },
               {
                 "id": "K_BKSP",
@@ -14267,30 +14220,26 @@
                 "layer": "shift"
               },
               {
-                "id": "K_K",
-                "text": "ከ",
+                "id": "T_ኃምስ",
+                "text": "ጼ",
                 "pad": "",
                 "width": "",
-                "sp": "1",
-                "nextlayer": "ከ-layer"
-              },
-              {
-                "id": "K_Y",
-                "text": "የ",
-                "sp": "1",
                 "nextlayer": "default"
               },
               {
-                "id": "K_D",
-                "text": "ደ",
-                "sp": "1",
+                "id": "T_ሣልስ",
+                "text": "ጺ",
                 "nextlayer": "default"
               },
               {
-                "id": "K_J",
-                "text": "ጀ",
-                "sp": "1",
-                "nextlayer": "ጀ-layer"
+                "id": "T_ካዕብ",
+                "text": "ጹ",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ሳብዕ",
+                "text": "ጾ",
+                "nextlayer": "default"
               },
               {
                 "id": "",
@@ -14576,7 +14525,7 @@
               {
                 "id": "T_1280",
                 "text": "ኀ",
-                "pad": "55",
+                "pad": "25",
                 "sp": "1",
                 "nextlayer": "ኀ-layer"
               },
@@ -14618,24 +14567,25 @@
                 "nextlayer": "ገ-layer"
               },
               {
-                "id": "K_S",
-                "text": "ጸ",
-                "sp": "1",
-                "nextlayer": "ጸ-layer",
-                "layer": "shift"
+                "id": "T_ራብዕ",
+                "text": "ፃ",
+                "nextlayer": "default"
               },
               {
-                "id": "T_1340",
+                "id": "T_ሳድስ",
+                "text": "ፅ",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ግዕዝ",
                 "text": "ፀ",
-                "nextlayer": "ፀ-layer",
-                "sp": "1"
+                "nextlayer": "default"
               },
               {
-                "id": "K_BKSP",
-                "text": "*BkSp*",
-                "pad": "55",
-                "width": "",
-                "sp": "1"
+                "id": "T_SPACER",
+                "text": "",
+                "width": "5",
+                "sp": "10"
               }
             ]
           },
@@ -14645,7 +14595,7 @@
               {
                 "id": "K_NUMLOCK",
                 "text": "1/፩",
-                "pad": "110",
+                "pad": "85",
                 "width": "",
                 "sp": "1",
                 "nextlayer": "numerals"
@@ -14686,28 +14636,26 @@
                 "nextlayer": "ከ-layer"
               },
               {
-                "id": "K_Y",
-                "text": "የ",
-                "sp": "1",
+                "id": "T_ኃምስ",
+                "text": "ፄ",
                 "nextlayer": "default"
               },
               {
-                "id": "K_D",
-                "text": "ደ",
-                "sp": "1",
+                "id": "T_ሣልስ",
+                "text": "ፂ",
                 "nextlayer": "default"
               },
               {
-                "id": "K_J",
-                "text": "ጀ",
-                "sp": "1",
-                "nextlayer": "ጀ-layer"
+                "id": "T_ካዕብ",
+                "text": "ፁ",
+                "nextlayer": "default"
               },
               {
-                "id": "",
-                "text": "",
-                "width": "5",
-                "sp": "10"
+                "id": "T_ሳብዕ",
+                "text": "ፆ",
+                "pad": "10",
+                "width": "",
+                "nextlayer": "default"
               }
             ]
           },
@@ -14717,7 +14665,7 @@
               {
                 "id": "U_1362",
                 "text": "።",
-                "pad": "55",
+                "pad": "25",
                 "sp": "1",
                 "sk": [
                   {
@@ -14814,7 +14762,7 @@
               {
                 "id": "U_2019",
                 "text": "’",
-                "pad": "110",
+                "pad": "85",
                 "sp": "1",
                 "sk": [
                   {
@@ -14887,10 +14835,11 @@
                 "nextlayer": "ሠ-layer"
               },
               {
-                "id": "T_SPACER",
-                "text": "",
-                "width": "5",
-                "sp": "10"
+                "id": "K_BKSP",
+                "text": "*BkSp*",
+                "pad": "10",
+                "width": "",
+                "sp": "1"
               }
             ]
           },
@@ -14905,18 +14854,25 @@
                 "sp": "1"
               },
               {
+                "id": "K_P",
+                "text": "ፐ",
+                "pad": "25",
+                "sp": "1",
+                "nextlayer": "ፐ-layer"
+              },
+              {
                 "id": "K_V",
                 "text": "ቨ",
-                "pad": "55",
+                "pad": "",
                 "sp": "1",
                 "nextlayer": "ቨ-layer"
               },
               {
-                "id": "K_P",
-                "text": "ፐ",
-                "pad": "",
+                "id": "K_Q",
+                "text": "ቐ",
                 "sp": "1",
-                "nextlayer": "ፐ-layer"
+                "nextlayer": "ቐ-layer",
+                "layer": "shift"
               },
               {
                 "id": "K_G",
@@ -14954,11 +14910,815 @@
                 "nextlayer": "ሸ-layer"
               },
               {
+                "id": "K_ENTER",
+                "text": "*Enter*",
+                "pad": "55",
+                "width": "",
+                "sp": "1"
+              },
+              {
+                "id": "T_SPACER",
+                "text": "",
+                "width": "5",
+                "sp": "10"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ፀ-layer2",
+        "row": [
+          {
+            "id": 1,
+            "key": [
+              {
+                "id": "K_2",
+                "text": "@",
+                "pad": "0",
+                "sp": "1",
+                "layer": "shift"
+              },
+              {
+                "id": "T_1280",
+                "text": "ኀ",
+                "pad": "55",
+                "sp": "1",
+                "nextlayer": "ኀ-layer"
+              },
+              {
+                "id": "K_Z",
+                "text": "ዠ",
+                "pad": "",
+                "sp": "1",
+                "nextlayer": "ዠ-layer",
+                "layer": "shift"
+              },
+              {
+                "id": "K_C",
+                "text": "ጨ",
+                "sp": "1",
+                "nextlayer": "ጨ-layer",
+                "layer": "shift"
+              },
+              {
+                "id": "K_T",
+                "text": "ጠ",
+                "sp": "1",
+                "nextlayer": "ጠ-layer",
+                "layer": "shift"
+              },
+              {
+                "id": "K_K",
+                "text": "ኸ",
+                "pad": "",
+                "width": "",
+                "sp": "1",
+                "nextlayer": "ኸ-layer",
+                "layer": "shift"
+              },
+              {
+                "id": "T_ኃምስ",
+                "text": "ፄ",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ራብዕ",
+                "text": "ፃ",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ሳድስ",
+                "text": "ፅ",
+                "nextlayer": "default"
+              },
+              {
+                "id": "K_BKSP",
+                "text": "*BkSp*",
+                "pad": "55",
+                "width": "",
+                "sp": "1"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "key": [
+              {
+                "id": "K_NUMLOCK",
+                "text": "1/፩",
+                "pad": "110",
+                "width": "",
+                "sp": "1",
+                "nextlayer": "numerals"
+              },
+              {
+                "id": "K_Z",
+                "text": "ዘ",
+                "pad": "",
+                "sp": "1",
+                "nextlayer": "ዘ-layer"
+              },
+              {
+                "id": "K_C",
+                "text": "ቸ",
+                "sp": "1",
+                "nextlayer": "ቸ-layer"
+              },
+              {
+                "id": "K_T",
+                "text": "ተ",
+                "sp": "1",
+                "nextlayer": "ተ-layer"
+              },
+              {
+                "id": "K_BKSLASH",
+                "text": "?",
+                "pad": "",
+                "width": "",
+                "sp": "1",
+                "layer": "shift"
+              },
+              {
+                "id": "K_K",
+                "text": "ከ",
+                "pad": "",
+                "width": "",
+                "sp": "1",
+                "nextlayer": "ከ-layer"
+              },
+              {
+                "id": "T_ሳብዕ",
+                "text": "ፆ",
+                "nextlayer": "የ-layer"
+              },
+              {
+                "id": "T_ሣልስ",
+                "text": "ፂ",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ካዕብ",
+                "text": "ፁ",
+                "nextlayer": "default"
+              },
+              {
+                "id": "",
+                "text": "",
+                "width": "5",
+                "sp": "10"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "key": [
+              {
+                "id": "U_1362",
+                "text": "።",
+                "pad": "55",
+                "sp": "1",
+                "sk": [
+                  {
+                    "text": "፡",
+                    "id": "K_COLON",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": "፣",
+                    "id": "K_COMMA"
+                  },
+                  {
+                    "text": "፤",
+                    "id": "K_COLON"
+                  },
+                  {
+                    "text": "፦",
+                    "id": "U_1366"
+                  },
+                  {
+                    "text": "«",
+                    "id": "U_00AB"
+                  },
+                  {
+                    "text": "»",
+                    "id": "U_00BB"
+                  }
+                ]
+              },
+              {
+                "id": "K_W",
+                "text": "ወ",
+                "sp": "1",
+                "nextlayer": "ወ-layer"
+              },
+              {
+                "id": "T_12D0",
+                "text": "ዐ",
+                "sp": "1",
+                "nextlayer": "ዐ-layer"
+              },
+              {
+                "id": "T_12A0",
+                "text": "አ",
+                "pad": "",
+                "sp": "1",
+                "nextlayer": "አ-layer"
+              },
+              {
+                "id": "K_SPACE",
+                "text": "",
+                "pad": "",
+                "width": "200",
+                "sp": "1"
+              },
+              {
+                "id": "K_H",
+                "text": "ሀ",
+                "width": "",
+                "sp": "1",
+                "nextlayer": "ሀ-layer"
+              },
+              {
+                "id": "K_L",
+                "text": "ለ",
+                "pad": "",
+                "sp": "1",
+                "nextlayer": "default"
+              },
+              {
+                "id": "K_H",
+                "text": "ሐ",
+                "sp": "1",
+                "nextlayer": "default",
+                "layer": "shift"
+              },
+              {
+                "id": "T_ግዕዝ",
+                "text": "ፀ",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_SPACER",
+                "text": "",
+                "width": "5",
+                "sp": "10"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "key": [
+              {
+                "id": "U_2019",
+                "text": "’",
+                "pad": "110",
+                "sp": "1",
+                "sk": [
+                  {
+                    "text": "$",
+                    "id": "K_4",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": "€",
+                    "id": "U_20AC"
+                  },
+                  {
+                    "text": ".",
+                    "id": "K_PERIOD"
+                  }
+                ]
+              },
+              {
+                "id": "K_P",
+                "text": "ጰ",
+                "pad": "",
+                "sp": "1",
+                "nextlayer": "ጰ-layer",
+                "layer": "shift"
+              },
+              {
+                "id": "K_B",
+                "text": "በ",
+                "sp": "1",
+                "nextlayer": "በ-layer"
+              },
+              {
+                "id": "K_Q",
+                "text": "ቀ",
+                "sp": "1",
+                "nextlayer": "ቀ-layer"
+              },
+              {
+                "id": "K_1",
+                "text": "!",
+                "width": "",
+                "sp": "1",
+                "layer": "shift"
+              },
+              {
+                "id": "K_M",
+                "text": "መ",
+                "pad": "",
+                "width": "",
+                "sp": "1",
+                "nextlayer": "መ-layer"
+              },
+              {
+                "id": "K_R",
+                "text": "ረ",
+                "pad": "",
+                "sp": "1",
+                "nextlayer": "ረ-layer"
+              },
+              {
+                "id": "K_S",
+                "text": "ሰ",
+                "sp": "1",
+                "nextlayer": "ሰ-layer"
+              },
+              {
+                "id": "T_1220",
+                "text": "ሠ",
+                "sp": "1",
+                "nextlayer": "ሠ-layer"
+              },
+              {
+                "id": "T_SPACER",
+                "text": "",
+                "width": "5",
+                "sp": "10"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "key": [
+              {
+                "id": "K_LOPT",
+                "text": "*Menu*",
+                "pad": "0",
+                "width": "100",
+                "sp": "1"
+              },
+              {
+                "id": "K_P",
+                "text": "ፐ",
+                "pad": "55",
+                "sp": "1",
+                "nextlayer": "ፐ-layer"
+              },
+              {
+                "id": "K_V",
+                "text": "ቨ",
+                "pad": "",
+                "sp": "1",
+                "nextlayer": "ቨ-layer"
+              },
+              {
                 "id": "K_Q",
                 "text": "ቐ",
                 "sp": "1",
                 "nextlayer": "ቐ-layer",
                 "layer": "shift"
+              },
+              {
+                "id": "K_G",
+                "text": "ጘ",
+                "pad": "",
+                "sp": "1",
+                "nextlayer": "ጘ-layer",
+                "layer": "shift"
+              },
+              {
+                "id": "K_N",
+                "text": "ኘ",
+                "width": "",
+                "sp": "1",
+                "nextlayer": "ኘ-layer",
+                "layer": "shift"
+              },
+              {
+                "id": "K_N",
+                "text": "ነ",
+                "width": "",
+                "sp": "1",
+                "nextlayer": "ነ-layer"
+              },
+              {
+                "id": "K_F",
+                "text": "ፈ",
+                "sp": "1",
+                "nextlayer": "default"
+              },
+              {
+                "id": "K_X",
+                "text": "ሸ",
+                "sp": "1",
+                "nextlayer": "ሸ-layer"
+              },
+              {
+                "id": "K_ENTER",
+                "text": "*Enter*",
+                "pad": "55",
+                "width": "",
+                "sp": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ፀ-layer3",
+        "row": [
+          {
+            "id": 1,
+            "key": [
+              {
+                "id": "K_2",
+                "text": "@",
+                "pad": "0",
+                "sp": "1",
+                "layer": "shift"
+              },
+              {
+                "id": "T_1280",
+                "text": "ኀ",
+                "pad": "55",
+                "sp": "1",
+                "nextlayer": "ኀ-layer"
+              },
+              {
+                "id": "K_Z",
+                "text": "ዠ",
+                "pad": "",
+                "sp": "1",
+                "nextlayer": "ዠ-layer",
+                "layer": "shift"
+              },
+              {
+                "id": "K_C",
+                "text": "ጨ",
+                "sp": "1",
+                "nextlayer": "ጨ-layer",
+                "layer": "shift"
+              },
+              {
+                "id": "K_T",
+                "text": "ጠ",
+                "sp": "1",
+                "nextlayer": "ጠ-layer",
+                "layer": "shift"
+              },
+              {
+                "id": "K_K",
+                "text": "ኸ",
+                "pad": "",
+                "width": "",
+                "sp": "1",
+                "nextlayer": "ኸ-layer",
+                "layer": "shift"
+              },
+              {
+                "id": "T_ኃምስ",
+                "text": "ፄ",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ራብዕ",
+                "text": "ፃ",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ሳድስ",
+                "text": "ፅ",
+                "nextlayer": "default"
+              },
+              {
+                "id": "K_BKSP",
+                "text": "*BkSp*",
+                "pad": "55",
+                "width": "",
+                "sp": "1"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "key": [
+              {
+                "id": "K_NUMLOCK",
+                "text": "1/፩",
+                "pad": "110",
+                "width": "",
+                "sp": "1",
+                "nextlayer": "numerals"
+              },
+              {
+                "id": "K_Z",
+                "text": "ዘ",
+                "pad": "",
+                "sp": "1",
+                "nextlayer": "ዘ-layer"
+              },
+              {
+                "id": "K_C",
+                "text": "ቸ",
+                "sp": "1",
+                "nextlayer": "ቸ-layer"
+              },
+              {
+                "id": "K_T",
+                "text": "ተ",
+                "sp": "1",
+                "nextlayer": "ተ-layer"
+              },
+              {
+                "id": "K_BKSLASH",
+                "text": "?",
+                "pad": "",
+                "width": "",
+                "sp": "1",
+                "layer": "shift"
+              },
+              {
+                "id": "K_K",
+                "text": "ከ",
+                "pad": "",
+                "width": "",
+                "sp": "1",
+                "nextlayer": "ከ-layer"
+              },
+              {
+                "id": "K_Y",
+                "text": "የ",
+                "sp": "1",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ሣልስ",
+                "text": "ፂ",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ካዕብ",
+                "text": "ፁ",
+                "nextlayer": "default"
+              },
+              {
+                "id": "",
+                "text": "",
+                "width": "5",
+                "sp": "10"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "key": [
+              {
+                "id": "U_1362",
+                "text": "።",
+                "pad": "55",
+                "sp": "1",
+                "sk": [
+                  {
+                    "text": "፡",
+                    "id": "K_COLON",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": "፣",
+                    "id": "K_COMMA"
+                  },
+                  {
+                    "text": "፤",
+                    "id": "K_COLON"
+                  },
+                  {
+                    "text": "፦",
+                    "id": "U_1366"
+                  },
+                  {
+                    "text": "«",
+                    "id": "U_00AB"
+                  },
+                  {
+                    "text": "»",
+                    "id": "U_00BB"
+                  }
+                ]
+              },
+              {
+                "id": "K_W",
+                "text": "ወ",
+                "sp": "1",
+                "nextlayer": "ወ-layer"
+              },
+              {
+                "id": "T_12D0",
+                "text": "ዐ",
+                "sp": "1",
+                "nextlayer": "ዐ-layer"
+              },
+              {
+                "id": "T_12A0",
+                "text": "አ",
+                "pad": "",
+                "sp": "1",
+                "nextlayer": "አ-layer"
+              },
+              {
+                "id": "K_SPACE",
+                "text": "",
+                "pad": "",
+                "width": "200",
+                "sp": "1"
+              },
+              {
+                "id": "K_H",
+                "text": "ሀ",
+                "width": "",
+                "sp": "1",
+                "nextlayer": "ሀ-layer"
+              },
+              {
+                "id": "K_L",
+                "text": "ለ",
+                "pad": "",
+                "sp": "1",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_ሳብዕ",
+                "text": "ፆ",
+                "nextlayer": "የ-layer"
+              },
+              {
+                "id": "T_ግዕዝ",
+                "text": "ፀ",
+                "nextlayer": "default"
+              },
+              {
+                "id": "T_SPACER",
+                "text": "",
+                "width": "5",
+                "sp": "10"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "key": [
+              {
+                "id": "U_2019",
+                "text": "’",
+                "pad": "110",
+                "sp": "1",
+                "sk": [
+                  {
+                    "text": "$",
+                    "id": "K_4",
+                    "layer": "shift"
+                  },
+                  {
+                    "text": "€",
+                    "id": "U_20AC"
+                  },
+                  {
+                    "text": ".",
+                    "id": "K_PERIOD"
+                  }
+                ]
+              },
+              {
+                "id": "K_P",
+                "text": "ጰ",
+                "pad": "",
+                "sp": "1",
+                "nextlayer": "ጰ-layer",
+                "layer": "shift"
+              },
+              {
+                "id": "K_B",
+                "text": "በ",
+                "sp": "1",
+                "nextlayer": "በ-layer"
+              },
+              {
+                "id": "K_Q",
+                "text": "ቀ",
+                "sp": "1",
+                "nextlayer": "ቀ-layer"
+              },
+              {
+                "id": "K_1",
+                "text": "!",
+                "width": "",
+                "sp": "1",
+                "layer": "shift"
+              },
+              {
+                "id": "K_M",
+                "text": "መ",
+                "pad": "",
+                "width": "",
+                "sp": "1",
+                "nextlayer": "መ-layer"
+              },
+              {
+                "id": "K_R",
+                "text": "ረ",
+                "pad": "",
+                "sp": "1",
+                "nextlayer": "ረ-layer"
+              },
+              {
+                "id": "K_S",
+                "text": "ሰ",
+                "sp": "1",
+                "nextlayer": "ሰ-layer"
+              },
+              {
+                "id": "T_1220",
+                "text": "ሠ",
+                "sp": "1",
+                "nextlayer": "ሠ-layer"
+              },
+              {
+                "id": "T_SPACER",
+                "text": "",
+                "width": "5",
+                "sp": "10"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "key": [
+              {
+                "id": "K_LOPT",
+                "text": "*Menu*",
+                "pad": "0",
+                "width": "100",
+                "sp": "1"
+              },
+              {
+                "id": "K_P",
+                "text": "ፐ",
+                "pad": "55",
+                "sp": "1",
+                "nextlayer": "ፐ-layer"
+              },
+              {
+                "id": "K_V",
+                "text": "ቨ",
+                "pad": "",
+                "sp": "1",
+                "nextlayer": "ቨ-layer"
+              },
+              {
+                "id": "K_Q",
+                "text": "ቐ",
+                "sp": "1",
+                "nextlayer": "ቐ-layer",
+                "layer": "shift"
+              },
+              {
+                "id": "K_G",
+                "text": "ጘ",
+                "pad": "",
+                "sp": "1",
+                "nextlayer": "ጘ-layer",
+                "layer": "shift"
+              },
+              {
+                "id": "K_N",
+                "text": "ኘ",
+                "width": "",
+                "sp": "1",
+                "nextlayer": "ኘ-layer",
+                "layer": "shift"
+              },
+              {
+                "id": "K_N",
+                "text": "ነ",
+                "width": "",
+                "sp": "1",
+                "nextlayer": "ነ-layer"
+              },
+              {
+                "id": "K_F",
+                "text": "ፈ",
+                "sp": "1",
+                "nextlayer": "default"
+              },
+              {
+                "id": "K_X",
+                "text": "ሸ",
+                "sp": "1",
+                "nextlayer": "ሸ-layer"
               },
               {
                 "id": "K_ENTER",
