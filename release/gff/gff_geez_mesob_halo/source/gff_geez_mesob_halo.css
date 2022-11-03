@@ -88,6 +88,18 @@
   { background: #f4eee7; color: #f4eee7; } /* eceae4 */
 /* { background:  #ffdbdb  ; color: black; } */
 
+.phone div.kmw-key.kmw-key-default[id$='T_MORE'], .tablet div.kmw-key.kmw-key-default[id$='T_MORE'] {
+    color: red;
+  animation: blinker 2s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
+
   
 /* inner ring */
 .phone div.kmw-key.kmw-key-default[id$='K_H'], .tablet div.kmw-key.kmw-key-default[id$='K_H'],
