@@ -109,7 +109,7 @@
 .phone div.kmw-key.kmw-key-default[id$='K_T'], .tablet div.kmw-key.kmw-key-default[id$='K_T'],
 .phone div.kmw-key.kmw-key-default[id$='K_K'], .tablet div.kmw-key.kmw-key-default[id$='K_K'],
 .phone div.kmw-key.kmw-key-default[id$='K_1+shift'], .tablet div.kmw-key.kmw-key-default[id$='K_1+shift'],
-.phone div.kmw-key.kmw-key-default[id$='K_BKSLASH+shift'], .tablet div.kmw-key.kmw-key-default[id$='K_BKSLASH+shift'] 
+.phone div.kmw-key.kmw-key-default[id$='K_SLASH+shift'], .tablet div.kmw-key.kmw-key-default[id$='K_SLASH+shift'] 
   { background:  #ffffb5  ; color: black; }
 
 
