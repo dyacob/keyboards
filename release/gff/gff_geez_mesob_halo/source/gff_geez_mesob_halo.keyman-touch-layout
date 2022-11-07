@@ -373,7 +373,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -774,7 +775,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -1173,7 +1175,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1285",
@@ -1571,7 +1574,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -1964,7 +1968,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -2359,7 +2364,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -2758,7 +2764,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -3159,7 +3166,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -3548,7 +3556,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -3941,7 +3950,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -4333,7 +4343,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -4725,7 +4736,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -5122,7 +5134,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -5499,7 +5512,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -5877,7 +5891,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -6275,7 +6290,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -6654,7 +6670,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -7035,7 +7052,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -7417,7 +7435,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -7814,7 +7833,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -8205,7 +8225,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_ኃምስ",
@@ -8634,7 +8655,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_WWEE",
@@ -9031,7 +9053,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -9424,7 +9447,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -9823,7 +9847,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -10222,7 +10247,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -10623,7 +10649,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -11022,7 +11049,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -11421,7 +11449,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -11822,7 +11851,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -12173,7 +12203,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -12566,7 +12597,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_ኃምስ",
@@ -12966,7 +12998,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_ኃምስ",
@@ -13364,7 +13397,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -13757,7 +13791,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -14148,7 +14183,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -14549,7 +14585,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -14940,7 +14977,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -15335,7 +15373,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -15727,7 +15766,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -16126,7 +16166,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -16528,7 +16569,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -16923,7 +16965,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -17315,7 +17358,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -17699,7 +17743,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -18090,7 +18135,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -18482,7 +18528,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -18875,7 +18922,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -19269,7 +19317,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -19656,7 +19705,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
@@ -20037,7 +20087,8 @@
                 "id": "K_SHIFT",
                 "text": "@",
                 "pad": "0",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "punctuation"
               },
               {
                 "id": "T_1280",
