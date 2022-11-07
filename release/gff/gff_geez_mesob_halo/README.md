@@ -1,5 +1,7 @@
-Geʾez Mesob Keyboard
-========================
+Mesob-Tsedal Fidelat Keyboard
+=============================
+
+መሶብ-ፀዳል ፊደላት
 
 Copyright (C) 2022 Geʾez Frontier Foundation
 
@@ -25,3 +27,10 @@ Supported Platforms
  * iOS
  * Android
  * Tablet
+
+Keyboard Layers
+---------------
+
+### Letters
+### Numbers
+### Punctuation
