@@ -2080,12 +2080,12 @@
                 "nextlayer": "የ-layer"
               },
               {
-                "id": "U_1E7EA",
+                "id": "T_WWEE",
                 "text": "𞟪",
                 "nextlayer": "default"
               },
               {
-                "id": "U_1E7EB",
+                "id": "T_WWU",
                 "text": "𞟫",
                 "nextlayer": "default"
               },
@@ -2178,7 +2178,7 @@
                 "nextlayer": "default"
               },
               {
-                "id": "U_1E7E8",
+                "id": "T_WWE",
                 "text": "𞟨",
                 "nextlayer": "default"
               },
@@ -2255,7 +2255,7 @@
                 "nextlayer": "ረ-layer"
               },
               {
-                "id": "U_1E7E9",
+                "id": "T_WWI",
                 "text": "𞟩",
                 "pad": "",
                 "nextlayer": "default"
@@ -2956,13 +2956,13 @@
                 "sp": "1"
               },
               {
-                "id": "U_1E7EE",
+                "id": "T_WWEE",
                 "text": "𞟮",
                 "pad": "",
                 "nextlayer": "default"
               },
               {
-                "id": "U_1383",
+                "id": "T_WWU",
                 "text": "ᎃ",
                 "nextlayer": "default"
               },
@@ -3051,7 +3051,7 @@
                 "nextlayer": "default"
               },
               {
-                "id": "U_1380",
+                "id": "T_WWE",
                 "text": "ᎀ",
                 "nextlayer": "default"
               },
@@ -3116,7 +3116,7 @@
                 "layer": "shift"
               },
               {
-                "id": "U_1E7ED",
+                "id": "T_WWI",
                 "text": "𞟭",
                 "pad": "",
                 "nextlayer": "default"
@@ -5301,12 +5301,12 @@
                 "nextlayer": "ወ-layer"
               },
               {
-                "id": "U_1E7F1",
+                "id": "T_WWEE_GURAGE",
                 "text": "𞟱",
                 "nextlayer": "default"
               },
               {
-                "id": "U_124C",
+                "id": "T_WWEE",
                 "text": "ቌ",
                 "nextlayer": "default"
               },
@@ -5361,12 +5361,12 @@
                 "nextlayer": "default"
               },
               {
-                "id": "U_1E7F2",
+                "id": "T_WWU_GURAGE",
                 "text": "𞟲",
                 "nextlayer": "default"
               },
               {
-                "id": "U_124D",
+                "id": "T_WWU",
                 "text": "ቍ",
                 "nextlayer": "default"
               },
@@ -5376,7 +5376,7 @@
                 "nextlayer": "default"
               },
               {
-                "id": "U_1248",
+                "id": "T_WWE",
                 "text": "ቈ",
                 "pad": "",
                 "nextlayer": "default"
@@ -5434,14 +5434,14 @@
                 "nextlayer": "ፐ-layer"
               },
               {
-                "id": "U_124A",
-                "text": "ቊ",
+                "id": "T_WWI_GURAGE",
+                "text": "𞟰",
                 "pad": "",
                 "nextlayer": "default"
               },
               {
-                "id": "U_1E7F0",
-                "text": "𞟰",
+                "id": "T_WWI",
+                "text": "ቊ",
                 "pad": "",
                 "nextlayer": "default"
               },
@@ -6056,16 +6056,16 @@
                 "nextlayer": "ወ-layer"
               },
               {
-                "id": "U_125C",
+                "id": "T_WWEE",
                 "text": "ቜ",
                 "pad": "",
                 "nextlayer": "default"
               },
               {
-                "id": "U_125D",
+                "id": "T_WWU",
                 "text": "ቝ",
                 "pad": "",
-                "nextlayer": "መ-layer"
+                "nextlayer": "default"
               },
               {
                 "id": "K_SPACE",
@@ -6146,7 +6146,7 @@
                 "nextlayer": "default"
               },
               {
-                "id": "U_1258",
+                "id": "T_WWE",
                 "text": "ቘ\t",
                 "nextlayer": "default"
               },
@@ -6209,7 +6209,7 @@
                 "nextlayer": "ፐ-layer"
               },
               {
-                "id": "U_125A",
+                "id": "T_WWI",
                 "text": "ቚ",
                 "pad": "",
                 "nextlayer": "default"
@@ -6833,12 +6833,12 @@
                 "nextlayer": "ወ-layer"
               },
               {
-                "id": "U_1E7F4",
+                "id": "T_WWEE",
                 "text": "𞟴",
                 "nextlayer": "default"
               },
               {
-                "id": "U_1387",
+                "id": "T_WWU",
                 "text": "ᎇ",
                 "nextlayer": "default"
               },
@@ -6905,7 +6905,7 @@
                 "nextlayer": "default"
               },
               {
-                "id": "U_1384",
+                "id": "T_WWE",
                 "text": "ᎄ",
                 "nextlayer": "default"
               },
@@ -6969,7 +6969,7 @@
                 "nextlayer": "ፐ-layer"
               },
               {
-                "id": "U_1E7F3",
+                "id": "T_WWI",
                 "text": "𞟳",
                 "pad": "",
                 "nextlayer": "default"
@@ -8637,13 +8637,13 @@
                 "sp": "1"
               },
               {
-                "id": "U_128C",
+                "id": "T_WWEE",
                 "text": "ኌ",
                 "pad": "55",
                 "nextlayer": "ዐ-layer"
               },
               {
-                "id": "U_128D",
+                "id": "T_WWU",
                 "text": "ኍ",
                 "pad": "",
                 "nextlayer": "ጨ-layer"
@@ -8703,7 +8703,7 @@
             "id": 2,
             "key": [
               {
-                "id": "U_128B",
+                "id": "T_WWA",
                 "text": "ኋ",
                 "pad": "110"
               },
@@ -8714,7 +8714,7 @@
                 "nextlayer": "default"
               },
               {
-                "id": "U_1288",
+                "id": "T_WWE",
                 "text": "ኈ",
                 "nextlayer": "ጠ-layer"
               },
@@ -8802,7 +8802,7 @@
                 ]
               },
               {
-                "id": "U_128A",
+                "id": "T_WWI",
                 "text": "ኊ",
                 "nextlayer": "ተ-layer"
               },
@@ -10656,14 +10656,14 @@
                 "layer": "shift"
               },
               {
-                "id": "U_1E7F6",
+                "id": "T_WWEE_GURAGE",
                 "text": "𞟶",
                 "nextlayer": "default"
               },
               {
-                "id": "U_12B4",
+                "id": "T_WWEE",
                 "text": "ኴ",
-                "nextlayer": "ጠ-layer"
+                "nextlayer": "default"
               },
               {
                 "id": "K_S",
@@ -10712,10 +10712,10 @@
               {
                 "id": "T_WWA",
                 "text": "ኳ",
-                "nextlayer": "ተ-layer"
+                "nextlayer": "default"
               },
               {
-                "id": "U_1E7F7",
+                "id": "T_WWU_GURAGE",
                 "text": "𞟷",
                 "nextlayer": "default"
               },
@@ -10726,12 +10726,12 @@
                 "nextlayer": "default"
               },
               {
-                "id": "U_12B5",
+                "id": "T_WWU",
                 "text": "ኵ",
                 "nextlayer": "default"
               },
               {
-                "id": "U_12B0",
+                "id": "T_WWE",
                 "text": "ኰ",
                 "nextlayer": "default"
               },
@@ -10813,13 +10813,13 @@
                 "sp": "1"
               },
               {
-                "id": "U_1E7F5",
+                "id": "T_WWI_GURAGE",
                 "text": "𞟵",
                 "pad": "",
                 "nextlayer": "default"
               },
               {
-                "id": "U_12B2",
+                "id": "T_WWI",
                 "text": "ኲ",
                 "pad": "",
                 "nextlayer": "default"
@@ -11452,12 +11452,12 @@
                 "layer": "shift"
               },
               {
-                "id": "U_12C4",
+                "id": "T_WWEE",
                 "text": "ዄ",
                 "nextlayer": "default"
               },
               {
-                "id": "U_12C5",
+                "id": "T_WWU",
                 "text": "ዅ",
                 "pad": "",
                 "nextlayer": "default"
@@ -11514,7 +11514,7 @@
                 "nextlayer": "ተ-layer"
               },
               {
-                "id": "U_12C3",
+                "id": "T_WWA",
                 "text": "ዃ",
                 "nextlayer": "default"
               },
@@ -11525,7 +11525,7 @@
                 "nextlayer": "default"
               },
               {
-                "id": "U_12C0",
+                "id": "T_WWE",
                 "text": "ዀ",
                 "nextlayer": "default"
               },
@@ -11614,7 +11614,7 @@
                 "sp": "1"
               },
               {
-                "id": "U_12C2",
+                "id": "T_WWI",
                 "text": "ዂ",
                 "nextlayer": "default"
               },
@@ -15375,12 +15375,12 @@
                 "layer": "shift"
               },
               {
-                "id": "U_1E7F9",
+                "id": "T_WWEE_GURAGE",
                 "text": "𞟹",
                 "nextlayer": "default"
               },
               {
-                "id": "U_1314",
+                "id": "T_WWEE",
                 "text": "ጔ",
                 "nextlayer": "ተ-layer"
               },
@@ -15434,7 +15434,7 @@
                 "nextlayer": "ጠ-layer"
               },
               {
-                "id": "U_1E7FA",
+                "id": "T_WWU_GURAGE",
                 "text": "𞟺",
                 "nextlayer": "default"
               },
@@ -15444,13 +15444,13 @@
                 "nextlayer": "ገ-layer"
               },
               {
-                "id": "U_1315",
+                "id": "T_WWU",
                 "text": "ጕ",
                 "pad": "",
                 "nextlayer": "default"
               },
               {
-                "id": "U_1310",
+                "id": "T_WWE",
                 "text": "ጐ",
                 "nextlayer": "ፀ-layer"
               },
@@ -15526,12 +15526,12 @@
                 "sp": "1"
               },
               {
-                "id": "U_1E7F8",
+                "id": "T_WWI_GURAGE",
                 "text": "𞟸",
                 "nextlayer": "default"
               },
               {
-                "id": "U_1312",
+                "id": "T_WWI",
                 "text": "ጒ",
                 "nextlayer": "default"
               },
@@ -16312,13 +16312,13 @@
                 "nextlayer": "ዐ-layer"
               },
               {
-                "id": "U_2D95",
+                "id": "T_WWEE",
                 "text": "ⶕ",
                 "pad": "",
                 "nextlayer": "አ-layer"
               },
               {
-                "id": "U_2D96",
+                "id": "T_WWU",
                 "text": "ⶖ",
                 "nextlayer": "ሀ-layer"
               },
@@ -16408,7 +16408,7 @@
                 "nextlayer": "ጘ-layer"
               },
               {
-                "id": "U_2D93",
+                "id": "T_WWE",
                 "text": "ⶓ",
                 "nextlayer": "default"
               },
@@ -16470,7 +16470,7 @@
                 "nextlayer": "ቨ-layer"
               },
               {
-                "id": "U_2D94",
+                "id": "T_WWI",
                 "text": "ⶔ",
                 "pad": "",
                 "nextlayer": "ጰ-layer"
@@ -19080,12 +19080,12 @@
                 "nextlayer": "ሀ-layer"
               },
               {
-                "id": "U_1E7FC",
+                "id": "T_WWEE",
                 "text": "𞟼",
                 "nextlayer": "default"
               },
               {
-                "id": "U_138B",
+                "id": "T_WWU",
                 "text": "ᎋ",
                 "nextlayer": "default"
               },
@@ -19172,7 +19172,7 @@
                 "nextlayer": "default"
               },
               {
-                "id": "U_1388",
+                "id": "T_WWE",
                 "text": "ᎈ",
                 "nextlayer": "default"
               },
@@ -19237,7 +19237,7 @@
                 "nextlayer": "default"
               },
               {
-                "id": "U_1E7FB",
+                "id": "T_WWI",
                 "text": "𞟻",
                 "pad": "",
                 "nextlayer": "default"
@@ -19829,12 +19829,12 @@
                 ]
               },
               {
-                "id": "U_1E7FE",
+                "id": "T_WWEE",
                 "text": "𞟾",
                 "nextlayer": "default"
               },
               {
-                "id": "U_138F",
+                "id": "T_WWU",
                 "text": "ᎏ",
                 "pad": "",
                 "nextlayer": "default"
@@ -19903,7 +19903,7 @@
                 "nextlayer": "default"
               },
               {
-                "id": "U_138C",
+                "id": "T_WWE",
                 "text": "ᎌ",
                 "pad": "",
                 "nextlayer": "default"
@@ -19965,7 +19965,7 @@
                 "sp": "1"
               },
               {
-                "id": "U_1E7FD",
+                "id": "T_WWI",
                 "text": "𞟽",
                 "pad": "55",
                 "nextlayer": "default"
