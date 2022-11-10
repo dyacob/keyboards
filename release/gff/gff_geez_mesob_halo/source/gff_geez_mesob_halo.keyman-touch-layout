@@ -67,7 +67,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -188,7 +189,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "0"
+                "sp": "0",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -357,7 +359,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -436,7 +439,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -570,7 +574,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -759,7 +764,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -836,7 +842,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -968,7 +975,8 @@
                 "text": "",
                 "pad": "",
                 "width": "100",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "T_ራብዕ",
@@ -1159,7 +1167,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -1238,7 +1247,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -1370,7 +1380,8 @@
                 "text": "",
                 "pad": "",
                 "width": "100",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "T_WWA",
@@ -1558,7 +1569,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -1637,7 +1649,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -1769,7 +1782,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "T_WWA",
@@ -1952,7 +1966,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -2031,7 +2046,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -2163,7 +2179,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -2348,7 +2365,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -2427,7 +2445,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -2561,7 +2580,8 @@
                 "text": "",
                 "pad": "",
                 "width": "100",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "T_ኃምስ",
@@ -2748,7 +2768,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -2827,7 +2848,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -2960,7 +2982,8 @@
                 "text": "",
                 "pad": "",
                 "width": "100",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "T_WWEE",
@@ -3150,7 +3173,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -3229,7 +3253,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -3363,7 +3388,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -3540,7 +3566,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -3619,7 +3646,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -3753,7 +3781,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "T_ኃምስ",
@@ -3934,7 +3963,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -4013,7 +4043,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -4147,7 +4178,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -4327,7 +4359,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -4406,7 +4439,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -4540,7 +4574,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -4720,7 +4755,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -4799,7 +4835,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -4937,7 +4974,8 @@
                 "text": "",
                 "pad": "",
                 "width": "100",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -5118,7 +5156,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -5197,7 +5236,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -5328,7 +5368,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -5496,7 +5537,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -5575,7 +5617,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -5706,7 +5749,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -5875,7 +5919,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -5954,7 +5999,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -6087,7 +6133,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -6274,7 +6321,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -6353,7 +6401,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -6485,7 +6534,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -6654,7 +6704,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -6733,7 +6784,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -6864,7 +6916,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -7036,7 +7089,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -7115,7 +7169,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -7248,7 +7303,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -7419,7 +7475,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -7494,7 +7551,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -7628,7 +7686,8 @@
                 "text": "",
                 "pad": "",
                 "width": "100",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -7817,7 +7876,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -7892,7 +7952,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -8020,7 +8081,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -8209,7 +8271,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -8284,7 +8347,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -8449,7 +8513,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -8639,7 +8704,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -8717,7 +8783,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -8847,7 +8914,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -9037,7 +9105,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -9116,7 +9185,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -9250,7 +9320,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "T_ኃምስ",
@@ -9431,7 +9502,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -9510,7 +9582,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -9644,7 +9717,8 @@
                 "text": "",
                 "pad": "",
                 "width": "100",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "T_ኃምስ",
@@ -9831,7 +9905,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -9910,7 +9985,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -10044,7 +10120,8 @@
                 "text": "",
                 "pad": "",
                 "width": "100",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -10231,7 +10308,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -10307,7 +10385,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -10437,7 +10516,8 @@
                 "text": "",
                 "pad": "",
                 "width": "100",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "T_ሣልስ",
@@ -10633,7 +10713,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -10709,7 +10790,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -10837,7 +10919,8 @@
                 "text": "",
                 "pad": "",
                 "width": "100",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "T_WWI_GURAGE",
@@ -11033,7 +11116,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -11108,7 +11192,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -11237,7 +11322,8 @@
                 "text": "",
                 "pad": "",
                 "width": "100",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "T_ሣልስ",
@@ -11433,7 +11519,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -11508,7 +11595,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -11640,7 +11728,8 @@
                 "text": "",
                 "pad": "",
                 "width": "100",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "T_WWI",
@@ -11835,7 +11924,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -11914,7 +12004,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -12016,7 +12107,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -12187,7 +12279,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -12266,7 +12359,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -12395,7 +12489,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -12581,7 +12676,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -12657,7 +12753,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -12793,7 +12890,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -12982,7 +13080,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -13057,7 +13156,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -13192,7 +13292,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -13381,7 +13482,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -13457,7 +13559,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -13588,7 +13691,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "T_ሣልስ",
@@ -13775,7 +13879,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -13851,7 +13956,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -13981,7 +14087,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -14167,7 +14274,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -14246,7 +14354,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -14380,7 +14489,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -14569,7 +14679,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -14645,7 +14756,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -14775,7 +14887,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -14961,7 +15074,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -15038,7 +15152,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -15168,7 +15283,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "T_ሣልስ",
@@ -15357,7 +15473,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -15433,7 +15550,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -15562,7 +15680,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "T_WWI_GURAGE",
@@ -15750,7 +15869,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -15829,7 +15949,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -15967,7 +16088,8 @@
                 "text": "",
                 "pad": "",
                 "width": "100",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -16150,7 +16272,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -16229,7 +16352,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -16368,7 +16492,8 @@
                 "text": "",
                 "pad": "",
                 "width": "100",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -16553,7 +16678,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -16627,7 +16753,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -16760,7 +16887,8 @@
                 "text": "",
                 "pad": "",
                 "width": "100",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -16949,7 +17077,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -17025,7 +17154,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -17152,7 +17282,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -17342,7 +17473,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -17421,7 +17553,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -17553,7 +17686,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -17727,7 +17861,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -17804,7 +17939,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -17934,7 +18070,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -18119,7 +18256,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -18196,7 +18334,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -18327,7 +18466,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -18512,7 +18652,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -18591,7 +18732,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -18725,7 +18867,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -18906,7 +19049,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -18985,7 +19129,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -19119,7 +19264,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -19301,7 +19447,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -19380,7 +19527,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -19514,7 +19662,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -19689,7 +19838,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -19768,7 +19918,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -19901,7 +20052,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -20071,7 +20223,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
@@ -20150,7 +20303,8 @@
                 "id": "K_BKSP",
                 "text": "*BkSp*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           },
@@ -20282,7 +20436,8 @@
                 "text": "",
                 "pad": "",
                 "width": "200",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               },
               {
                 "id": "K_H",
@@ -20466,7 +20621,8 @@
                 "id": "K_ENTER",
                 "text": "*Enter*",
                 "pad": "55",
-                "sp": "1"
+                "sp": "1",
+                "nextlayer": "default"
               }
             ]
           }
