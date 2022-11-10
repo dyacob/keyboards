@@ -68,3 +68,9 @@ Tapping the `#+€` key shifts to a 2nd layer to access all remaining punctuatio
 
 
 Simply tap the `ሀለሐ` key to return to the starting letters layers.
+
+## Tablet Layout &amp; Layers
+
+The Mesob tablet layout is identical to the mobile phone layout with the exception of a single punctuation layer used, which takes advantage of the greater space available.  The larger punctuation layer is shown in the following image:
+
+<img src="source/help/images/gff_mesob-tablet-punctuation-1.jpeg" style="border: 1px solid black;"/>
