@@ -17,6 +17,16 @@
 EXTRA;
   require_once('header.php');
 ?>
+<style type="text/css" media="screen">
+code {
+    padding: 0.2em 0.4em;
+    margin: 0;
+    font-size: 85%;
+    background-color: rgba(175, 184, 193, 0.2);
+    border-radius: 6px;
+    box-sizing: border-box;
+}
+</style>
 
 <p style='margin:0px'>Keyboard &#169; 2022. Geʾez Frontier Foundation.</p>
 
@@ -38,95 +48,110 @@ EXTRA;
 
 <div id='Overview'>
 <h2>Overview</h2>
-<p>
-This keyboard is designed for use with the Amharic language of Ethiopia in Africa. Typing follows a consonant-vowel pattern. It is designed for use with a standard (QWERTY) keyboard.
-</p>
-<p class='keymanweb'>Most computers will automatically download a special font to display this keyboard correctly.  However, if the layout or the charts below do not display correctly, please read the <a target="_blank" href="/troubleshooting/#boxes">troubleshooting guide</a>.
-</p>
-<p>
-<a href="#Related">Click here</a> to see keyboard layouts for other Ethiopic languages, like Awngi, Bench, Blin, Dizi, Ge'ez, Me'en, Mursi, Sebatbeit, Suri and Tigrigna.
+<p style="text-align: justify;">
+This is a language neutral touch (only) keyboard for mobile devices. The keyboard provides all Ethiopic letters in active use on a single layer in circular, semi-clockwise orientation.  It is meant be intuitive for new typist and fits more comfortably on a tablet device than a mobile phone.
 </p>
 </div>
 
 <div id='Using'>
 <h2>Using this Keyboard</h2>
 
-<h3>Keyboard Layout</h3>
+<div>
+<h2><a id="letters" name="mobile"></a>Mobile Layout &amp; Layers</h2>
 
-<div id='osk-container'>
-  <h2>Desktop Keyboard Layout</h2>
-  <div id='osk' data-states='default shift'></div>
+<p style="text-align: justify;">
+The mobile keyboard uses the “Mesob” style layout of letters where letters are arranged in a series of 4 rings.  Modifier keys that will change the vowel of a letter appear in the outer most ring. 
+</p>
+
+<p style="text-align: justify;">
+The Mesob layout also has the goal of providing *all* letters actively used by the languages written with Geʾez script in a single keyboard “layer”. Given the high number of letters appearing on the keyboard, it is a better fit for tablet devices than for typical mobile phones. Consider using the more compact <a href="https://github.com/keymanapp/keyboards/tree/master/release/gff/gff_mesob_halo">Mesobe Sedale Fidelat Keyboard</a> which is a similar design and fits more comfortably on the smaller mobile phone screens.
+</p>
+
+<div style="margin-left: 1em;">
+<h3>Letters</h3>
+<p style="text-align: justify;">
+The most frequently used letters generally appear in inner rings, and less used letter appear in the out rings. Letter appear in a semi-alphabetic arrangement in the clockwise dicrection, but not strictly so.  Some effort is made to group related letters together (related either by sound or shape).
+</p>
+
+<img src="gff_mesob-default-1.jpeg" style="border: 1px solid black;" width="500px"/>
+
+
+<p style="text-align: justify;">
+Tapping a key once, the modifier letters on the left (<code>ኡ</code>, <code>ኢ</code> <code>ኣ</code>,) and right  (<code>ኤ</code>, <code>ኦ</code>, <code>ዋ</code>) of the outer ring will update. For example, tapping <code>ገ</code> the modifiers change to <code>ጉ</code>, <code>ጊ</code>, <code>ጋ</code>, <code>ጌ</code>, <code>ጎ</code> and  <code>ጓ</code>.  If a modifier is tapped, ገ will be updated on screen and replaced with the selected letter.
+</p>
+
+<img src="gff_mesob-default-2.jpeg" style="border: 1px solid black;" width="500px"/> 
+
+
+<p style="text-align: justify;">
+Note how the <code>ዋ</code> key changes to <code>ጓ</code>.  Tapping <code>ዋ</code> repeatedly will update <code>ጓ</code> on the screen to the related syllables: 
+ <code>ጐ</code>, <code>ጒ</code>, <code>ጔ</code> and <code>ጕ</code>. 
+</p>
+
+<p style="text-align: justify;">
+As an alternative, if preferred, holding a key down for a few moments (called a "longpress") a popup menu appears where you can tap the letter desired.  The popup menu for <code>ግ</code> is shown below:
+</p>
+
+<img src="gff_mesob-default-3.jpeg" style="border: 1px solid black;" width="500px"/> 
+
+
+<p style="text-align: justify;">
+Like the letter keys, the <code>።</code> and <code>’</code> keys also have popup menus to offer the most frequently used punctuation.
+</p>
 </div>
 
-<div id='osk-phone-container'>
-  <h2>Phone Keyboard Layout</h2>
-  <div id='osk-phone' data-states='default non-amharic punctuation punctuation-2'></div>
+<div style="margin-left: 1em;">
+<h3>Numerals</h3>
+
+<p style="text-align: justify;">
+Tap the `1/፩` key to shift to the numerals layer. The numerals layer presents the Western numbers, Geʾez numbers, and all Geʾez punctuation.
+</p>
+
+<img src="gff_mesob-numerals-1.jpeg" style="border: 1px solid black;" width="500px"/>
+
+<p style="text-align: justify;">
+Tapping the `@` shifts to a 3rd layer to access all remaining punctuation:
+</p>
+
 </div>
 
-<div id='osk-tablet-container'>
-  <h2>Tablet Keyboard Layout</h2>
-  <div id='osk-tablet' data-states='default non-amharic punctuation punctuation-2'></div>
+<div style="margin-left: 1em;">
+<h3>Punctuation</h3>
+
+<p style="text-align: justify;">
+Punctuation is distributed over two layers on mobile phones, and appears on a single layer on tablets where more screen space is available. The first punctuation layer provides the most frequently used set of symbols:
+</p>
+
+<img src="gff_mesob-punctuation-1.jpeg" style="border: 1px solid black;" width="500px"/>
+
+<p style="text-align: justify;">
+Tapping the `#+€` key shifts to a 2nd layer to access all remaining punctuation:
+</p>
+<img src="gff_mesob-punctuation-2.jpeg" style="border: 1px solid black;" width="500px"/> 
+
+<p style="text-align: justify;">
+Simply tap the `ሀለሐ` key to return to the starting letters layers.
+</p>
+
+</div>
 </div>
 
-<p>Note: Longpress keys are not currently visible in this static documentation, and so some additional letters may be accessible through these longpress keys.</p>
+<div>
+<h2>Tablet Layout &amp; Layers</h2>
 
-<div id='Quickstart'>
-<h3>Quickstart</h3>
+<p style="text-align: justify;">
+The Mesob tablet layout is identical to the mobile phone layout with the exception of a single punctuation layer used, which takes advantage of the greater space available.  The larger punctuation layer is shown in the following image:
+</p>
 
-<p>This keyboard is designed to work intuitively with a standard (QWERTY) keyboard. This means that the Amharic sounds in this keyboard can be found by thinking of the most similar English letters. For example, you can type <span class='keys'>selam</span> to get <span class='highlightExample'>ሰላም</span>.
-</p>
-<p>As you can see, each Amharic character is typed with the base consonant first and then the vowel. For example, <span class='highlightExample'>ጤ</span> is typed <span class='keys'>T</span> then <span class='keys'>ie</span>.
-</p>
-</div>
-
-<div id="Examples">
-<h3>Examples</h3>
-<?php renderLanguageExamples(); ?>
-</div>
-
-<div id="Documentation">
-<h3>Keyboard Details</h3>
-	
-<p>
-The Amharic keyboard uses an intuitive <i>phonetic</i> system where the Amharic sounds are matched to the nearest English letters. You can think of how a word sounds in
-Amharic and then type it out with English.
-</p>
-<p style='margin-left:40px'><b>Example:</b> typing <span class='keys'>selam</span> produces <span class='highlightExample'>ሰላም</span></p>
-<p>
-Because Amharic has more sounds than English, we sometimes have to adjust this
-rule. For example, English does not have <span class='highlightExample'>ጠ</span> and the closest similar letter would be <span class='input'>t</span>. In this case you should type <span class='keys'>T</span>, for capital <span class='input'>T</span>:</p>
-<p style='margin-left:40px'><b>Example:</b> typing <span class='keys'>TienaysTlN</span> produces <span class='highlightExample'>ጤናይስጥልኝ</span></p>
-<p>Notice that we used capital <span class='input'>N</span> also for <span class='highlightExample'>ኝ</span> and we needed both <span class='input'>ie</span> together to make the 5th <span class='highlightExample'>ጠ</span> letter, <span class='highlightExample'>ጤ</span>. When the letter you want to type does not appear when you hit the similar sounding key in English, try using the capital next. If typing the capital does not work, then try hitting the key two times:
-</p>
-<p style='margin-left:40px'><b>Example:</b> typing <span class='keys'>sselam</span> produces <span class='highlightExample'>ሠላም</span></p>
-<p style='margin-left:40px'><b>Example:</b> typing <span class='keys'>SSeHey</span> produces <span class='highlightExample'>ፀሐይ</span></p>
-<p>Next, when you need to type the extra letters of Amharic like <span class='highlightExample'>ሏ</span>,<span class='highlightExample'>ሟ</span>,<span class='highlightExample'>ኴ</span> you can do so by typing an extra vowel after a <span class='input'>u</span>:
-</p>
-<p style='margin-left:40px'><b>Example:</b> typing <span class='keys'>mua</span> produces <span class='highlightExample'>ሟ</span></p>
-<p style='margin-left:40px'><b>Example:</b> typing <span class='keys'>guie</span> produces <span class='highlightExample'>ጔ</span></p>
-<p>
-Finally, we must introduce a special rule for ' (apostrophe). Some words are spelt with a <span class='highlightExample'>ሳድስ</span> (6<sup>th</sup>) letter followed by a vowel, like <span class='highlightExample'>ርኤ</span> in <span class='highlightExample'>ገብርኤል</span>. We use the apostrophe here to type <span class='keys'>gebr'iel</span> to make sure we get <span class='highlightExample'>ርኤ</span> instead of <span class='highlightExample'>ሬ</span>.
-</p>
-<p style='margin-left:40px'><b>Example:</b> typing <span class='keys'>mel'ak</span> produces <span class='highlightExample'>መልአክ</span></p>
-<p style='margin-left:40px'><b>Example:</b> typing <span class='keys'>m'eeraf</span> produces <span class='highlightExample'>ምዕራፍ</span></p>
-<p>
-Type Apostrophe twice after a 6<sup>th</sup> order letter to make it appear in your document:</p>
-<p style='margin-left:40px'><b>Example:</b> typing <span class='keys'>mel''ak</span> produces <span class='highlightExample'>መል'አክ</span></p>
-<p>
-We also use the &ldquo;number sign&rdquo; (&ldquo;#&rdquo; also know as the &ldquo;hash mark&rdquo;) for Ethiopic numbers, so <span class='keys'>#1</span> becomes <span class='highlightExample'>፩</span> and so on. If a <span class='highlightExample'>#</span> is needed in your document before a number, type it twice and: <span class='keys'>##1</span> becomes <span class='highlight'>#1</span>. The double strike works for other punctuation as well,
-so typing <span class='keys'>;</span> once makes <span class='highlightExample'>፤</span> and a second time gives English semicolon <span class='input'>;</span>. 
-</p>
-<p style='margin-top:10px'>
-See <a target="_blank" href='AmharicTyping-English.pdf'>Typing in Amharic (English)</a> or 
-<a target="_blank" href='AmharicTyping-Amharic.pdf'>Typing in Amharic (Amharic)</a> 
-for full details on how to type all Amharic letters, numbers and punctuation.
-</p>
+<img src="gff_mesob-tablet-punctuation-1.jpeg" style="border: 1px solid black;" width="500px"/>
 </div>
 </div>
 
 <div id="Troubleshooting">
 <h2>Troubleshooting</h2>
-<p class='keymanweb'>If the characters you type or those on the On Screen Keyboard do not appear to display correctly, please read the <a target="_blank" href="/troubleshooting/#boxes">KeymanWeb troubleshooting guide</a>.</p>
+<p class='keymanweb'>It is expected some of the newer letters introduced for the Gurage language will not appear on screen when using
+Keyman with other apps, such as for text messaging.  This will be resolved in the near future when companies like Apple and Samsung update
+their products.</p>
 
 <p>For any other questions, <a target="_blank" href="https://keyman.com/contact/">contact us</a>.</p>
 

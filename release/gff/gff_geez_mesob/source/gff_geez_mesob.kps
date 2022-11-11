@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Package>
   <System>
-    <KeymanDeveloperVersion>15.0.271.0</KeymanDeveloperVersion>
+    <KeymanDeveloperVersion>15.0.272.0</KeymanDeveloperVersion>
     <FileVersion>7.0</FileVersion>
   </System>
   <Options>
@@ -103,6 +103,48 @@
       <Description>Font Abyssinica SIL</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>help\images\gff_mesob-default-1.jpeg</Name>
+      <Description>File gff_mesob-default-1.jpeg</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.jpeg</FileType>
+    </File>
+    <File>
+      <Name>help\images\gff_mesob-default-2.jpeg</Name>
+      <Description>File gff_mesob-default-2.jpeg</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.jpeg</FileType>
+    </File>
+    <File>
+      <Name>help\images\gff_mesob-default-3.jpeg</Name>
+      <Description>File gff_mesob-default-3.jpeg</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.jpeg</FileType>
+    </File>
+    <File>
+      <Name>help\images\gff_mesob-numerals-1.jpeg</Name>
+      <Description>File gff_mesob-numerals-1.jpeg</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.jpeg</FileType>
+    </File>
+    <File>
+      <Name>help\images\gff_mesob-punctuation-1.jpeg</Name>
+      <Description>File gff_mesob-punctuation-1.jpeg</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.jpeg</FileType>
+    </File>
+    <File>
+      <Name>help\images\gff_mesob-punctuation-2.jpeg</Name>
+      <Description>File gff_mesob-punctuation-2.jpeg</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.jpeg</FileType>
+    </File>
+    <File>
+      <Name>help\images\gff_mesob-tablet-punctuation-1.jpeg</Name>
+      <Description>File gff_mesob-tablet-punctuation-1.jpeg</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.jpeg</FileType>
     </File>
   </Files>
   <Keyboards>

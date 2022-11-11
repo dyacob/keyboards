@@ -21,7 +21,7 @@
       </Details>
     </File>
     <File>
-      <ID>id_bafdf9f7b8fc0032b41d8ac0555739ac</ID>
+      <ID>id_3cf5d2ae470c882f221d1fddecfb5bad</ID>
       <Filename>gff_geez_mesob.kps</Filename>
       <Filepath>source\gff_geez_mesob.kps</Filepath>
       <FileVersion></FileVersion>
@@ -44,7 +44,7 @@
       <Filepath>source\..\..\..\shared\gff\readme.htm</Filepath>
       <FileVersion></FileVersion>
       <FileType>.htm</FileType>
-      <ParentFileID>id_bafdf9f7b8fc0032b41d8ac0555739ac</ParentFileID>
+      <ParentFileID>id_3cf5d2ae470c882f221d1fddecfb5bad</ParentFileID>
     </File>
     <File>
       <ID>id_4dac821376a66e3dd471d6d4d6c77c7e</ID>
@@ -52,7 +52,7 @@
       <Filepath>source\..\..\..\shared\gff\sideimage.bmp</Filepath>
       <FileVersion></FileVersion>
       <FileType>.bmp</FileType>
-      <ParentFileID>id_bafdf9f7b8fc0032b41d8ac0555739ac</ParentFileID>
+      <ParentFileID>id_3cf5d2ae470c882f221d1fddecfb5bad</ParentFileID>
     </File>
     <File>
       <ID>id_90434375fde64a2c595f8ba32a6e1662</ID>
@@ -60,7 +60,7 @@
       <Filepath>source\..\..\..\shared\fonts\geez\OFL.txt</Filepath>
       <FileVersion></FileVersion>
       <FileType>.txt</FileType>
-      <ParentFileID>id_bafdf9f7b8fc0032b41d8ac0555739ac</ParentFileID>
+      <ParentFileID>id_3cf5d2ae470c882f221d1fddecfb5bad</ParentFileID>
     </File>
     <File>
       <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
@@ -68,7 +68,7 @@
       <Filepath>source\welcome.htm</Filepath>
       <FileVersion></FileVersion>
       <FileType>.htm</FileType>
-      <ParentFileID>id_bafdf9f7b8fc0032b41d8ac0555739ac</ParentFileID>
+      <ParentFileID>id_3cf5d2ae470c882f221d1fddecfb5bad</ParentFileID>
     </File>
     <File>
       <ID>id_e79e0b6be7be2e9526d2654c59953019</ID>
@@ -76,7 +76,7 @@
       <Filepath>source\..\build\gff_geez_mesob.js</Filepath>
       <FileVersion></FileVersion>
       <FileType>.js</FileType>
-      <ParentFileID>id_bafdf9f7b8fc0032b41d8ac0555739ac</ParentFileID>
+      <ParentFileID>id_3cf5d2ae470c882f221d1fddecfb5bad</ParentFileID>
     </File>
     <File>
       <ID>id_4363caa0e944c8464fd764595ad9e5a2</ID>
@@ -84,7 +84,63 @@
       <Filepath>source\..\..\..\shared\fonts\sil\abyssinica\AbyssinicaSIL-Regular.ttf</Filepath>
       <FileVersion></FileVersion>
       <FileType>.ttf</FileType>
-      <ParentFileID>id_bafdf9f7b8fc0032b41d8ac0555739ac</ParentFileID>
+      <ParentFileID>id_3cf5d2ae470c882f221d1fddecfb5bad</ParentFileID>
+    </File>
+    <File>
+      <ID>id_e1caffa7951646ea584494136c109add</ID>
+      <Filename>gff_mesob-default-1.jpeg</Filename>
+      <Filepath>source\help\images\gff_mesob-default-1.jpeg</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.jpeg</FileType>
+      <ParentFileID>id_3cf5d2ae470c882f221d1fddecfb5bad</ParentFileID>
+    </File>
+    <File>
+      <ID>id_49a0299861794e930148668f879ee652</ID>
+      <Filename>gff_mesob-default-2.jpeg</Filename>
+      <Filepath>source\help\images\gff_mesob-default-2.jpeg</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.jpeg</FileType>
+      <ParentFileID>id_3cf5d2ae470c882f221d1fddecfb5bad</ParentFileID>
+    </File>
+    <File>
+      <ID>id_7666bb974d3278a9b4711f172350b5ca</ID>
+      <Filename>gff_mesob-default-3.jpeg</Filename>
+      <Filepath>source\help\images\gff_mesob-default-3.jpeg</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.jpeg</FileType>
+      <ParentFileID>id_3cf5d2ae470c882f221d1fddecfb5bad</ParentFileID>
+    </File>
+    <File>
+      <ID>id_66ad8c2b25d24f69be8b7bf64621aaa7</ID>
+      <Filename>gff_mesob-numerals-1.jpeg</Filename>
+      <Filepath>source\help\images\gff_mesob-numerals-1.jpeg</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.jpeg</FileType>
+      <ParentFileID>id_3cf5d2ae470c882f221d1fddecfb5bad</ParentFileID>
+    </File>
+    <File>
+      <ID>id_ddf064c7853e525ff2e6d5b7dfa1071e</ID>
+      <Filename>gff_mesob-punctuation-1.jpeg</Filename>
+      <Filepath>source\help\images\gff_mesob-punctuation-1.jpeg</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.jpeg</FileType>
+      <ParentFileID>id_3cf5d2ae470c882f221d1fddecfb5bad</ParentFileID>
+    </File>
+    <File>
+      <ID>id_edb977994f9fc612f7354024e6171749</ID>
+      <Filename>gff_mesob-punctuation-2.jpeg</Filename>
+      <Filepath>source\help\images\gff_mesob-punctuation-2.jpeg</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.jpeg</FileType>
+      <ParentFileID>id_3cf5d2ae470c882f221d1fddecfb5bad</ParentFileID>
+    </File>
+    <File>
+      <ID>id_1e85ea6482d84fddfa3cb5f166b608b9</ID>
+      <Filename>gff_mesob-tablet-punctuation-1.jpeg</Filename>
+      <Filepath>source\help\images\gff_mesob-tablet-punctuation-1.jpeg</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.jpeg</FileType>
+      <ParentFileID>id_3cf5d2ae470c882f221d1fddecfb5bad</ParentFileID>
     </File>
   </Files>
 </KeymanDeveloperProject>
