@@ -23,13 +23,13 @@ This is a language neutral touch (only) keyboard for mobile devices.  The keyboa
 
 ## Keyboard Layers
 
-The mobile keyboard uses the “Mesob” style layout of letters where letters are arranged in a series of 4 rings.  Modifier keys that will change the vowel of a letter appear in the outer most ring. 
+The mobile keyboard uses the “Mesob” style layout of letters where letters are arranged in a series of 4 rings.  Modifier keys that will change the vowel of a letter appear dynamically on screen in selection “Halos”. 
 
 The Mesob layout also has the goal of providing *all* letters actively used b the languages written with Geʾez script in a single keyboard “layer”. Given the high number of letters appearing on the keyboard, it is a better fit for larger size mobile phones.   Consider using the more compact [GFF Amharic Keyboard](https://github.com/keymanapp/keyboards/tree/master/release/gff/gff_amharic) for regular sized mobile phones.
 
 ### Letters
 
-The most frequently used letters generally appear in inner rings, and less used letter appear in the out rings. Letter appear in a semi-alphabetic arrangement in the clockwise direction, but not strictly so.  Some effort is made to group related letters together (related either by sound or shape).
+The most frequently used letters generally appear in inner rings, and less used letter appear in the out rings. Letters appear in a semi-alphabetic arrangement in the clockwise direction, but not strictly so.  Some effort is made to group related letters together (related either by sound or shape).
 
 <img src="source/help/images/gff_mesob_halo-default-1.jpeg" style="border: 1px solid black;"/>
 

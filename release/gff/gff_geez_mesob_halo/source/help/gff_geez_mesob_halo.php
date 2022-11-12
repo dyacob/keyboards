@@ -57,7 +57,7 @@ This is a language neutral touch (only) keyboard for mobile devices.  The keyboa
 <h3>Mobile Layout &amp; Layers</h3>
 
 <p style="text-align: justify;">
-The mobile keyboard uses the “Mesob” style layout of letters where letters are arranged in a series of 4 rings.  Modifier keys that will change the vowel of a letter appear in the outer most ring. 
+The mobile keyboard uses the “Mesob” style layout of letters where letters are arranged in a series of 4 rings.  Modifier keys that will change the vowel of a letter appear dynamically on screen in selection “Halos”.  
 </p>
 
 <p style="text-align: justify;">
@@ -68,7 +68,7 @@ The Mesob layout also has the goal of providing <em>all</em> letters actively us
 <div style="margin-left: 1em;">
 <h4>Letters</h4>
 <p style="text-align: justify;">
-The most frequently used letters generally appear in inner rings, and less used letter appear in the out rings. Letter appear in a semi-alphabetic arrangement in the clockwise direction, but not strictly so.  Some effort is made to group related letters together (related either by sound or shape).
+The most frequently used letters generally appear in inner rings, and less used letter appear in the out rings. Letters appear in a semi-alphabetic arrangement in the clockwise direction, but not strictly so.  Some effort is made to group related letters together (related either by sound or shape).
 </p>
 
 <img src="images/gff_mesob_halo-default-1.jpeg" style="border: 1px solid black;"/>
