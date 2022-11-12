@@ -1,4 +1,4 @@
-# Mesob Fidelat Keyboard
+# Mesobe Fidelat (መሶበ ፊደላት) Keyboard
 
 Copyright (C) 2022 Geʾez Frontier Foundation
 
@@ -10,9 +10,9 @@ This is a language neutral touch (only) keyboard for mobile devices. The keyboar
 
 ## Links
 
- * Home:     <http://keyman.com/amharic>
- * Deployed: <http://keyman.com/keyboards/gff_mesob>
- * Help:     <http://help.keyman.com/keyboard/gff_mesob>
+ * Home:     <http://ethiopic.keymankeyboards.com>
+ * Deployed: <http://keyman.com/keyboards/gff_mesobe_fidelat>
+ * Help:     <http://help.keyman.com/keyboard/gff_mesob_fidelat>
  * Contact:  <support@keyman.com>
  * Specification :  http://keyboards.ethiopic.org/specification/
  * Other Info    :  http://keyboards.ethiopic.org/ , http://unicode.org/charts/
