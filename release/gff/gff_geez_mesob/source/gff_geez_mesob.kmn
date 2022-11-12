@@ -4,8 +4,8 @@ c The Geʾez Frontier Foundation's mnemonic input method for Geʾez (Ethiopic) s
 c keyboards for SIL Keyman, compliant with Unicode 14 and later.
 c 
 c Keyman        :  http://www.keyman.com/
-c Documentation :  https://help.keyman.com/keyboard/gff_amharic/2.0/gff_amharic.php
-c Source        :  https://github.com/keymanapp/keyboards/tree/master/release/gff/gff_amharic
+c Documentation :  http://help.keyman.com/keyboard/gff_mesob_fidelat
+c Source        :  https://github.com/keymanapp/keyboards/tree/master/release/gff/gff_mesobe_fidelat
 c License       :  https://opensource.org/licenses/MIT
 c Bugs          :  https://github.com/keymanapp/keyboards/issues
 c 
@@ -13,9 +13,9 @@ c Specification :  http://keyboards.ethiopic.org/specification/
 c Other Info    :  http://keyboards.ethiopic.org/ , http://unicode.org/charts/
 c 
 store(&VERSION) '10.0'
-store(&NAME) 'Geʾez Mesob'
+store(&NAME) 'Mesobe Fidelat'
 store(&COPYRIGHT) '© 2022 Geʾez Frontier Foundation'
-store(&Message) "This is an Amharic language mnemonic input method for Ethiopic script that requires Unicode 4.1 support."
+store(&Message) "This is a language neutral mnemonic input method for Geʾez script that requires Unicode 4.1 support."
 store(&CapsAlwaysOff) '1'
 store(&LAYOUTFILE) 'gff_geez_mesob.keyman-touch-layout'
 store(&KMW_EMBEDCSS) 'gff_geez_mesob.css'

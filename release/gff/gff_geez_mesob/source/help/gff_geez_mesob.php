@@ -1,12 +1,12 @@
 ﻿<?php /*
-  Name:             Keyboard_gff_geez_mesob
+  Name:             Keyboard_gff_harege_fidelat
   Copyright:        Keyboard © 2022 The Geʾez Frontier Foundation 
   Documentation:    
   Description:      
   Create Date:      23 Oct 2022
 */
-  $pagename = 'Geʾez Mesob Keyboard Help';
-  $pagetitle = Geʾez Mesob  Keyboard Help';
+  $pagename = 'Harege Fidelat Keyboard Help';
+  $pagetitle = Harege Fidelat  Keyboard Help';
   $keymanpromourl = 'http://ethiopic.keymankeyboards.com';
   $style = <<<EXTRA
   .highlightExample {font-family: GeezWeb !important; font-weight: bold; font-size: 1.4em; color: #0000ff}
@@ -64,39 +64,39 @@ The mobile keyboard uses the “Mesob” style layout of letters where letters a
 </p>
 
 <p style="text-align: justify;">
-The Mesob layout also has the goal of providing *all* letters actively used by the languages written with Geʾez script in a single keyboard “layer”. Given the high number of letters appearing on the keyboard, it is a better fit for tablet devices than for typical mobile phones. Consider using the more compact <a href="https://github.com/keymanapp/keyboards/tree/master/release/gff/gff_mesob_halo">Mesobe Sedale Fidelat Keyboard</a> which is a similar design and fits more comfortably on the smaller mobile phone screens.
+The Mesob layout also has the goal of providing <em>all</em> letters actively used by the languages written with Geʾez script in a single keyboard “layer”. Given the high number of letters appearing on the keyboard, it is a better fit for tablet devices than for typical mobile phones. Consider using the more compact <a href="https://github.com/keymanapp/keyboards/tree/master/release/gff/gff_harege_fidelat">Harege Fidelat Keyboard</a> which is a similar design and fits more comfortably on the smaller mobile phone screens.
 </p>
 
 <div style="margin-left: 1em;">
 <h3>Letters</h3>
 <p style="text-align: justify;">
-The most frequently used letters generally appear in inner rings, and less used letter appear in the out rings. Letter appear in a semi-alphabetic arrangement in the clockwise dicrection, but not strictly so.  Some effort is made to group related letters together (related either by sound or shape).
+The most frequently used letters generally appear in the inner rings, and less used letter appear in the out rings. Letter appear in a semi-alphabetic arrangement in the clockwise direction, but not strictly so.  Some effort is made to group related letters together (related either by sound or shape).
 </p>
 
 <img src="gff_mesob-default-1.jpeg" style="border: 1px solid black;" width="500px"/>
 
 
 <p style="text-align: justify;">
-Tapping a key once, the modifier letters on the left (<code>ኡ</code>, <code>ኢ</code> <code>ኣ</code>,) and right  (<code>ኤ</code>, <code>ኦ</code>, <code>ዋ</code>) of the outer ring will update. For example, tapping <code>ገ</code> the modifiers change to <code>ጉ</code>, <code>ጊ</code>, <code>ጋ</code>, <code>ጌ</code>, <code>ጎ</code> and  <code>ጓ</code>.  If a modifier is tapped, ገ will be updated on screen and replaced with the selected letter.
+Tapping a key once, the modifier letters on the left (<code>ኡ</code>, <code>ኢ</code> <code>ኣ</code>,) and right  (<code>ኤ</code>, <code>ኦ</code>, <code>ዋ</code>) of the outer ring will update. For example, tapping <code>ገ</code>, the modifiers change to <code>ጉ</code>, <code>ጊ</code>, <code>ጋ</code>, <code>ጌ</code>, <code>ጎ</code> and  <code>ጓ</code>.  If a modifier is tapped, ገ will be updated on screen and replaced with the selected letter.
 </p>
 
 <img src="gff_mesob-default-2.jpeg" style="border: 1px solid black;" width="500px"/> 
 
 
 <p style="text-align: justify;">
-Note how the <code>ዋ</code> key changes to <code>ጓ</code>.  Tapping <code>ዋ</code> repeatedly will update <code>ጓ</code> on the screen to the related syllables: 
+Note how the <code>ዋ</code> key changes to <code>ጓ</code>.  Tapping the <code>ጓ</code> key repeatedly will update <code>ጓ</code> on the screen to the related syllables: 
  <code>ጐ</code>, <code>ጒ</code>, <code>ጔ</code> and <code>ጕ</code>. 
 </p>
 
 <p style="text-align: justify;">
-As an alternative, if preferred, holding a key down for a few moments (called a "longpress") a popup menu appears where you can tap the letter desired.  The popup menu for <code>ግ</code> is shown below:
+As an alternative, if preferred, holding a key down for a few moments (called a “longpress”) a popup menu appears where you can tap the letter desired.  The popup menu for <code>ግ</code> is shown below:
 </p>
 
 <img src="gff_mesob-default-3.jpeg" style="border: 1px solid black;" width="500px"/> 
 
 
 <p style="text-align: justify;">
-Like the letter keys, the <code>።</code> and <code>’</code> keys also have popup menus to offer the most frequently used punctuation.
+Like the letter keys, the <code>።</code> and <code>’</code> keys also have popup menus that offer the most frequently used punctuation.
 </p>
 </div>
 
@@ -125,12 +125,12 @@ Punctuation is distributed over two layers on mobile phones, and appears on a si
 <img src="gff_mesob-punctuation-1.jpeg" style="border: 1px solid black;" width="500px"/>
 
 <p style="text-align: justify;">
-Tapping the `#+€` key shifts to a 2nd layer to access all remaining punctuation:
+Tapping the `#+€` key shifts to a final layer to access all remaining punctuation:
 </p>
 <img src="gff_mesob-punctuation-2.jpeg" style="border: 1px solid black;" width="500px"/> 
 
 <p style="text-align: justify;">
-Simply tap the `ሀለሐ` key to return to the starting letters layers.
+Simply tap the `ሀለሐ` key to return to the Mesob letters layers.
 </p>
 
 </div>
@@ -140,7 +140,7 @@ Simply tap the `ሀለሐ` key to return to the starting letters layers.
 <h2>Tablet Layout &amp; Layers</h2>
 
 <p style="text-align: justify;">
-The Mesob tablet layout is identical to the mobile phone layout with the exception of a single punctuation layer used, which takes advantage of the greater space available.  The larger punctuation layer is shown in the following image:
+The Mesob tablet layout is <em>identical</em> to the mobile phone layout with the exception that a single punctuation layer is used. The single takes advantage of the greater screen space available.  The larger punctuation layer is shown in the following image:
 </p>
 
 <img src="gff_mesob-tablet-punctuation-1.jpeg" style="border: 1px solid black;" width="500px"/>
