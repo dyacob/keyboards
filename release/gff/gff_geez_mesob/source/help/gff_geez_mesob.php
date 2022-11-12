@@ -1,12 +1,12 @@
 ﻿<?php /*
-  Name:             Keyboard_gff_harege_fidelat
+  Name:             Keyboard_gff_mesobe_fidelat
   Copyright:        Keyboard © 2022 The Geʾez Frontier Foundation 
   Documentation:    
   Description:      
   Create Date:      23 Oct 2022
 */
-  $pagename = 'Harege Fidelat Keyboard Help';
-  $pagetitle = Harege Fidelat  Keyboard Help';
+  $pagename = 'Mesobe Fidelat Keyboard Help';
+  $pagetitle = 'Mesobe Fidelat Keyboard Help';
   $keymanpromourl = 'http://ethiopic.keymankeyboards.com';
   $style = <<<EXTRA
   .highlightExample {font-family: GeezWeb !important; font-weight: bold; font-size: 1.4em; color: #0000ff}
