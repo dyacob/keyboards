@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Package>
   <System>
-    <KeymanDeveloperVersion>15.0.271.0</KeymanDeveloperVersion>
+    <KeymanDeveloperVersion>15.0.272.0</KeymanDeveloperVersion>
     <FileVersion>7.0</FileVersion>
   </System>
   <Options>
@@ -104,23 +104,69 @@
       <CopyLocation>0</CopyLocation>
       <FileType>.ttf</FileType>
     </File>
+    <File>
+      <Name>help\images\gff_mesob_halo-default-1.jpeg</Name>
+      <Description>File gff_mesob_halo-default-1.jpeg</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.jpeg</FileType>
+    </File>
+    <File>
+      <Name>help\images\gff_mesob_halo-default-2.jpeg</Name>
+      <Description>File gff_mesob_halo-default-2.jpeg</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.jpeg</FileType>
+    </File>
+    <File>
+      <Name>help\images\gff_mesob_halo-default-3.jpeg</Name>
+      <Description>File gff_mesob_halo-default-3.jpeg</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.jpeg</FileType>
+    </File>
+    <File>
+      <Name>help\images\gff_mesob_halo-numerals-1.jpeg</Name>
+      <Description>File gff_mesob_halo-numerals-1.jpeg</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.jpeg</FileType>
+    </File>
+    <File>
+      <Name>help\images\gff_mesob_halo-punctuation-1.jpeg</Name>
+      <Description>File gff_mesob_halo-punctuation-1.jpeg</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.jpeg</FileType>
+    </File>
   </Files>
   <Keyboards>
     <Keyboard>
-      <Name>Geʾez mesob_halo</Name>
+      <Name>Geʾez Mesob-Halo</Name>
       <ID>gff_geez_mesob_halo</ID>
       <Version>1.0</Version>
       <OSKFont>..\..\..\shared\fonts\sil\abyssinica\AbyssinicaSIL-Regular.ttf</OSKFont>
       <DisplayFont>..\..\..\shared\fonts\sil\abyssinica\AbyssinicaSIL-Regular.ttf</DisplayFont>
       <Languages>
         <Language ID="am">Amharic</Language>
-        <Language ID="gez">Geez</Language>
-        <Language ID="ti">Tigrinya</Language>
-        <Language ID="sgw">Sebat Bet Gurage</Language>
-        <Language ID="byn">Bilin</Language>
-        <Language ID="tig">Tigre</Language>
+        <Language ID="agj">Argobba</Language>
         <Language ID="awn">Awngi</Language>
-        <Language ID="und-Ethi">Undetermined (Ethiopic)</Language>
+        <Language ID="bst">Basketo</Language>
+        <Language ID="byn">Bilin</Language>
+        <Language ID="mdx">Dizin</Language>
+        <Language ID="drs">Gedeo</Language>
+        <Language ID="gez">Geez</Language>
+        <Language ID="amf">Hamer-Banna</Language>
+        <Language ID="har">Harari</Language>
+        <Language ID="ior">Inor</Language>
+        <Language ID="ktb">Kambaata</Language>
+        <Language ID="gru">Kistane</Language>
+        <Language ID="kxc">Konso</Language>
+        <Language ID="mvz">Mesqan</Language>
+        <Language ID="ahg">Qimant</Language>
+        <Language ID="sgw">Sebat Bet Gurage</Language>
+        <Language ID="sid">Sidamo</Language>
+        <Language ID="stv">Silt'e</Language>
+        <Language ID="tig">Tigre</Language>
+        <Language ID="ti">Tigrinya</Language>
+        <Language ID="xan">Xamtanga</Language>
+        <Language ID="jnj">Yemsa</Language>
+        <Language ID="zwa">Zay</Language>
       </Languages>
     </Keyboard>
   </Keyboards>

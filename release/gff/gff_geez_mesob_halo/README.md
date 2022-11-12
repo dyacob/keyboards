@@ -8,7 +8,7 @@ This is a language neutral touch (only) keyboard for mobile devices.  The keyboa
 
 ## Links
 
- * Home:     <http://keyman.com/amharic>
+ * Home:     <http://ethiopic.keymankeyboards.com>
  * Deployed: <http://keyman.com/keyboards/gff_harege_fidelat>
  * Help:     <http://help.keyman.com/keyboard/gff_harege_fidelat>
  * Contact:  <support@keyman.com>
@@ -25,7 +25,7 @@ This is a language neutral touch (only) keyboard for mobile devices.  The keyboa
 
 The mobile keyboard uses the “Mesob” style layout of letters where letters are arranged in a series of 4 rings.  Modifier keys that will change the vowel of a letter appear in the outer most ring. 
 
-The Mesob layout also has the goal of providing *all* letters actively used by the languages written with Geʾez script in a single keyboard “layer”. Given the high number of letters appearing on the keyboard, it is a better fit for tablet devices than for typical mobile phones. Consider using the more compact [Mesobe Fidelat Keyboard](https://github.com/keymanapp/keyboards/tree/master/release/gff/gff_mesobe_fidelat) which is a similar design and fits more comfortably on the smaller mobile phone screens.
+The Mesob layout also has the goal of providing *all* letters actively used b the languages written with Geʾez script in a single keyboard “layer”. Given the high number of letters appearing on the keyboard, it is a better fit for larger size mobile phones.   Consider using the more compact [GFF Amharic Keyboard](https://github.com/keymanapp/keyboards/tree/master/release/gff/gff_amharic) for regular sized mobile phones.
 
 ### Letters
 
