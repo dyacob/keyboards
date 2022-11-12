@@ -29,7 +29,7 @@ The Mesob layout also has the goal of providing *all* letters actively used b th
 
 ### Letters
 
-The most frequently used letters generally appear in inner rings, and less used letter appear in the out rings. Letters appear in a semi-alphabetic arrangement in the clockwise direction, but not strictly so.  Some effort is made to group related letters together (related either by sound or shape).
+The most frequently used letters generally appear in inner rings, and less used letters appear in the out rings. Letters are arranged in a semi-alphabetic arrangement in the clockwise direction, but not strictly so.  Some effort is made to group related letters together (related either by sound or shape).
 
 <img src="source/help/images/gff_mesob_halo-default-1.jpeg" style="border: 1px solid black;"/>
 
