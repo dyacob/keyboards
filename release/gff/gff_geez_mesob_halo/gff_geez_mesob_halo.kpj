@@ -86,5 +86,45 @@
       <FileType>.ttf</FileType>
       <ParentFileID>id_bafdf9f7b8fc0032b41d8ac0555739ac</ParentFileID>
     </File>
+    <File>
+      <ID>id_913c0593dcd760398807d15fb875210d</ID>
+      <Filename>gff_mesob_halo-default-1.jpeg</Filename>
+      <Filepath>source\help\images\gff_mesob_halo-default-1.jpeg</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.jpeg</FileType>
+      <ParentFileID>id_bafdf9f7b8fc0032b41d8ac0555739ac</ParentFileID>
+    </File>
+    <File>
+      <ID>id_b9c9d5748b464c9fe266e761235ea3bf</ID>
+      <Filename>gff_mesob_halo-default-2.jpeg</Filename>
+      <Filepath>source\help\images\gff_mesob_halo-default-2.jpeg</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.jpeg</FileType>
+      <ParentFileID>id_bafdf9f7b8fc0032b41d8ac0555739ac</ParentFileID>
+    </File>
+    <File>
+      <ID>id_b4f73ef0fee7688f44ced0ca912fdf27</ID>
+      <Filename>gff_mesob_halo-default-3.jpeg</Filename>
+      <Filepath>source\help\images\gff_mesob_halo-default-3.jpeg</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.jpeg</FileType>
+      <ParentFileID>id_bafdf9f7b8fc0032b41d8ac0555739ac</ParentFileID>
+    </File>
+    <File>
+      <ID>id_f043f55796ec36c5d5987a0742c1588a</ID>
+      <Filename>gff_mesob_halo-numerals-1.jpeg</Filename>
+      <Filepath>source\help\images\gff_mesob_halo-numerals-1.jpeg</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.jpeg</FileType>
+      <ParentFileID>id_bafdf9f7b8fc0032b41d8ac0555739ac</ParentFileID>
+    </File>
+    <File>
+      <ID>id_9b7b70218efa3605d4cb69fc82bf9b9a</ID>
+      <Filename>gff_mesob_halo-punctuation-1.jpeg</Filename>
+      <Filepath>source\help\images\gff_mesob_halo-punctuation-1.jpeg</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.jpeg</FileType>
+      <ParentFileID>id_bafdf9f7b8fc0032b41d8ac0555739ac</ParentFileID>
+    </File>
   </Files>
 </KeymanDeveloperProject>

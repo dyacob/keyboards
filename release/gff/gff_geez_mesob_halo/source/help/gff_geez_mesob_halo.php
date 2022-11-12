@@ -46,7 +46,7 @@ code {
 <div id='Overview'>
 <h2>Overview</h2>
 <p style="text-align: justify;">
-This is a language neutral touch (only) keyboard for mobile devices.  The keyboard provides all Ethiopic letters in active use on a single layer in circular, semi-clockwise orientation.  It is meant be intuitive for new typist, but supports faster typing for experienced typist compared to the similar <a href="https://keyman.com/keyboards/gff_mesobe_fidelat">Mesobe Fidelat Keyboard </a> keyboard.
+This is a language neutral touch (only) keyboard for mobile devices.  The keyboard provides all Ethiopic letters in active use on a single layer in circular, semi-clockwise orientation.  It is meant be intuitive for new typist, but supports faster typing for experienced typist compared to the similar <a href="https://keyman.com/keyboards/gff_mesobe_fidelat">Mesobe Fidelat Keyboard</a> keyboard.
 </p>
 </div>
 
@@ -61,7 +61,7 @@ The mobile keyboard uses the “Mesob” style layout of letters where letters a
 </p>
 
 <p style="text-align: justify;">
-The Mesob layout also has the goal of providing *all* letters actively used b the languages written with Geʾez script in a single keyboard “layer”. Given the high number of letters appearing on the keyboard, it is a better fit for larger size mobile phones.   Consider using the more compact <a href="https://keyman.com/keyboards/gff_amharic/">GFF Amharic Keyboard for regular sized mobile phones.
+The Mesob layout also has the goal of providing *all* letters actively used b the languages written with Geʾez script in a single keyboard “layer”. Given the high number of letters appearing on the keyboard, it is a better fit for larger size mobile phones.   Consider using the more compact <a href="https://keyman.com/keyboards/gff_amharic/">GFF Amharic Keyboard</a> for regular sized mobile phones.
 </p>
 
 
@@ -132,7 +132,8 @@ their products.</p>
 <div id="Related">
 <h3>Related Keyboard Layouts</h3>
 <p>Keyboard Layouts for other Ethiopic languages:</p>
-<p><a href="/go?language=ethiopic&amp;keyboard=Keyboard_gff_awn_7">Awngi</a><br/>
+<p><a href="/go?language=ethiopic&amp;keyboard=Keyboard_gff_amharic">Amharic</a><br/>
+<a href="/go?language=ethiopic&amp;keyboard=Keyboard_gff_awn_7">Awngi</a><br/>
 <a href="/go?language=ethiopic&amp;keyboard=Keyboard_gff_bcq_7">Bench</a><br/>
 <a href="/go?language=ethiopic&amp;keyboard=Keyboard_gff_blin">Blin</a><br/>
 <a href="/go?language=ethiopic&amp;keyboard=Keyboard_gff_mdx_7">Dizi</a><br/>
