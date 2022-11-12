@@ -74,7 +74,7 @@ The most frequently used letters generally appear in inner rings, and less used 
 <img src="images/gff_mesob_halo-default-1.jpeg" style="border: 1px solid black;"/>
 
 <p style="text-align: justify;">
-Tapping a key once enters it on to the screen in the 6th (ሳድስ) form and a “halo” appears of the related letters. Tapping a related letter will update the first letter, or tap the 6th letter again to go back to the starting keyboard. 
+Tapping a key once enters it on to the screen in the 6th (ሳድስ) form and a “halo” appears on the keyboard of the related letters. Tapping a related letter will update the first letter, or tap the 6th letter again to go back to the starting keyboard. 
 </p>
 
 <img src="images/gff_mesob_halo-default-2.jpeg" style="border: 1px solid black;"/>
