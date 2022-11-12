@@ -67,7 +67,7 @@ The Mesob layout also has the goal of providing <em>all</em> letters actively us
 <div style="margin-left: 1em;">
 <h4>Letters</h4>
 <p style="text-align: justify;">
-The most frequently used letters generally appear in the inner rings, and less used letter appear in the out rings. Letter appear in a semi-alphabetic arrangement in the clockwise direction, but not strictly so.  Some effort is made to group related letters together (related either by sound or shape).
+The most frequently used letters generally appear in the inner rings, and less used letters appear in the out rings. Letters are arranged in a semi-alphabetic arrangement in the clockwise direction, but not strictly so.  Some effort is made to group related letters together (related either by sound or shape).
 </p>
 
 <img src="gff_mesob-default-1.jpeg" style="border: 1px solid black;" width="500px"/>
