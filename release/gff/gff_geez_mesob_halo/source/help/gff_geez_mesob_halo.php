@@ -61,7 +61,7 @@ The mobile keyboard uses the “Mesob” style layout of letters where letters a
 </p>
 
 <p style="text-align: justify;">
-The Mesob layout also has the goal of providing *all* letters actively used b the languages written with Geʾez script in a single keyboard “layer”. Given the high number of letters appearing on the keyboard, it is a better fit for larger size mobile phones.   Consider using the more compact <a href="https://keyman.com/keyboards/gff_amharic/">GFF Amharic Keyboard</a> for regular sized mobile phones.
+The Mesob layout also has the goal of providing <em>all</em> letters actively used b the languages written with Geʾez script in a single keyboard “layer”. Given the high number of letters appearing on the keyboard, it is a better fit for larger size mobile phones.   Consider using the more compact <a href="https://keyman.com/keyboards/gff_amharic/">GFF Amharic Keyboard</a> for regular sized mobile phones.
 </p>
 
 
