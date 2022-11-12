@@ -9,8 +9,8 @@ This is a language neutral touch (only) keyboard for mobile devices.  The keyboa
 ## Links
 
  * Home:     <http://keyman.com/amharic>
- * Deployed: <http://keyman.com/keyboards/gff_geez_starburst>
- * Help:     <http://help.keyman.com/keyboard/gff_geez_starburst>
+ * Deployed: <http://keyman.com/keyboards/gff_harege_fidelat>
+ * Help:     <http://help.keyman.com/keyboard/gff_harege_fidelat>
  * Contact:  <support@keyman.com>
  * Specification :  http://keyboards.ethiopic.org/specification/
  * Other Info    :  http://keyboards.ethiopic.org/ , http://unicode.org/charts/
@@ -29,7 +29,7 @@ The Mesob layout also has the goal of providing *all* letters actively used by t
 
 ### Letters
 
-The most frequently used letters generally appear in inner rings, and less used letter appear in the out rings. Letter appear in a semi-alphabetic arrangement in the clockwise dicrection, but not strictly so.  Some effort is made to group related letters together (related either by sound or shape).
+The most frequently used letters generally appear in inner rings, and less used letter appear in the out rings. Letter appear in a semi-alphabetic arrangement in the clockwise direction, but not strictly so.  Some effort is made to group related letters together (related either by sound or shape).
 
 <img src="source/help/images/gff_mesob_halo-default-1.jpeg" style="border: 1px solid black;"/>
 

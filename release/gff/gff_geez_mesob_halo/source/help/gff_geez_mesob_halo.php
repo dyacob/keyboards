@@ -1,12 +1,12 @@
 ﻿<?php /*
-  Name:             Keyboard_gff_geez_mesob
+  Name:             Keyboard_gff_harege_fidelat
   Copyright:        Keyboard © 2022 The Geʾez Frontier Foundation 
   Documentation:    
   Description:      
   Create Date:      23 Oct 2022
 */
-  $pagename = 'Geʾez Mesob Keyboard Help';
-  $pagetitle = Geʾez Mesob  Keyboard Help';
+  $pagename = 'Harege Fidelat Keyboard Help';
+  $pagetitle = 'Harege Fidelat Keyboard Help';
   $keymanpromourl = 'http://ethiopic.keymankeyboards.com';
   $style = <<<EXTRA
   .highlightExample {font-family: GeezWeb !important; font-weight: bold; font-size: 1.4em; color: #0000ff}
@@ -37,8 +37,6 @@ code {
 <a style='margin-left:20px' href="#Quickstart">Quickstart</a><br/>
 <a style='margin-left:20px' href="#Examples">Examples</a><br/>
 <a style='margin-left:20px' href="#Documentation">Keyboard Details</a><br/>
-<a style='margin-left:30px' target="_blank" href='AmharicTyping-English.pdf'>Complete Typing Chart - English</a><br/>
-<a style='margin-left:30px' target="_blank" href='AmharicTyping-Amharic.pdf'>Complete Typing Chart - Amharic</a><br/>
 <a href="#Troubleshooting">Troubleshooting</a><br/>
 <a href="#Resources">Further Resources</a><br/>
 <a style='margin-left:20px' href="#Related">Related Keyboard Layouts</a><br/>
@@ -64,14 +62,14 @@ The mobile keyboard uses the “Mesob” style layout of letters where letters a
 </p>
 
 <p style="text-align: justify;">
-The Mesob layout also has the goal of providing *all* letters actively used by the languages written with Geʾez script in a single keyboard “layer”. Given the high number of letters appearing on the keyboard, it is a better fit for tablet devices than for typical mobile phones. Consider using the more compact <a href="https://github.com/keymanapp/keyboards/tree/master/release/gff/gff_mesobe_fidelat">Mesobe Fidelat Keyboard</a> which is a similar design and fits more comfortably on the smaller mobile phone screens.
+The Mesob layout also has the goal of providing <em>all</em> letters actively used by the languages written with Geʾez script in a single keyboard “layer”. Given the high number of letters appearing on the keyboard, it is a better fit for tablet devices than for typical mobile phones. Consider using the more compact <a href="https://github.com/keymanapp/keyboards/tree/master/release/gff/gff_mesobe_fidelat">Mesobe Fidelat Keyboard</a> which is a similar design and fits more comfortably on the smaller mobile phone screens.
 </p>
 
 
 <div style="margin-left: 1em;">
 <h3>Letters</h3>
 <p style="text-align: justify;">
-The most frequently used letters generally appear in inner rings, and less used letter appear in the out rings. Letter appear in a semi-alphabetic arrangement in the clockwise dicrection, but not strictly so.  Some effort is made to group related letters together (related either by sound or shape).
+The most frequently used letters generally appear in inner rings, and less used letter appear in the out rings. Letter appear in a semi-alphabetic arrangement in the clockwise direction, but not strictly so.  Some effort is made to group related letters together (related either by sound or shape).
 </p>
 
 <img src="images/gff_mesob_halo-default-1.jpeg" style="border: 1px solid black;"/>
