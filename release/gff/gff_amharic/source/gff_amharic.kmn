@@ -14,7 +14,7 @@ c Other Info    :  http://keyboards.ethiopic.org/ , http://unicode.org/charts/
 c 
 store(&VERSION) '15.0'
 store(&NAME) 'አማርኛ (Amharic)'
-store(&COPYRIGHT) '© 2009-2023 Geʾez Frontier Foundation'
+store(&COPYRIGHT) '© 2009-2024 Geʾez Frontier Foundation'
 store(&Message) "This is an Amharic language mnemonic input method for Ethiopic script that requires Unicode 4.1 support."
 store(&CapsAlwaysOff) '1'
 store(&HotKey) '[CTRL ALT K_A]'
@@ -147,7 +147,7 @@ c =====================End Data Section=========================================
 
 c =====================Begin Functional Section=================================================
 c 
-store(&KEYBOARDVERSION) '3.1.1'
+store(&KEYBOARDVERSION) '3.2'
 
   begin Unicode > use(main)
   group(main) using keys
@@ -311,6 +311,7 @@ c
 c The only dead key for entry of special characters and
 c to handle the ge'ez + lone vowel problem:  ግእዝ and not ገዝ
 c 
+  '፡' + "'" > ':'  deadkey(2)
   any(ሳድስ)      + "'" > index(ሳድስ,1) deadkey(1)
 $keymanonly: any(ሳድስ) + [CTRL ' '] > index(ሳድስ,1) deadkey(1)
   any(ካዕብ፡መደበኛ) + "'" > index(ካዕብ፡መደበኛ,1) deadkey(1)
