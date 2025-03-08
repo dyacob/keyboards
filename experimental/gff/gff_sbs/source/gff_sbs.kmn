@@ -236,10 +236,13 @@ any(AsciiNumbers) '.' + ' ' > context(1) '' ' '
 
 c Digraphs from keyboards
 
+c base layer
 + [T_CH] > ''
 + [T_DH] > ''
 + [T_SH] > ''
 + [T_NY] > ''
+
+c higher layer
 + [T_TS] > ''
 + [T_ZY] > ''
 + [T_AX] > ''
