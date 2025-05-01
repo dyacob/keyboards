@@ -1,0 +1,9 @@
+﻿store(&NAME) 'Uno Latin'
+store(&TARGETS) 'iphone ipad androidphone androidtablet mobile'
+store(&KEYBOARDVERSION) '0.1'
+store(&COPYRIGHT) 'Ge' U+0027 'ez Fontier Foundation'
+store(&LAYOUTFILE) 'gff_uno_latin.keyman-touch-layout'
+begin Unicode > use(main)
+
+group(main) using keys
+
