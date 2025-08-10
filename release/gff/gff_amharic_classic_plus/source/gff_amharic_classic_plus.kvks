@@ -2,10 +2,12 @@
 <visualkeyboard>
   <header>
     <version>10.0</version>
-    <kbdname>gff_amharic_classic2</kbdname>
-    <flags/>
+    <kbdname>gff_amharic_classic_plus</kbdname>
+    <flags>
+      <displayunderlying/>
+    </flags>
   </header>
-  <encoding name="unicode" fontname="Arial" fontsize="-12">
+  <encoding name="unicode" fontname="Abyssinica SIL" fontsize="-12">
     <layer shift="S">
       <key vkey="K_SPACE">፡</key>
       <key vkey="K_3">#</key>
@@ -45,7 +47,16 @@
       <key vkey="K_X">ሽ</key>
       <key vkey="K_Y">ይ</key>
       <key vkey="K_Z">ዥ</key>
-      <key vkey="K_HYPHEN">፟</key>
+      <key vkey="K_BKQUOTE">~</key>
+      <key vkey="K_1">!</key>
+      <key vkey="K_6">^</key>
+      <key vkey="K_7">&amp;</key>
+      <key vkey="K_8">*</key>
+      <key vkey="K_HYPHEN">_</key>
+      <key vkey="K_QUOTE">"</key>
+      <key vkey="K_LBRKT">{</key>
+      <key vkey="K_RBRKT">}</key>
+      <key vkey="K_BKSLASH">|</key>
     </layer>
     <layer shift="">
       <key vkey="K_QUOTE">'</key>
@@ -90,6 +101,11 @@
       <key vkey="K_X">ሽ</key>
       <key vkey="K_Y">ይ</key>
       <key vkey="K_Z">ዝ</key>
+      <key vkey="K_EQUAL">=</key>
+      <key vkey="K_BKQUOTE">`</key>
+      <key vkey="K_LBRKT">[</key>
+      <key vkey="K_RBRKT">]</key>
+      <key vkey="K_BKSLASH">\</key>
     </layer>
   </encoding>
 </visualkeyboard>
