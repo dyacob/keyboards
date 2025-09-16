@@ -230,6 +230,8 @@ The first order letter is a sensible longress default option as it is the most /
 1st and 4th order may also be available using flicks or multitaps, another default key can be set to the 4th must
 frequently occurring letter in the target language.
 
+![Longpress for 6-member family](gff_amharic_classic-phone-default-በ-longpress.jpeg)
+
 ### Longresses on Keys with Alternatives
 When a key also supports an alternative entry letter, such as “ሥ” on the “ስ” key, the family members of alternative
 letter should also be made available from the longpress pop-up menu. Ideally, the two letter families will appear
@@ -243,7 +245,7 @@ and help maintain the separation of letter families across the two rows.  The 6t
 family may be set as the default selection which offers a neutral starting point for selecting the desired letter
 from the pop-up offerings.
 
-[screenshot example]
+![Longpress for key with alternatives](gff_amharic_classic-phone-default-ሰ-longpress.jpeg)
 
 When a key supports an alternative entry letter, and the primary letter is in 12-member family, the longpress should
 present the 6 basic family members on the first row (sans the 6th order) and the 5 extended members on the upper
@@ -252,6 +254,10 @@ ordering) entry on the upper row.  Selecting the alternative member from the lon
 respective layer.
 
 ![Longpress for 12-member family](../source/welcome/gff_amharic_classic-phone-default-3.jpeg)
+
+### Longresses on Numeral Keys
+
+### Longresses on Punctuation Keys
 
 ### Longress on Returning vs Non-Returning Layered Composition Approaches
 
