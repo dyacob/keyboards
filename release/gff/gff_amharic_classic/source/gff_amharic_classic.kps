@@ -251,6 +251,11 @@ Every key also supports “multitaps” to making typing even faster.  See the h
       <ID>gff_amharic_classic</ID>
       <Languages>
         <Language ID="am">Amharic</Language>
+        <Language ID="byn">Bilin</Language>
+        <Language ID="awn">Awngi</Language>
+        <Language ID="ahg">Qimant</Language>
+        <Language ID="ti">Tigrinya</Language>
+        <Language ID="xan">Xamtanga</Language>
       </Languages>
     </Keyboard>
   </Keyboards>

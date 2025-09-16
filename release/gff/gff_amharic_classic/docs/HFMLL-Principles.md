@@ -82,18 +82,18 @@ Although the user is expected to be highly experienced with the layout, the hint
 overcome the phenomenon of “screen blindness” and minor disorientation with the mobile platform.
 
 The GFF Keyboards will apply the underlying key as the hint in a QWERTY based layout. Additionally, the associated uppercase
-and alternative letter is also indicated in the hint. For example “ጥ”, typed with uppercase “T” will be the hint on the 
-“ት” key. Similarly, “ቕ” becomes the hint on the “ቅ” key. Phonetic alternative letters (e.g. “ኅ”, “ሥ”,  “ፅ” ) will also 
+and alternative letter is also indicated in the hint. For example “ጥ”, typed with uppercase “T” will be the hint on the
+“ት” key. Similarly, “ቕ” becomes the hint on the “ቅ” key. Phonetic alternative letters (e.g. “ኅ”, “ሥ”,  “ፅ” ) will also
 appear in the hint position so the  user is aware that the letters can be input from the indicated key without having to hunt around
 for them (often with a double-strike or longpress).  Applying both the underlying key and the associated  letter presents a
 “crowding” in the space above the key cap letter, and may even overlap with it.  For this reason, not more than 2 characters
 are applied in the hint.  Thus, “ሕ ” and “ጽ”, both entered with a `shift`, do not appear in the hint on their respective keys,
-“ህ” and “ስ” respectively. If all associated letters were applied in the hint, the hint for “ህ” would become “ሕኅH” and for “ስ” 
+“ህ” and “ስ” respectively. If all associated letters were applied in the hint, the hint for “ህ” would become “ሕኅH” and for “ስ”
 would be the even more extreme “ፅጽሥS”. Once in the shifted state, the “ጽ” can be more practically hinted with “ፅS”.
 
-**Note:** Keyman mobile keyboards provide the option to display the underlying keys in the top-left corner of a keycap. 
+**Note:** Keyman mobile keyboards provide the option to display the underlying keys in the top-left corner of a keycap.
 This is helpful in that it reduces the labor needed to populate the same letters as hints. The underlying key appearing
-in the opposite-side corner from the hint, has the benefit of alleviating the crowding problem that occurs when a 
+in the opposite-side corner from the hint, has the benefit of alleviating the crowding problem that occurs when a
 hint and underlying key appear in the same corner.
 
 However, in some cases the
@@ -128,7 +128,7 @@ As a general rule in Ethiopic keyboards, flicks should not have the side effect 
 of flicks is the avoidance of a layer change.  However, in some special cases that will be reviewed here, flicks can be used
 advantageously to affect a layer change when they would otherwise be more laborious to perform.
 
-A challenge when designing a keyboard for the Ethiopic scripts, and other writing systems that are larger than Latin, is 
+A challenge when designing a keyboard for the Ethiopic scripts, and other writing systems that are larger than Latin, is
 arranging the keys needed for normal composition within the constraints of available screen space, while not making
 the keys smaller than the average person's finger-tip size. Despite increasing screen resolutions, keys that are too small
 will make the keyboard unusable, thus a practical limit exists for the number of keys that can be presented across a row
@@ -141,11 +141,11 @@ such as “ለ” for the family of “ለ”, “ሉ”, “ሊ”, “ላ”, 
 layer. Given the space limitations on the keyboard, it is difficult to add a special key whose function is simply
 to return to the starting layer, without sacrificing another key on the screen for this purpose. A key that by itself would
 have no purpose on the starting layer. To conserve valuable layout space, the keyboard designer is driven to avoid adding
-a special key for this purpose, or temporarily hijacking an existing key to serve this role. The recommendations in the 
+a special key for this purpose, or temporarily hijacking an existing key to serve this role. The recommendations in the
 following subsections will describe how where flicks can be used to support the return-to-start requirement.
 
 ### Flicks on Regular Keys
-On keys that are associated with a *single* letter family, such as “ለ” for the family of “ለ, ሉ, ሊ, ላ, ሌ, ል, ሎ, and ሏ”, 
+On keys that are associated with a *single* letter family, such as “ለ” for the family of “ለ, ሉ, ሊ, ላ, ሌ, ል, ሎ, and ሏ”,
 only the “south” flick is defined and follows the “General Rule” stated earlier.  The letter displayed on the keycap
 is entered, and visible layer *does not* change.
 
@@ -224,14 +224,14 @@ discussed in the following.
 On regular keys, of letters having 7 or 8 family members, the longpress menu should present all family members,
 as used by the target language of the keyboard, save for the 6th order letter which appears on the key itself
 and is available by a simple press. The letters should appear in-order so as to make them easy to locate and
-select.  
+select.
 
-The first order letter is a sensible longress default option as it is the most frequently used. However, since the
+The first order letter is a sensible longress default option as it is the most /frequently used. However, since the
 1st and 4th order may also be available using flicks or multitaps, another default key can be set to the 4th must
 frequently occurring letter in the target language.
 
 ### Longresses on Keys with Alternatives
-When a key also supports an alternative entry letter, such as “ሥ” on the “ስ” key, the family members of alternative 
+When a key also supports an alternative entry letter, such as “ሥ” on the “ስ” key, the family members of alternative
 letter should also be made available from the longpress pop-up menu. Ideally, the two letter families will appear
 on separate rows, where the primary letter family will reside on the lower row, and the alternatives on an upper
 (further to reach) row.
@@ -239,19 +239,19 @@ on separate rows, where the primary letter family will reside on the lower row, 
 Unlike the regular keys, the longpress menu must present the 6th order family member of alternative letter which is
 otherwise unavailable. Doing so creates unbalanced rows, where an upper row may have 8 cells and the lower row 7.
 In this scenario, the 6th order letter of the primary family should also be made available to balance the rows
-and help maintain the separation of letter families across the two rows.  The 6th order letter of the primary 
+and help maintain the separation of letter families across the two rows.  The 6th order letter of the primary
 family may be set as the default selection which offers a neutral starting point for selecting the desired letter
 from the pop-up offerings.
 
 [screenshot example]
 
-When a key supports an alternative entry letter, and the primary letter is in 12-member family, the longpress should 
+When a key supports an alternative entry letter, and the primary letter is in 12-member family, the longpress should
 present the 6 basic family members on the first row (sans the 6th order) and the 5 extended members on the upper
 row (lesser used and so may be more distant), along with the 6th order alternative letter as the final (left-to-right
 ordering) entry on the upper row.  Selecting the alternative member from the longpress should also change to its
 respective layer.
 
-[screenshot example]
+![Longpress for 12-member family](../source/welcome/gff_amharic_classic-phone-default-3.jpeg)
 
 ### Longress on Returning vs Non-Returning Layered Composition Approaches
 

@@ -8,7 +8,9 @@ Copyright © Geʾez Frontier Foundation
 This is an Amharic (amh, አማርኛ) language mnemonic input method for mobile platforms designed in the
 style of English “QWERTY” layout as found on iPhones and iPads.
 The package should *only* be installed on mobile and tablet devices.
-The keyboard is also suitable for Tigirnya and Agew languages such as Awngi, Blin, and Khimtanga.
+The keyboard is also suitable for Tigrinya and Agew languages such as Awngi, Blin, and Khimtanga.
+
+If you are seeking an Amharic keyboard for a laptop, desktop, or workstation computer, please use [GFF Amharic](https://keyman.com/keyboards/gff_amharic) instead.
 
 ### Keyboard Initial State
 The keyboard begins in the familiar layout used on English (Latin Alphabet) keyboards:
@@ -22,18 +24,17 @@ The keyboard updates as you type.  For example, this is the keyboard change afte
 ### Keyboard Shifted State
 Just as with English keyboards, the SHIFT key makes more letters appear:
 
-![Mobile Shifted Layer](https://raw.githubusercontent.com/dyacob/keyboards/04490307acc0c70e6a461e1b936f58430ce6a104/release/gff/gff_amharic_classic/source/welcome/gff_amharic_classic-phone-shift-1.jpeg)
+![Mobile Shifted Layer](https://raw.githubusercontent.com/dyacob/keyboards/dd93e9c1c09bc8488afbac0e08aac82244ea4701/release/gff/gff_amharic_classic/source/images/gff_amharic_classic-phone-shift-1-920w.jpeg)
 
 ### Flick Typing
-Every key supports "flicking" to making typing even faster.  See the help file for full details.
+Every key supports “flicking” to making typing even faster.  See the help file for full details.
 
-![Flick typing](https://raw.githubusercontent.com/dyacob/keyboards/27e82ec2db42dfb44d5944b574f9d3fb0be187a7/release/gff/gff_amharic_classic/source/welcome/gff_amharic_classic-phone-flick-typing-1.png)
+![Flick typing](https://raw.githubusercontent.com/dyacob/keyboards/dd93e9c1c09bc8488afbac0e08aac82244ea4701/release/gff/gff_amharic_classic/source/images/gff_amharic_classic-phone-flick-typing-1-432w.png)
 
 ### Multitap Typing
-Every key also supports "multitaps" to making typing even faster.  See the help file for full details.
+Every key also supports “multitaps” to making typing even faster.  See the help file for full details.
 
-![Multitap typing](https://raw.githubusercontent.com/dyacob/keyboards/27e82ec2db42dfb44d5944b574f9d3fb0be187a7/release/gff/gff_amharic_classic/source/welcome/gff_amharic_classic-phone-multitap-typing-1.png)
-
+![Multitap typing](https://raw.githubusercontent.com/dyacob/keyboards/dd93e9c1c09bc8488afbac0e08aac82244ea4701/release/gff/gff_amharic_classic/source/images/gff_amharic_classic-phone-multitap-typing-1-432w.png)
 
 
 ## Technical Note
