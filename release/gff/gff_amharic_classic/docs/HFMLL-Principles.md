@@ -277,3 +277,6 @@ instead of 10 that would otherwise be necessary.
 ## Haptic
 Thoughts on haptic feedback, mostly for errors or unavailable input keys?  It may not be applicable if the layer
 is designed to avoid errors, etc.
+
+## Styling
+Thoughts on CSS styling.
