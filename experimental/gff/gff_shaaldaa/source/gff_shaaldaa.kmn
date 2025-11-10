@@ -1,30 +1,30 @@
 ﻿c =====================Begin Identity Section===================================================
 c 
-c This is a Sheek Bakrii Saphalo script Qubee Latin based input method. They keyboard is designed
+c This is a Shaaldaa script Qubee Latin based input method. They keyboard is designed
 c to work with the [Sheek Bakrii Saphalo](https://github.com/athinkra/sheek-bakrii-saphaloo) font (v1.x) which in turn
 c encodes the script under Unicode's Private Use Area (PUA).
 c 
 c Keyman        :  http://www.keyman.com/
-c Documentation :  https://help.keyman.com/keyboard/gff_sbs/1.0/gff_sbs.php
-c Source        :  https://github.com/keymanapp/keyboards/experimenta/gff/gff_sbs
+c Documentation :  https://help.keyman.com/keyboard/gff_shaaldaa/1.1/gff_shaaldaa.php
+c Source        :  https://github.com/keymanapp/keyboards/experimenta/gff/gff_shaaldaa
 c License       :  https://opensource.org/licenses/MIT
 c Bugs          :  https://github.com/keymanapp/keyboards/issues
 c
 store(&Version) '15.0'
-store(&KEYBOARDVERSION) '1.0.8'
-store(&NAME) 'Sheek Bakrii Saphaloo'
+store(&KEYBOARDVERSION) '1.1'
+store(&NAME) 'Shaaldaa'
 store(&COPYRIGHT) '© Geʾez Frontier Foundation'
-store(&Message) 'This is a Sheek Bakrii Saphalo script keyboard that applies Latin Qubee rules of typing. It requires the included Sheek Bakrii Saphaloo font.'
+store(&Message) 'This is a Shaaldaa script keyboard that applies Latin Qubee rules of typing. It requires the included Sheek Bakrii Saphaloo font.'
 store(&CapsAlwaysOff) '1'
 store(&HotKey) '[CTRL ALT K_B]'
-store(&VISUALKEYBOARD) 'gff_sbs.kvks'
+store(&VISUALKEYBOARD) 'gff_shaaldaa.kvks'
 store(&TARGETS) 'windows macosx linux'
-store(&BITMAP) 'gff_sheik-bakri-sapalo-qubee.ico'
+store(&BITMAP) 'gff_shaaldaa.ico'
 c 
 c =====================End Identity Section=====================================================
 
-store(BakriSapalo) ' ' U+E000 .. U+E317
-store(BakriSapaloLetters) U+E000 .. U+E317
+store(Shaaldaa) ' ' U+E000 .. U+E317
+store(ShaaldaaLetters) U+E000 .. U+E317
 
 store(Base) '*'
 store(ShortA) 'Aa'
@@ -87,7 +87,7 @@ store(GeminatedPharyngealShortVowels) ''
 store(GeminatedPharyngealLongVowels) ''
 
 store(AsciiNumbers) '0123456789'
-store(BakriSapaloNumbers) '' 
+store(ShaaldaaNumbers) '' 
 
 
 begin Unicode > use(main)
@@ -188,7 +188,7 @@ c Vowels and Slash Rules
 '' deadkey(2) + "'" > '' "'"
 
 deadkey(1) + "'" > "'"
-any(BakriSapaloLetters) + "'" > context(1) deadkey(1)
+any(ShaaldaaLetters) + "'" > context(1) deadkey(1)
 
 
 + any(VowelKeys) > index(GlottalShortVowels,1)
@@ -221,10 +221,10 @@ any(PharyngealLongVowels) + any(X_Modifier) > index(GeminatedPharyngealLongVowel
 
 '' + '.' > '.'
 '' + any(AsciiNumbers) > '.' index(AsciiNumbers,2)
-any(BakriSapalo) + '.' > context(1) ''
+any(Shaaldaa) + '.' > context(1) ''
 any(AsciiNumbers) '.' + ' ' > context(1) '' ' '
 
 + ':'     > ''
 '' + ':' > ''
 '#' + any(AsciiNumbers) >  index(AsciiNumbers,2)
-+ any(AsciiNumbers) > index(BakriSapaloNumbers,1)
++ any(AsciiNumbers) > index(ShaaldaaNumbers,1)

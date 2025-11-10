@@ -26,8 +26,8 @@
         <Location>psmelStartMenu</Location>
       </Item>
       <Item>
-        <Name>SBS Keyboard Manual</Name>
-        <FileName>SBS-Typing-English.pdf</FileName>
+        <Name>Shaaldaa Keyboard Manual</Name>
+        <FileName>Shaaldaa-Typing-English.pdf</FileName>
         <Arguments></Arguments>
         <Icon></Icon>
         <Location>psmelStartMenu</Location>
@@ -65,20 +65,20 @@ It requires the included “Athinkra: Sheek Bakrii Saphaloo” font which in tur
       <FileType>.htm</FileType>
     </File>
     <File>
-      <Name>..\build\gff_sbs.kvk</Name>
-      <Description>File gff_sbs.kvk</Description>
+      <Name>..\build\gff_shaaldaa.kvk</Name>
+      <Description>File gff_shaaldaa.kvk</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.kvk</FileType>
     </File>
     <File>
-      <Name>..\build\gff_sbs.kmx</Name>
+      <Name>..\build\gff_shaaldaa.kmx</Name>
       <Description>Keyboard Geʾez Manuscript</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.kmx</FileType>
     </File>
     <File>
-      <Name>SBS-Typing-English.pdf</Name>
-      <Description>File SBS-Typing-English.pdf</Description>
+      <Name>Shaaldaa-Typing-English.pdf</Name>
+      <Description>File Shaaldaa-Typing-English.pdf</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.pdf</FileType>
     </File>
@@ -116,7 +116,7 @@ It requires the included “Athinkra: Sheek Bakrii Saphaloo” font which in tur
   <Keyboards>
     <Keyboard>
       <Name>Sheek Bakrii Saphaloo</Name>
-      <ID>gff_sbs</ID>
+      <ID>gff_shaaldaa</ID>
       <Version>1.0.8</Version>
       <OSKFont>Sheek-Bakrii-Saphaloo.ttf</OSKFont>
       <DisplayFont>Sheek-Bakrii-Saphaloo.ttf</DisplayFont>
