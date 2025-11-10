@@ -1,5 +1,5 @@
-The GFF Sheek Bakrii Saphaloo Keyboard
-======================================
+The GFF Shaaldaa Keyboard
+=========================
 
 Copyright (C) Geʾez Frontier Foundation
 
@@ -20,8 +20,8 @@ recomposed on converted into the standard encoding.
 Links
 -----
 
-* Documentation :  [https://help.keyman.com/keyboard/gff_sbs/1.0.7/gff_sbs.php](https://help.keyman.com/keyboard/gff_sbs/1.0.7/gff_sbs.php)
-* Source        :  [https://github.com/keymanapp/keyboards/experimenta/gff/gff_sbs](https://github.com/keymanapp/keyboards/experimenta/gff/gff_sbs)
+* Documentation :  [https://help.keyman.com/keyboard/gff_shaaldaa/1.1/gff_shaaldaa.php](https://help.keyman.com/keyboard/gff_shaaldaa/1.1/gff_shaaldaa.php)
+* Source        :  [https://github.com/keymanapp/keyboards/experimenta/gff/gff_shaaldaa](https://github.com/keymanapp/keyboards/experimenta/gff/gff_shaaldaa)
 * License       :  [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
 * Bugs          :  [https://github.com/keymanapp/keyboards/issues](https://github.com/keymanapp/keyboards/issues)
 * Font          :  [https://github.com/raeytype/sheek-bakrii-saphaloo](https://github.com/raeytype/sheek-bakrii-saphaloo)
