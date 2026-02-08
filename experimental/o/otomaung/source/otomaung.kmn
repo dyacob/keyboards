@@ -1,0 +1,35 @@
+﻿c otomaung generated from template at 2025-02-11 18:49:05
+c with name "otomaung"
+store(&VERSION) '10.0'
+store(&NAME) 'Otomaung'
+store(&COPYRIGHT) 'Copyright © Daniel Yacob'
+store(&KEYBOARDVERSION) '1.0'
+store(&TARGETS) 'any'
+store(&BITMAP) 'otomaung.ico'
+store(&VISUALKEYBOARD) 'otomaung.kvks'
+store(&LAYOUTFILE) 'otomaung.keyman-touch-layout'
+
+begin Unicode > use(main)
+
+store(lowercase) [NCAPS K_A] .. [NCAPS K_Z]
+store(lowercaseCaps) [CAPS K_A] .. [CAPS K_Z]
+store(uppercase) [SHIFT NCAPS K_A] .. [SHIFT NCAPS K_Z]
+store(ornamental) [SHIFT CAPS K_A] .. [SHIFT CAPS K_Z]
+
+store(lowerOto) U+E000 .. U+E019      c ''
+store(upperOto) U+E020 .. U+E039      c  ''
+store(ornamentalOto) U+E040 .. U+E059 c ''
+store(numbersOto) U+E05A .. U+E063 c ''
+store(logographs) U+E064 .. U+E06F c ''
+
+store(numbers) [K_0] .. [K_9]
+
+group(main) using keys
+
++ any(lowercase) > index(lowerOto, 1)
++ any(uppercase) > index(upperOto, 1)
++ any(lowercaseCaps) > index(upperOto, 1)
++ any(ornamental) > index(ornamentalOto, 1)
+
+any(upperOto) + '*' > index(ornamentalOto, 1)  c "*" after a capital creates the ornamental
+any(numbers) + '*' > index(numbersOto, 1)      c "*" after a number creates the otomaung number
