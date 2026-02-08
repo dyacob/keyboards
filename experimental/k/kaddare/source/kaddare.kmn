@@ -1,0 +1,38 @@
+﻿store(&Version) '17.0'
+store(&KEYBOARDVERSION) '0.1'
+store(&NAME) 'Kaddare Keyboard'
+store(&COPYRIGHT) '© TBD'
+store(&Message) 'This is an experimental keyboard for the Kaddare script.'
+store(&CapsAlwaysOff) '1'
+store(&HotKey) '[CTRL ALT K_K]'
+store(&VISUALKEYBOARD) 'kaddare.kvks'
+
+
+store(KaddareUppercase) ''
+store(LatinUppercase) 'BTJXDRSCGFQKLMNWHYAEIOU'
+
+store(KaddareUpperDigraph) ''
+store(KadarreUpperDigraphCandidates) ''
+store(DigraphKeys) 'Hh'
+
+store(KaddareLowercase) ''
+store(LatinLowercase) 'btjxdrscgfqklmnwhyaeiou'
+
+store(KaddareLowerDigraph) ''
+store(KadarreLowerDigraphCandidates) ''
+store(&TARGETS) 'any'
+
+begin Unicode > use(main)
+
+group(main) using keys
+
+
+
+any(KadarreUpperDigraphCandidates) + any(DigraphKeys) > index(KaddareUpperDigraph, 1)
+
++ any(LatinUppercase) > index(KaddareUppercase, 1)
+
+any(KadarreLowerDigraphCandidates) + any(DigraphKeys) > index(KaddareLowerDigraph, 1)
+
++ any(LatinLowercase) > index(KaddareLowercase, 1)
+

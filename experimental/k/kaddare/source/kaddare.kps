@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>18.0.246.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+  </Options>
+  <StartMenu>
+    <Folder>Kaddare Keyboard</Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">Kaddare KEyboard</Name>
+    <Copyright URL="">© TBD</Copyright>
+    <Version URL="">0.1</Version>
+  </Info>
+  <Files>
+    <File>
+      <Name>Kaddare-Regular.ttf</Name>
+      <Description>Font Kaddare Book</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\build\kaddare.js</Name>
+      <Description>File kaddare.js</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>..\build\kaddare.kvk</Name>
+      <Description>File kaddare.kvk</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>..\build\kaddare.kmx</Name>
+      <Description>Keyboard Kaddare Keyboard</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <ID>kaddare</ID>
+      <OSKFont>Kaddare-Regular.ttf</OSKFont>
+      <DisplayFont>Kaddare-Regular.ttf</DisplayFont>
+      <Languages>
+        <Language ID="so-Zzzz">Somali (Code for uncoded script)</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>
