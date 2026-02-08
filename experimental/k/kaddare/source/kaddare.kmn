@@ -6,6 +6,8 @@ store(&Message) 'This is an experimental keyboard for the Kaddare script.'
 store(&CapsAlwaysOff) '1'
 store(&HotKey) '[CTRL ALT K_K]'
 store(&VISUALKEYBOARD) 'kaddare.kvks'
+store(&LAYOUTFILE) 'kaddare.keyman-touch-layout'
+store(&TARGETS) 'any'
 
 
 store(KaddareUppercase) ''
@@ -20,7 +22,9 @@ store(LatinLowercase) 'btjxdrscgfqklmnwhyaeiou'
 
 store(KaddareLowerDigraph) ''
 store(KadarreLowerDigraphCandidates) ''
-store(&TARGETS) 'any'
+
+store(UnassignedLatinKeys) 'PVZpvz'
+
 
 begin Unicode > use(main)
 
@@ -36,3 +40,13 @@ any(KadarreLowerDigraphCandidates) + any(DigraphKeys) > index(KaddareLowerDigrap
 
 + any(LatinLowercase) > index(KaddareLowercase, 1)
 
++ any(UnassignedLatinKeys) > beep
+
++ [T_DH] > ''
++ [SHIFT T_DH] > ''
+
++ [T_KH] > ''
++ [SHIFT T_KH] > ''
+
++ [T_SH] > ''
++ [SHIFT T_SH] > ''
