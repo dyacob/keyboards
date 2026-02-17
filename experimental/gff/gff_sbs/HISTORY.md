@@ -1,8 +1,4 @@
-# gff_shaaldaa Change History
-
-## 2026-02-15 version 1.1.0
-* migration to the provisional Unicode range, U+1C800 - U+1CB2B
-* `gff_sbs` renamed `gff_shaaldaa`
+# gff_sbs Change History
 
 ## 2025-02-20 vesion 1.0.8
 * Put OSKFont from .kps file into .kvks file
