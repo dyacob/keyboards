@@ -40,54 +40,54 @@ store(LongO) 'Oo'
 
 
 store(H_Modifier) 'Hh'
-store(H_DigraphBases) ''
-store(H_DigraphTargets) ''
-store(H_DigraphTargetsGeminated) ''
+store(H_DigraphBases) '𜩋𜡓𜫃𜥛'
+store(H_DigraphTargets) '𜩻𜨛𜪓𜧓'
+store(H_DigraphTargetsGeminated) '𜪇𜨧𜪟𜧟'
 store(Y_Modifier) 'Yy'
-store(Y_DigraphBases) ''
-store(Y_DigraphTargets) ''
-store(Y_DigraphTargetsGeminated) ''
+store(Y_DigraphBases) '𜥃𜢛'
+store(Y_DigraphTargets) '𜩣𜫳'
+store(Y_DigraphTargetsGeminated) '𜩯𜫿'
 store(X_Modifier) 'Xx'
-store(X_DigraphBases) ''
-store(X_DigraphTargets) ''
-store(X_DigraphTargetsGeminated) ''
+store(X_DigraphBases) '𜡫𜥛𜣻𜠋'
+store(X_DigraphTargets) '𜢳𜦋𜨃𜪫'
+store(X_DigraphTargetsGeminated) '𜢿𜦗𜨏𜪷'
 
 store(S_Modifier) 'Ss'
 
 
 store(QubeeKeys) 'bjdhwzxyklmnsfqrtgcpv'
 store(QubeeKeysUpper) 'BJDHWZXYKLMNSFQRTGCPV'
-store(OrdersConsonantsRegular) ''
-store(OrdersConsonantsGeminated) ''
+store(OrdersConsonantsRegular) '𜠣𜠻𜡓𜡫𜢃𜢛𜣋𜣣𜣻𜤓𜤫𜥃𜥛𜥳𜦣𜦻𜧫𜨳𜩋𜫃𜫛'
+store(OrdersConsonantsGeminated) '𜠯𜡇𜡟𜡷𜢏𜢧𜣗𜣯𜤇𜤟𜤷𜥏𜥧𜥿𜦯𜧇𜧷𜨿𜩗𜫏𜫧'
 
-store(OrdersBase) ''
-store(OrdersShortA) ''
-store(OrdersShortU) ''
-store(OrdersShortI) ''
-store(OrdersShortE) ''
-store(OrdersShortO) ''
-store(OrdersLongA) ''
-store(OrdersLongU) ''
-store(OrdersLongI) ''
-store(OrdersLongE) ''
-store(OrdersLongO) ''
-store(OrdersConsonant) ''
+store(OrdersBase) '𜠘𜠤𜠰𜠼𜡈𜡔𜡠𜡬𜡸𜢄𜢐𜢜𜢨𜢴𜣀𜣌𜣘𜣤𜣰𜣼𜤈𜤔𜤠𜤬𜤸𜥄𜥐𜥜𜥨𜥴𜦀𜦌𜦘𜦤𜦰𜦼𜧈𜧔𜧠𜧬𜧸𜨄𜨐𜨜𜨨𜨴𜩀𜩌𜩘𜩤𜩰𜩼𜪈𜪔𜪠𜪬𜪸𜫄𜫐𜫜𜫨𜫴𜬀𜬌'
+store(OrdersShortA) '𜠙𜠥𜠱𜠽𜡉𜡕𜡡𜡭𜡹𜢅𜢑𜢝𜢩𜢵𜣁𜣍𜣙𜣥𜣱𜣽𜤉𜤕𜤡𜤭𜤹𜥅𜥑𜥝𜥩𜥵𜦁𜦍𜦙𜦥𜦱𜦽𜧉𜧕𜧡𜧭𜧹𜨅𜨑𜨝𜨩𜨵𜩁𜩍𜩙𜩥𜩱𜩽𜪉𜪕𜪡𜪭𜪹𜫅𜫑𜫝𜫩𜫵𜬁𜬍'
+store(OrdersShortU) '𜠚𜠦𜠲𜠾𜡊𜡖𜡢𜡮𜡺𜢆𜢒𜢞𜢪𜢶𜣂𜣎𜣚𜣦𜣲𜣾𜤊𜤖𜤢𜤮𜤺𜥆𜥒𜥞𜥪𜥶𜦂𜦎𜦚𜦦𜦲𜦾𜧊𜧖𜧢𜧮𜧺𜨆𜨒𜨞𜨪𜨶𜩂𜩎𜩚𜩦𜩲𜩾𜪊𜪖𜪢𜪮𜪺𜫆𜫒𜫞𜫪𜫶𜬂𜬎'
+store(OrdersShortI) '𜠛𜠧𜠳𜠿𜡋𜡗𜡣𜡯𜡻𜢇𜢓𜢟𜢫𜢷𜣃𜣏𜣛𜣧𜣳𜣿𜤋𜤗𜤣𜤯𜤻𜥇𜥓𜥟𜥫𜥷𜦃𜦏𜦛𜦧𜦳𜦿𜧋𜧗𜧣𜧯𜧻𜨇𜨓𜨟𜨫𜨷𜩃𜩏𜩛𜩧𜩳𜩿𜪋𜪗𜪣𜪯𜪻𜫇𜫓𜫟𜫫𜫷𜬃𜬏'
+store(OrdersShortE) '𜠜𜠨𜠴𜡀𜡌𜡘𜡤𜡰𜡼𜢈𜢔𜢠𜢬𜢸𜣄𜣐𜣜𜣨𜣴𜤀𜤌𜤘𜤤𜤰𜤼𜥈𜥔𜥠𜥬𜥸𜦄𜦐𜦜𜦨𜦴𜧀𜧌𜧘𜧤𜧰𜧼𜨈𜨔𜨠𜨬𜨸𜩄𜩐𜩜𜩨𜩴𜪀𜪌𜪘𜪤𜪰𜪼𜫈𜫔𜫠𜫬𜫸𜬄𜬐'
+store(OrdersShortO) '𜠝𜠩𜠵𜡁𜡍𜡙𜡥𜡱𜡽𜢉𜢕𜢡𜢭𜢹𜣅𜣑𜣝𜣩𜣵𜤁𜤍𜤙𜤥𜤱𜤽𜥉𜥕𜥡𜥭𜥹𜦅𜦑𜦝𜦩𜦵𜧁𜧍𜧙𜧥𜧱𜧽𜨉𜨕𜨡𜨭𜨹𜩅𜩑𜩝𜩩𜩵𜪁𜪍𜪙𜪥𜪱𜪽𜫉𜫕𜫡𜫭𜫹𜬅𜬑'
+store(OrdersLongA) '𜠞𜠪𜠶𜡂𜡎𜡚𜡦𜡲𜡾𜢊𜢖𜢢𜢮𜢺𜣆𜣒𜣞𜣪𜣶𜤂𜤎𜤚𜤦𜤲𜤾𜥊𜥖𜥢𜥮𜥺𜦆𜦒𜦞𜦪𜦶𜧂𜧎𜧚𜧦𜧲𜧾𜨊𜨖𜨢𜨮𜨺𜩆𜩒𜩞𜩪𜩶𜪂𜪎𜪚𜪦𜪲𜪾𜫊𜫖𜫢𜫮𜫺𜬆𜬒'
+store(OrdersLongU) '𜠟𜠫𜠷𜡃𜡏𜡛𜡧𜡳𜡿𜢋𜢗𜢣𜢯𜢻𜣇𜣓𜣟𜣫𜣷𜤃𜤏𜤛𜤧𜤳𜤿𜥋𜥗𜥣𜥯𜥻𜦇𜦓𜦟𜦫𜦷𜧃𜧏𜧛𜧧𜧳𜧿𜨋𜨗𜨣𜨯𜨻𜩇𜩓𜩟𜩫𜩷𜪃𜪏𜪛𜪧𜪳𜪿𜫋𜫗𜫣𜫯𜫻𜬇𜬓'
+store(OrdersLongI) '𜠠𜠬𜠸𜡄𜡐𜡜𜡨𜡴𜢀𜢌𜢘𜢤𜢰𜢼𜣈𜣔𜣠𜣬𜣸𜤄𜤐𜤜𜤨𜤴𜥀𜥌𜥘𜥤𜥰𜥼𜦈𜦔𜦠𜦬𜦸𜧄𜧐𜧜𜧨𜧴𜨀𜨌𜨘𜨤𜨰𜨼𜩈𜩔𜩠𜩬𜩸𜪄𜪐𜪜𜪨𜪴𜫀𜫌𜫘𜫤𜫰𜫼𜬈𜬔'
+store(OrdersLongE) '𜠡𜠭𜠹𜡅𜡑𜡝𜡩𜡵𜢁𜢍𜢙𜢥𜢱𜢽𜣉𜣕𜣡𜣭𜣹𜤅𜤑𜤝𜤩𜤵𜥁𜥍𜥙𜥥𜥱𜥽𜦉𜦕𜦡𜦭𜦹𜧅𜧑𜧝𜧩𜧵𜨁𜨍𜨙𜨥𜨱𜨽𜩉𜩕𜩡𜩭𜩹𜪅𜪑𜪝𜪩𜪵𜫁𜫍𜫙𜫥𜫱𜫽𜬉𜬕'
+store(OrdersLongO) '𜠢𜠮𜠺𜡆𜡒𜡞𜡪𜡶𜢂𜢎𜢚𜢦𜢲𜢾𜣊𜣖𜣢𜣮𜣺𜤆𜤒𜤞𜤪𜤶𜥂𜥎𜥚𜥦𜥲𜥾𜦊𜦖𜦢𜦮𜦺𜧆𜧒𜧞𜧪𜧶𜨂𜨎𜨚𜨦𜨲𜨾𜩊𜩖𜩢𜩮𜩺𜪆𜪒𜪞𜪪𜪶𜫂𜫎𜫚𜫦𜫲𜫾𜬊𜬖'
+store(OrdersConsonant) '𜠣𜠯𜠻𜡇𜡓𜡟𜡫𜡷𜢃𜢏𜢛𜢧𜢳𜢿𜣋𜣗𜣣𜣯𜣻𜤇𜤓𜤟𜤫𜤷𜥃𜥏𜥛𜥧𜥳𜥿𜦋𜦗𜦣𜦯𜦻𜧇𜧓𜧟𜧫𜧷𜨃𜨏𜨛𜨧𜨳𜨿𜩋𜩗𜩣𜩯𜩻𜪇𜪓𜪟𜪫𜪷𜫃𜫏𜫛𜫧𜫳𜫿𜬋𜬗'
 
 
 store(VowelKeys) 'auieo'
-store(GlottalShortVowels)'' 
-store(GlottalLongVowels) ''
-store(GeminatedGlottalShortVowels) '' 
-store(GeminatedGlottalLongVowels) ''
+store(GlottalShortVowels)'𜠁𜠂𜠃𜠄𜠅' 
+store(GlottalLongVowels) '𜠆𜠇𜠈𜠉𜠊'
+store(GeminatedGlottalShortVowels) '𜠍𜠎𜠏𜠐𜠑' 
+store(GeminatedGlottalLongVowels) '𜠒𜠓𜠔𜠕𜠖'
 
 store(VowelKeysUppercase) 'AUIEO'
-store(PharyngealShortVowels) ''
-store(PharyngealLongVowels) ''
-store(GeminatedPharyngealShortVowels) ''
-store(GeminatedPharyngealLongVowels) ''
+store(PharyngealShortVowels) '𜪡𜪢𜪣𜪤𜪥'
+store(PharyngealLongVowels) '𜪦𜪧𜪨𜪩𜪪'
+store(GeminatedPharyngealShortVowels) '𜪭𜪮𜪯𜪰𜪱'
+store(GeminatedPharyngealLongVowels) '𜪲𜪳𜪴𜪵𜪶'
 
 store(AsciiNumbers) '0123456789'
-store(ShaaldaaNumbers) '' 
+store(ShaaldaaNumbers) '𜬠𜬡𜬢𜬣𜬤𜬥𜬦𜬧𜬨𜬩' 
 
 
 begin Unicode > use(main)
@@ -108,55 +108,55 @@ any(OrdersShortE)    + any(LongE)  > index(OrdersLongE,1)
 any(OrdersShortO)    + any(LongO)  > index(OrdersLongO,1)
 
 c Gemination
-'' + 'b' > ''
-'' + 'B' > ''
-'' + 'j' > ''
-'' + 'J' > ''
-'' + 'd' > ''
-'' + 'D' > ''
-'' + 'h' > ''
-'' + 'H' > ''
-'' + 'w' > ''
-'' + 'W' > ''
-'' + 'z' > ''
-'' + 'Z' > ''
-'' + 'x' > ''
-'' + 'X' > ''
-'' + 'y' > ''
-'' + 'Y' > ''
-'' + 'k' > ''
-'' + 'K' > ''
-'' + 'l' > ''
-'' + 'L' > ''
-'' + 'm' > ''
-'' + 'M' > ''
-'' + 'n' > ''
-'' + 'N' > ''
-'' + 's' > ''
-'' + 'S' > ''
-'' + 'f' > ''
-'' + 'F' > ''
-'' + 'q' > ''
-'' + 'Q' > ''
-'' + 'r' > ''
-'' + 'R' > ''
-'' + 't' > ''
-'' + 'T' > ''
-'' + 'g' > ''
-'' + 'G' > ''
-'' + 'c' > ''
-'' + 'C' > ''
-'' + 'p' > ''
-'' + 'P' > ''
-'' + 'v' > ''
-'' + 'V' > ''
+'𜠣' + 'b' > '𜠯'
+'𜠣' + 'B' > '𜠯'
+'𜠻' + 'j' > '𜡇'
+'𜠻' + 'J' > '𜡇'
+'𜡓' + 'd' > '𜡟'
+'𜡓' + 'D' > '𜡟'
+'𜡫' + 'h' > '𜡷'
+'𜡫' + 'H' > '𜡷'
+'𜢃' + 'w' > '𜢏'
+'𜢃' + 'W' > '𜢏'
+'𜢛' + 'z' > '𜢧'
+'𜢛' + 'Z' > '𜢧'
+'𜣋' + 'x' > '𜣗'
+'𜣋' + 'X' > '𜣗'
+'𜣣' + 'y' > '𜣯'
+'𜣣' + 'Y' > '𜣯'
+'𜣻' + 'k' > '𜤇'
+'𜣻' + 'K' > '𜤇'
+'𜤓' + 'l' > '𜤟'
+'𜤓' + 'L' > '𜤟'
+'𜤫' + 'm' > '𜤷'
+'𜤫' + 'M' > '𜤷'
+'𜥃' + 'n' > '𜥏'
+'𜥃' + 'N' > '𜥏'
+'𜥛' + 's' > '𜥧'
+'𜥛' + 'S' > '𜥧'
+'𜥳' + 'f' > '𜥿'
+'𜥳' + 'F' > '𜥿'
+'𜦣' + 'q' > '𜦯'
+'𜦣' + 'Q' > '𜦯'
+'𜦻' + 'r' > '𜧇'
+'𜦻' + 'R' > '𜧇'
+'𜧫' + 't' > '𜧷'
+'𜧫' + 'T' > '𜧷'
+'𜨳' + 'g' > '𜨿'
+'𜨳' + 'G' > '𜨿'
+'𜩋' + 'c' > '𜩗'
+'𜩋' + 'C' > '𜩗'
+'𜫃' + 'p' > '𜫏'
+'𜫃' + 'P' > '𜫏'
+'𜫛' + 'v' > '𜫧'
+'𜫛' + 'V' > '𜫧'
 
 
 c
 c Qubee Dachaa
 c
 any(H_DigraphBases) + any(H_Modifier)  > index(H_DigraphTargets,1)
-'' + any(S_Modifier)  > ''
+'𜧫' + any(S_Modifier)  > '𜬋'
 any(X_DigraphBases) + any(X_Modifier)  > index(X_DigraphTargets,1)
 any(Y_DigraphBases) + any(Y_Modifier)  > index(Y_DigraphTargets,1)
 
@@ -164,67 +164,67 @@ c
 c Geminated Qubee Dachaa (repeat the modifier letter)
 c
 any(H_DigraphTargets) + any(H_Modifier) > index(H_DigraphTargetsGeminated,1)
-'' + any(S_Modifier)  > ''
+'𜬋' + any(S_Modifier)  > '𜬗'
 any(X_DigraphTargets) + any(X_Modifier) > index(X_DigraphTargetsGeminated,1)
 any(Y_DigraphTargets) + any(Y_Modifier) > index(Y_DigraphTargetsGeminated,1)
 
 
 
 c Vowels and Slash Rules
-+ '*' > ''
-'' + '*' > ''
-'' + 'x' > '' 
-'' + "'" > '' deadkey(2)
-'' + "'" > '' deadkey(2)
-'' deadkey(2) + "'" > '' "'"
-'' deadkey(2) + "'" > '' "'"
++ '*' > '𜠀'
+'𜠀' + '*' > '𜠌'
+'𜠀' + 'x' > '𜠌' 
+'𜠁' + "'" > '𜠋' deadkey(2)
+'𜠍' + "'" > '𜠗' deadkey(2)
+'𜠋' deadkey(2) + "'" > '𜠁' "'"
+'𜠗' deadkey(2) + "'" > '𜠍' "'"
 
-'' + '*' > ''  c A*
-'' + '*' > ''  c Ax*
-'' + "'" > '' deadkey(2)
-'' + "'" > '' deadkey(2)
+'𜪡' + '*' > '𜪠'  c A*
+'𜪭' + '*' > '𜪬'  c Ax*
+'𜪡' + "'" > '𜪫' deadkey(2)
+'𜪭' + "'" > '𜪷' deadkey(2)
 
-'' deadkey(2) + "'" > '' "'"
-'' deadkey(2) + "'" > '' "'"
+'𜪫' deadkey(2) + "'" > '𜪡' "'"
+'𜪷' deadkey(2) + "'" > '𜪭' "'"
 
 deadkey(1) + "'" > "'"
 any(ShaaldaaLetters) + "'" > context(1) deadkey(1)
 
 
 + any(VowelKeys) > index(GlottalShortVowels,1)
-'' + 'a' > ''
-'' + 'u' > ''
-'' + 'i' > ''
-'' + 'e' > ''
-'' + 'o' > ''
+'𜠁' + 'a' > '𜠆'
+'𜠂' + 'u' > '𜠇'
+'𜠃' + 'i' > '𜠈'
+'𜠄' + 'e' > '𜠉'
+'𜠅' + 'o' > '𜠊'
 
-'' + 'a' > ''
-'' + 'u' > ''
-'' + 'i' > ''
-'' + 'e' > ''
-'' + 'o' > ''
+'𜠍' + 'a' > '𜠒'
+'𜠎' + 'u' > '𜠓'
+'𜠏' + 'i' > '𜠔'
+'𜠐' + 'e' > '𜠕'
+'𜠑' + 'o' > '𜠖'
 
 any(GlottalShortVowels) + any(X_Modifier) > index(GeminatedGlottalShortVowels,1)
 any(GlottalLongVowels) + any(X_Modifier) > index(GeminatedGlottalLongVowels,1)
 
 + any(VowelKeysUppercase) > index(PharyngealShortVowels,1)
 
-'' + 'A' > ''
-'' + 'U' > ''
-'' + 'I' > ''
-'' + 'E' > ''
-'' + 'O' > ''
+'𜪡' + 'A' > '𜪦'
+'𜪢' + 'U' > '𜪧'
+'𜪣' + 'I' > '𜪨'
+'𜪤' + 'E' > '𜪩'
+'𜪥' + 'O' > '𜪪'
 
 any(PharyngealShortVowels) + any(X_Modifier) > index(GeminatedPharyngealShortVowels,1)
 any(PharyngealLongVowels) + any(X_Modifier) > index(GeminatedPharyngealLongVowels,1)
 
 
-'' + '.' > '.'
-'' + any(AsciiNumbers) > '.' index(AsciiNumbers,2)
-any(Shaaldaa) + '.' > context(1) ''
-any(AsciiNumbers) '.' + ' ' > context(1) '' ' '
+'𜬫' + '.' > '.'
+'𜬫' + any(AsciiNumbers) > '.' index(AsciiNumbers,2)
+any(Shaaldaa) + '.' > context(1) '𜬫'
+any(AsciiNumbers) '.' + ' ' > context(1) '𜬫' ' '
 
-+ ':'     > ''
-'' + ':' > ''
++ ':'     > '𜬪'
+'𜬪' + ':' > '𜬫'
 '#' + any(AsciiNumbers) >  index(AsciiNumbers,2)
 + any(AsciiNumbers) > index(ShaaldaaNumbers,1)
