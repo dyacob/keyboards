@@ -13,8 +13,8 @@ store(&Message) 'This is an experimental Mwangwego keyboard that requires a font
 store(&CapsAlwaysOff) '1'
 store(&HotKey) '[CTRL ALT K_M]'
 store(&VISUALKEYBOARD) 'athinkra_mwangwego.kvks'
-c store(&LAYOUTFILE) 'athinkra_mwangwego.keyman-touch-layout'
-c store(&KMW_EMBEDCSS) 'athinkra_mwangwego.css'
+store(&LAYOUTFILE) 'athinkra_mwangwego.keyman-touch-layout'
+store(&KMW_EMBEDCSS) 'athinkra_mwangwego.css'
 store(&BITMAP) 'athinkra_mwangwego.ico'
 
 store(ShortA) 'Aa'
