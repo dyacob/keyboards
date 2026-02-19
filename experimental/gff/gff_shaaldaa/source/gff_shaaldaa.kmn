@@ -18,7 +18,8 @@ store(&Message) 'This is a Shaaldaa script keyboard that applies Latin Qubee rul
 store(&CapsAlwaysOff) '1'
 store(&HotKey) '[CTRL ALT K_B]'
 store(&VISUALKEYBOARD) 'gff_shaaldaa.kvks'
-store(&TARGETS) 'windows macosx linux'
+store(&TARGETS) 'any'
+store(&LAYOUTFILE) 'gff_shaaldaa-touch-layout'
 store(&BITMAP) 'gff_shaaldaa.ico'
 c 
 c =====================End Identity Section=====================================================
