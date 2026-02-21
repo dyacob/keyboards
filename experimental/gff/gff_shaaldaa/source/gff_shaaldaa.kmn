@@ -21,6 +21,7 @@ store(&VISUALKEYBOARD) 'gff_shaaldaa.kvks'
 store(&TARGETS) 'any'
 store(&LAYOUTFILE) 'gff_shaaldaa-touch-layout'
 store(&BITMAP) 'gff_shaaldaa.ico'
+store(&KMW_EMBEDCSS) 'gff_shaaldaa.css'
 c 
 c =====================End Identity Section=====================================================
 
